@@ -4,9 +4,9 @@
 #Description: Setup file for installing required packages
 #######################################################################
 
+sudo -s
 echo "updating the apt-cache"
-sudo apt-get update
-echo "upgrading apt"
-sudo apt-get upgrade -y
+apt-get update
+apt-get install avrdude binutils-avr gcc-avr avr-libc gdb-avr
 
-sudo apt-get install eclipse
+apt-get install eclipse
