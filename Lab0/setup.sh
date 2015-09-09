@@ -4,6 +4,7 @@
 #Description: Setup file for installing required packages
 #######################################################################
 
+echo "entering into sudo"
 sudo -s
 echo "updating the apt-cache"
 apt-get update
