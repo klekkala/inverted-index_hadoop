@@ -1,1 +1,1 @@
-This is a repository for EIS Lab.
+#### inverted-index in implementation in python which uses hadoop framework
