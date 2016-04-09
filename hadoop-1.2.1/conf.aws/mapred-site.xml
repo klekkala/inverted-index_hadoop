@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+
+<property>
+    <name>mapred.job.tracker</name>
+    <value>172.31.3.43:54311</value>
+</property>
+<property>
+	<name>mapred.child.java.opt</name>
+	<value>-Xmx256</value>
+</property>
+<property>
+	<name>mapred.reduce.max.attempts</name>
+	<value>200</value>
+</property>
+<property>
+        <name>mapred.map.max.attempts</name>
+        <value>200</value>
+</property>
+<property> 
+  <name>mapred.max.tracker.failures</name> 
+  <value>200</value> 
+</property> 
+<property> 
+  <name>mapred.max.tracker.failures</name> 
+  <value>200</value> 
+</property> 
+<property>
+        <name>mapred.tasktracker.map.tasks.maximum</name>
+        <value>1</value>
+</property>
+
+        <property>
+                <name>mapred.tasktracker.reduce.tasks.maximum</name>
+                <value>1</value>
+        </property>
+</configuration>

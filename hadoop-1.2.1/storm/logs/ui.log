@@ -1,0 +1,4 @@
+2014-04-27 23:34:20 o.m.log [INFO] Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2014-04-27 23:34:20 o.m.log [INFO] jetty-6.1.26
+2014-04-27 23:34:20 o.m.log [INFO] Started SocketConnector@0.0.0.0:8080
+2014-04-27 23:34:31 b.s.thrift [INFO] Connecting to Nimbus at asusnotebook:6627

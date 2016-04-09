@@ -1,0 +1,282 @@
+04 Jun 2014 20:27:54,376 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.node.PollingPropertiesFileConfigurationProvider.start:61)  - Configuration provider starting
+04 Jun 2014 20:27:54,380 INFO  [conf-file-poller-0] (org.apache.flume.node.PollingPropertiesFileConfigurationProvider$FileWatcherRunnable.run:133)  - Reloading configuration file:conf/tail-conf.properties
+04 Jun 2014 20:27:54,388 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addProperty:1016)  - Processing:loggerSink
+04 Jun 2014 20:27:54,388 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addProperty:1016)  - Processing:loggerSink
+04 Jun 2014 20:27:54,388 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addProperty:930)  - Added sinks: loggerSink Agent: tailAgent
+04 Jun 2014 20:27:54,394 WARN  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.validateSources:589)  - Could not configure source  tailSource due to: Failed to configure component!
+org.apache.flume.conf.ConfigurationException: Failed to configure component!
+	at org.apache.flume.conf.source.SourceConfiguration.configure(SourceConfiguration.java:110)
+	at org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.validateSources(FlumeConfiguration.java:566)
+	at org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.isValid(FlumeConfiguration.java:345)
+	at org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.access$000(FlumeConfiguration.java:212)
+	at org.apache.flume.conf.FlumeConfiguration.validateConfiguration(FlumeConfiguration.java:126)
+	at org.apache.flume.conf.FlumeConfiguration.<init>(FlumeConfiguration.java:108)
+	at org.apache.flume.node.PropertiesFileConfigurationProvider.getFlumeConfiguration(PropertiesFileConfigurationProvider.java:193)
+	at org.apache.flume.node.AbstractConfigurationProvider.getConfiguration(AbstractConfigurationProvider.java:94)
+	at org.apache.flume.node.PollingPropertiesFileConfigurationProvider$FileWatcherRunnable.run(PollingPropertiesFileConfigurationProvider.java:140)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:304)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+Caused by: org.apache.flume.conf.ConfigurationException: No channels set for tailSource
+	at org.apache.flume.conf.source.SourceConfiguration.configure(SourceConfiguration.java:68)
+	... 15 more
+04 Jun 2014 20:27:54,397 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration.validateConfiguration:140)  - Post-validation flume configuration contains configuration for agents: [tailAgent]
+04 Jun 2014 20:27:54,397 INFO  [conf-file-poller-0] (org.apache.flume.node.AbstractConfigurationProvider.loadChannels:150)  - Creating channels
+04 Jun 2014 20:27:54,403 INFO  [conf-file-poller-0] (org.apache.flume.channel.DefaultChannelFactory.create:40)  - Creating instance of channel memoryChannel type memory
+04 Jun 2014 20:27:54,407 INFO  [conf-file-poller-0] (org.apache.flume.node.AbstractConfigurationProvider.loadChannels:205)  - Created channel memoryChannel
+04 Jun 2014 20:27:54,408 INFO  [conf-file-poller-0] (org.apache.flume.sink.DefaultSinkFactory.create:40)  - Creating instance of sink: loggerSink, type: logger
+04 Jun 2014 20:27:54,411 INFO  [conf-file-poller-0] (org.apache.flume.node.AbstractConfigurationProvider.getConfiguration:119)  - Channel memoryChannel connected to [loggerSink]
+04 Jun 2014 20:27:54,417 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:138)  - Starting new configuration:{ sourceRunners:{} sinkRunners:{loggerSink=SinkRunner: { policy:org.apache.flume.sink.DefaultSinkProcessor@5df21b01 counterGroup:{ name:null counters:{} } }} channels:{memoryChannel=org.apache.flume.channel.MemoryChannel{name: memoryChannel}} }
+04 Jun 2014 20:27:54,427 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:145)  - Starting Channel memoryChannel
+04 Jun 2014 20:27:54,465 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: CHANNEL, name: memoryChannel: Successfully registered new MBean.
+04 Jun 2014 20:27:54,465 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: CHANNEL, name: memoryChannel started
+04 Jun 2014 20:27:54,467 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:173)  - Starting Sink loggerSink
+04 Jun 2014 20:28:34,687 INFO  [agent-shutdown-hook] (org.apache.flume.lifecycle.LifecycleSupervisor.stop:79)  - Stopping lifecycle supervisor 10
+04 Jun 2014 20:28:34,692 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: CHANNEL, name: memoryChannel stopped
+04 Jun 2014 20:28:34,693 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.start.time == 1401906474465
+04 Jun 2014 20:28:34,693 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.stop.time == 1401906514692
+04 Jun 2014 20:28:34,694 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.capacity == 100
+04 Jun 2014 20:28:34,695 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.current.size == 0
+04 Jun 2014 20:28:34,695 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.put.attempt == 0
+04 Jun 2014 20:28:34,696 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.put.success == 0
+04 Jun 2014 20:28:34,696 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.take.attempt == 7
+04 Jun 2014 20:28:34,696 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.take.success == 0
+04 Jun 2014 20:28:34,697 INFO  [agent-shutdown-hook] (org.apache.flume.node.PollingPropertiesFileConfigurationProvider.stop:83)  - Configuration provider stopping
+04 Jun 2014 21:02:24,355 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.node.PollingPropertiesFileConfigurationProvider.start:61)  - Configuration provider starting
+04 Jun 2014 21:02:24,395 INFO  [conf-file-poller-0] (org.apache.flume.node.PollingPropertiesFileConfigurationProvider$FileWatcherRunnable.run:133)  - Reloading configuration file:conf/tail-conf.properties
+04 Jun 2014 21:02:24,426 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addProperty:1016)  - Processing:loggerSink
+04 Jun 2014 21:02:24,427 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addProperty:1016)  - Processing:loggerSink
+04 Jun 2014 21:02:24,427 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addProperty:930)  - Added sinks: loggerSink Agent: tailAgent
+04 Jun 2014 21:02:24,442 WARN  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.validateSources:589)  - Could not configure source  tailSource due to: Failed to configure component!
+org.apache.flume.conf.ConfigurationException: Failed to configure component!
+	at org.apache.flume.conf.source.SourceConfiguration.configure(SourceConfiguration.java:110)
+	at org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.validateSources(FlumeConfiguration.java:566)
+	at org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.isValid(FlumeConfiguration.java:345)
+	at org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.access$000(FlumeConfiguration.java:212)
+	at org.apache.flume.conf.FlumeConfiguration.validateConfiguration(FlumeConfiguration.java:126)
+	at org.apache.flume.conf.FlumeConfiguration.<init>(FlumeConfiguration.java:108)
+	at org.apache.flume.node.PropertiesFileConfigurationProvider.getFlumeConfiguration(PropertiesFileConfigurationProvider.java:193)
+	at org.apache.flume.node.AbstractConfigurationProvider.getConfiguration(AbstractConfigurationProvider.java:94)
+	at org.apache.flume.node.PollingPropertiesFileConfigurationProvider$FileWatcherRunnable.run(PollingPropertiesFileConfigurationProvider.java:140)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:304)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:744)
+Caused by: org.apache.flume.conf.ConfigurationException: No channels set for tailSource
+	at org.apache.flume.conf.source.SourceConfiguration.configure(SourceConfiguration.java:68)
+	... 15 more
+04 Jun 2014 21:02:24,449 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration.validateConfiguration:140)  - Post-validation flume configuration contains configuration for agents: [tailAgent]
+04 Jun 2014 21:02:24,449 INFO  [conf-file-poller-0] (org.apache.flume.node.AbstractConfigurationProvider.loadChannels:150)  - Creating channels
+04 Jun 2014 21:02:24,463 INFO  [conf-file-poller-0] (org.apache.flume.channel.DefaultChannelFactory.create:40)  - Creating instance of channel memoryChannel type memory
+04 Jun 2014 21:02:24,470 INFO  [conf-file-poller-0] (org.apache.flume.node.AbstractConfigurationProvider.loadChannels:205)  - Created channel memoryChannel
+04 Jun 2014 21:02:24,471 INFO  [conf-file-poller-0] (org.apache.flume.sink.DefaultSinkFactory.create:40)  - Creating instance of sink: loggerSink, type: logger
+04 Jun 2014 21:02:24,475 INFO  [conf-file-poller-0] (org.apache.flume.node.AbstractConfigurationProvider.getConfiguration:119)  - Channel memoryChannel connected to [loggerSink]
+04 Jun 2014 21:02:24,482 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:138)  - Starting new configuration:{ sourceRunners:{} sinkRunners:{loggerSink=SinkRunner: { policy:org.apache.flume.sink.DefaultSinkProcessor@3fc80fae counterGroup:{ name:null counters:{} } }} channels:{memoryChannel=org.apache.flume.channel.MemoryChannel{name: memoryChannel}} }
+04 Jun 2014 21:02:24,493 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:145)  - Starting Channel memoryChannel
+04 Jun 2014 21:02:24,530 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: CHANNEL, name: memoryChannel: Successfully registered new MBean.
+04 Jun 2014 21:02:24,530 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: CHANNEL, name: memoryChannel started
+04 Jun 2014 21:02:24,532 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:173)  - Starting Sink loggerSink
+04 Jun 2014 21:02:41,142 INFO  [agent-shutdown-hook] (org.apache.flume.lifecycle.LifecycleSupervisor.stop:79)  - Stopping lifecycle supervisor 10
+04 Jun 2014 21:02:41,146 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: CHANNEL, name: memoryChannel stopped
+04 Jun 2014 21:02:41,146 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.start.time == 1401908544530
+04 Jun 2014 21:02:41,147 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.stop.time == 1401908561146
+04 Jun 2014 21:02:41,148 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.capacity == 100
+04 Jun 2014 21:02:41,148 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.current.size == 0
+04 Jun 2014 21:02:41,149 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.put.attempt == 0
+04 Jun 2014 21:02:41,149 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.put.success == 0
+04 Jun 2014 21:02:41,149 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.take.attempt == 4
+04 Jun 2014 21:02:41,150 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.take.success == 0
+04 Jun 2014 21:02:41,150 INFO  [agent-shutdown-hook] (org.apache.flume.node.PollingPropertiesFileConfigurationProvider.stop:83)  - Configuration provider stopping
+04 Jun 2014 21:03:30,524 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.node.PollingPropertiesFileConfigurationProvider.start:61)  - Configuration provider starting
+04 Jun 2014 21:03:30,529 INFO  [conf-file-poller-0] (org.apache.flume.node.PollingPropertiesFileConfigurationProvider$FileWatcherRunnable.run:133)  - Reloading configuration file:conf/tail-conf.properties
+04 Jun 2014 21:03:30,536 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addProperty:930)  - Added sinks: flumeLogger Agent: miAgente
+04 Jun 2014 21:03:30,543 WARN  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.validateSinks:653)  - no context for sinkflumeLogger
+04 Jun 2014 21:03:30,545 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration.validateConfiguration:140)  - Post-validation flume configuration contains configuration for agents: [miAgente]
+04 Jun 2014 21:03:30,545 INFO  [conf-file-poller-0] (org.apache.flume.node.AbstractConfigurationProvider.loadChannels:150)  - Creating channels
+04 Jun 2014 21:03:30,551 INFO  [conf-file-poller-0] (org.apache.flume.channel.DefaultChannelFactory.create:40)  - Creating instance of channel memoryChannel type memory
+04 Jun 2014 21:03:30,555 INFO  [conf-file-poller-0] (org.apache.flume.node.AbstractConfigurationProvider.loadChannels:205)  - Created channel memoryChannel
+04 Jun 2014 21:03:30,556 INFO  [conf-file-poller-0] (org.apache.flume.source.DefaultSourceFactory.create:39)  - Creating instance of source testDir, type exec
+04 Jun 2014 21:03:30,583 INFO  [conf-file-poller-0] (org.apache.flume.node.AbstractConfigurationProvider.getConfiguration:119)  - Channel memoryChannel connected to [testDir]
+04 Jun 2014 21:03:30,590 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:138)  - Starting new configuration:{ sourceRunners:{testDir=EventDrivenSourceRunner: { source:org.apache.flume.source.ExecSource{name:testDir,state:IDLE} }} sinkRunners:{} channels:{memoryChannel=org.apache.flume.channel.MemoryChannel{name: memoryChannel}} }
+04 Jun 2014 21:03:30,598 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:145)  - Starting Channel memoryChannel
+04 Jun 2014 21:03:30,635 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: CHANNEL, name: memoryChannel: Successfully registered new MBean.
+04 Jun 2014 21:03:30,635 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: CHANNEL, name: memoryChannel started
+04 Jun 2014 21:03:30,636 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:184)  - Starting Source testDir
+04 Jun 2014 21:03:30,636 INFO  [lifecycleSupervisor-1-1] (org.apache.flume.source.ExecSource.start:163)  - Exec source starting with command:tail -f /tmp/test
+04 Jun 2014 21:03:30,640 INFO  [lifecycleSupervisor-1-1] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: SOURCE, name: testDir: Successfully registered new MBean.
+04 Jun 2014 21:03:30,640 INFO  [lifecycleSupervisor-1-1] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: SOURCE, name: testDir started
+04 Jun 2014 21:03:36,205 INFO  [agent-shutdown-hook] (org.apache.flume.lifecycle.LifecycleSupervisor.stop:79)  - Stopping lifecycle supervisor 10
+04 Jun 2014 21:03:36,206 INFO  [pool-3-thread-1] (org.apache.flume.source.ExecSource$ExecRunnable.run:370)  - Command [tail -f /tmp/test] exited with 130
+04 Jun 2014 21:03:36,209 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: CHANNEL, name: memoryChannel stopped
+04 Jun 2014 21:03:36,209 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.start.time == 1401908610635
+04 Jun 2014 21:03:36,210 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.stop.time == 1401908616209
+04 Jun 2014 21:03:36,211 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.capacity == 100000
+04 Jun 2014 21:03:36,211 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.current.size == 3
+04 Jun 2014 21:03:36,211 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.put.attempt == 3
+04 Jun 2014 21:03:36,212 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.put.success == 3
+04 Jun 2014 21:03:36,212 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.take.attempt == 0
+04 Jun 2014 21:03:36,213 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.take.success == 0
+04 Jun 2014 21:03:36,213 INFO  [agent-shutdown-hook] (org.apache.flume.source.ExecSource.stop:186)  - Stopping exec source with command:tail -f /tmp/test
+04 Jun 2014 21:03:36,214 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: SOURCE, name: testDir stopped
+04 Jun 2014 21:03:36,214 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: SOURCE, name: testDir. source.start.time == 1401908610640
+04 Jun 2014 21:03:36,215 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: SOURCE, name: testDir. source.stop.time == 1401908616214
+04 Jun 2014 21:03:36,215 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.append-batch.accepted == 0
+04 Jun 2014 21:03:36,216 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.append-batch.received == 0
+04 Jun 2014 21:03:36,216 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.append.accepted == 0
+04 Jun 2014 21:03:36,217 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.append.received == 0
+04 Jun 2014 21:03:36,217 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.events.accepted == 3
+04 Jun 2014 21:03:36,217 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.events.received == 3
+04 Jun 2014 21:03:36,218 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.open-connection.count == 0
+04 Jun 2014 21:03:36,218 INFO  [agent-shutdown-hook] (org.apache.flume.node.PollingPropertiesFileConfigurationProvider.stop:83)  - Configuration provider stopping
+04 Jun 2014 21:05:11,524 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.node.PollingPropertiesFileConfigurationProvider.start:61)  - Configuration provider starting
+04 Jun 2014 21:05:11,528 INFO  [conf-file-poller-0] (org.apache.flume.node.PollingPropertiesFileConfigurationProvider$FileWatcherRunnable.run:133)  - Reloading configuration file:conf/tail-conf.properties
+04 Jun 2014 21:05:11,536 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addProperty:1016)  - Processing:flumeLogger
+04 Jun 2014 21:05:11,536 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addProperty:930)  - Added sinks: flumeLogger Agent: miAgente
+04 Jun 2014 21:05:11,536 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addProperty:1016)  - Processing:flumeLogger
+04 Jun 2014 21:05:11,545 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration.validateConfiguration:140)  - Post-validation flume configuration contains configuration for agents: [miAgente]
+04 Jun 2014 21:05:11,545 INFO  [conf-file-poller-0] (org.apache.flume.node.AbstractConfigurationProvider.loadChannels:150)  - Creating channels
+04 Jun 2014 21:05:11,551 INFO  [conf-file-poller-0] (org.apache.flume.channel.DefaultChannelFactory.create:40)  - Creating instance of channel memoryChannel type memory
+04 Jun 2014 21:05:11,555 INFO  [conf-file-poller-0] (org.apache.flume.node.AbstractConfigurationProvider.loadChannels:205)  - Created channel memoryChannel
+04 Jun 2014 21:05:11,556 INFO  [conf-file-poller-0] (org.apache.flume.source.DefaultSourceFactory.create:39)  - Creating instance of source testDir, type exec
+04 Jun 2014 21:05:11,563 INFO  [conf-file-poller-0] (org.apache.flume.sink.DefaultSinkFactory.create:40)  - Creating instance of sink: flumeLogger, type: logger
+04 Jun 2014 21:05:11,565 INFO  [conf-file-poller-0] (org.apache.flume.node.AbstractConfigurationProvider.getConfiguration:119)  - Channel memoryChannel connected to [testDir, flumeLogger]
+04 Jun 2014 21:05:11,571 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:138)  - Starting new configuration:{ sourceRunners:{testDir=EventDrivenSourceRunner: { source:org.apache.flume.source.ExecSource{name:testDir,state:IDLE} }} sinkRunners:{flumeLogger=SinkRunner: { policy:org.apache.flume.sink.DefaultSinkProcessor@5dbe6544 counterGroup:{ name:null counters:{} } }} channels:{memoryChannel=org.apache.flume.channel.MemoryChannel{name: memoryChannel}} }
+04 Jun 2014 21:05:11,580 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:145)  - Starting Channel memoryChannel
+04 Jun 2014 21:05:11,617 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: CHANNEL, name: memoryChannel: Successfully registered new MBean.
+04 Jun 2014 21:05:11,617 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: CHANNEL, name: memoryChannel started
+04 Jun 2014 21:05:11,619 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:173)  - Starting Sink flumeLogger
+04 Jun 2014 21:05:11,620 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:184)  - Starting Source testDir
+04 Jun 2014 21:05:11,620 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.source.ExecSource.start:163)  - Exec source starting with command:tail -f /tmp/test
+04 Jun 2014 21:05:11,623 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: SOURCE, name: testDir: Successfully registered new MBean.
+04 Jun 2014 21:05:11,623 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: SOURCE, name: testDir started
+04 Jun 2014 21:05:15,630 INFO  [SinkRunner-PollingRunner-DefaultSinkProcessor] (org.apache.flume.sink.LoggerSink.process:70)  - Event: { headers:{} body: 70 72 75 65 62 61                               prueba }
+04 Jun 2014 21:05:15,631 INFO  [SinkRunner-PollingRunner-DefaultSinkProcessor] (org.apache.flume.sink.LoggerSink.process:70)  - Event: { headers:{} body: 70 72 75 65 62 61                               prueba }
+04 Jun 2014 21:05:15,632 INFO  [SinkRunner-PollingRunner-DefaultSinkProcessor] (org.apache.flume.sink.LoggerSink.process:70)  - Event: { headers:{} body: 70 72 75 65 62 61                               prueba }
+04 Jun 2014 21:05:16,460 INFO  [pool-3-thread-1] (org.apache.flume.source.ExecSource$ExecRunnable.run:370)  - Command [tail -f /tmp/test] exited with 130
+04 Jun 2014 21:05:16,461 INFO  [agent-shutdown-hook] (org.apache.flume.lifecycle.LifecycleSupervisor.stop:79)  - Stopping lifecycle supervisor 10
+04 Jun 2014 21:05:16,475 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: CHANNEL, name: memoryChannel stopped
+04 Jun 2014 21:05:16,476 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.start.time == 1401908711617
+04 Jun 2014 21:05:16,476 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.stop.time == 1401908716475
+04 Jun 2014 21:05:16,478 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.capacity == 100000
+04 Jun 2014 21:05:16,478 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.current.size == 0
+04 Jun 2014 21:05:16,479 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.put.attempt == 3
+04 Jun 2014 21:05:16,480 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.put.success == 3
+04 Jun 2014 21:05:16,480 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.take.attempt == 5
+04 Jun 2014 21:05:16,481 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.take.success == 3
+04 Jun 2014 21:05:16,482 INFO  [agent-shutdown-hook] (org.apache.flume.node.PollingPropertiesFileConfigurationProvider.stop:83)  - Configuration provider stopping
+04 Jun 2014 21:05:16,483 INFO  [agent-shutdown-hook] (org.apache.flume.source.ExecSource.stop:186)  - Stopping exec source with command:tail -f /tmp/test
+04 Jun 2014 21:05:16,484 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: SOURCE, name: testDir stopped
+04 Jun 2014 21:05:16,485 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: SOURCE, name: testDir. source.start.time == 1401908711623
+04 Jun 2014 21:05:16,485 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: SOURCE, name: testDir. source.stop.time == 1401908716484
+04 Jun 2014 21:05:16,486 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.append-batch.accepted == 0
+04 Jun 2014 21:05:16,487 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.append-batch.received == 0
+04 Jun 2014 21:05:16,487 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.append.accepted == 0
+04 Jun 2014 21:05:16,488 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.append.received == 0
+04 Jun 2014 21:05:16,489 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.events.accepted == 3
+04 Jun 2014 21:05:16,489 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.events.received == 3
+04 Jun 2014 21:05:16,490 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.open-connection.count == 0
+04 Jun 2014 21:11:00,935 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.node.PollingPropertiesFileConfigurationProvider.start:61)  - Configuration provider starting
+04 Jun 2014 21:11:00,940 INFO  [conf-file-poller-0] (org.apache.flume.node.PollingPropertiesFileConfigurationProvider$FileWatcherRunnable.run:133)  - Reloading configuration file:conf/tail-conf.properties
+04 Jun 2014 21:11:00,944 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addProperty:1016)  - Processing:flumeLogger
+04 Jun 2014 21:11:00,945 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addProperty:930)  - Added sinks: flumeLogger Agent: miAgente
+04 Jun 2014 21:11:00,945 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addProperty:1016)  - Processing:flumeLogger
+04 Jun 2014 21:11:00,954 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration.validateConfiguration:140)  - Post-validation flume configuration contains configuration for agents: [miAgente]
+04 Jun 2014 21:11:00,954 INFO  [conf-file-poller-0] (org.apache.flume.node.AbstractConfigurationProvider.loadChannels:150)  - Creating channels
+04 Jun 2014 21:11:00,960 INFO  [conf-file-poller-0] (org.apache.flume.channel.DefaultChannelFactory.create:40)  - Creating instance of channel memoryChannel type memory
+04 Jun 2014 21:11:00,964 INFO  [conf-file-poller-0] (org.apache.flume.node.AbstractConfigurationProvider.loadChannels:205)  - Created channel memoryChannel
+04 Jun 2014 21:11:00,965 INFO  [conf-file-poller-0] (org.apache.flume.source.DefaultSourceFactory.create:39)  - Creating instance of source testDir, type exec
+04 Jun 2014 21:11:00,973 INFO  [conf-file-poller-0] (org.apache.flume.sink.DefaultSinkFactory.create:40)  - Creating instance of sink: flumeLogger, type: logger
+04 Jun 2014 21:11:00,975 INFO  [conf-file-poller-0] (org.apache.flume.node.AbstractConfigurationProvider.getConfiguration:119)  - Channel memoryChannel connected to [testDir, flumeLogger]
+04 Jun 2014 21:11:00,981 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:138)  - Starting new configuration:{ sourceRunners:{testDir=EventDrivenSourceRunner: { source:org.apache.flume.source.ExecSource{name:testDir,state:IDLE} }} sinkRunners:{flumeLogger=SinkRunner: { policy:org.apache.flume.sink.DefaultSinkProcessor@599ab0d6 counterGroup:{ name:null counters:{} } }} channels:{memoryChannel=org.apache.flume.channel.MemoryChannel{name: memoryChannel}} }
+04 Jun 2014 21:11:00,989 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:145)  - Starting Channel memoryChannel
+04 Jun 2014 21:11:01,028 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: CHANNEL, name: memoryChannel: Successfully registered new MBean.
+04 Jun 2014 21:11:01,028 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: CHANNEL, name: memoryChannel started
+04 Jun 2014 21:11:01,030 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:173)  - Starting Sink flumeLogger
+04 Jun 2014 21:11:01,030 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:184)  - Starting Source testDir
+04 Jun 2014 21:11:01,031 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.source.ExecSource.start:163)  - Exec source starting with command:tail -f /tmp/test
+04 Jun 2014 21:11:01,034 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: SOURCE, name: testDir: Successfully registered new MBean.
+04 Jun 2014 21:11:01,034 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: SOURCE, name: testDir started
+04 Jun 2014 21:11:05,041 INFO  [SinkRunner-PollingRunner-DefaultSinkProcessor] (org.apache.flume.sink.LoggerSink.process:70)  - Event: { headers:{} body: 70 72 75 65 62 61                               prueba }
+04 Jun 2014 21:11:05,042 INFO  [SinkRunner-PollingRunner-DefaultSinkProcessor] (org.apache.flume.sink.LoggerSink.process:70)  - Event: { headers:{} body: 70 72 75 65 62 61                               prueba }
+04 Jun 2014 21:11:05,042 INFO  [SinkRunner-PollingRunner-DefaultSinkProcessor] (org.apache.flume.sink.LoggerSink.process:70)  - Event: { headers:{} body: 70 72 75 65 62 61                               prueba }
+04 Jun 2014 21:12:01,326 INFO  [SinkRunner-PollingRunner-DefaultSinkProcessor] (org.apache.flume.sink.LoggerSink.process:70)  - Event: { headers:{} body: 70 72 75 65 62 61                               prueba }
+04 Jun 2014 21:12:12,950 INFO  [agent-shutdown-hook] (org.apache.flume.lifecycle.LifecycleSupervisor.stop:79)  - Stopping lifecycle supervisor 10
+04 Jun 2014 21:12:12,950 INFO  [pool-3-thread-1] (org.apache.flume.source.ExecSource$ExecRunnable.run:370)  - Command [tail -f /tmp/test] exited with 130
+04 Jun 2014 21:12:12,953 INFO  [agent-shutdown-hook] (org.apache.flume.node.PollingPropertiesFileConfigurationProvider.stop:83)  - Configuration provider stopping
+04 Jun 2014 21:12:12,954 INFO  [agent-shutdown-hook] (org.apache.flume.source.ExecSource.stop:186)  - Stopping exec source with command:tail -f /tmp/test
+04 Jun 2014 21:12:12,955 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: SOURCE, name: testDir stopped
+04 Jun 2014 21:12:12,955 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: SOURCE, name: testDir. source.start.time == 1401909061034
+04 Jun 2014 21:12:12,956 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: SOURCE, name: testDir. source.stop.time == 1401909132955
+04 Jun 2014 21:12:12,957 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.append-batch.accepted == 0
+04 Jun 2014 21:12:12,957 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.append-batch.received == 0
+04 Jun 2014 21:12:12,957 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.append.accepted == 0
+04 Jun 2014 21:12:12,958 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.append.received == 0
+04 Jun 2014 21:12:12,958 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.events.accepted == 4
+04 Jun 2014 21:12:12,958 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.events.received == 4
+04 Jun 2014 21:12:12,959 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.open-connection.count == 0
+04 Jun 2014 21:12:12,959 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: CHANNEL, name: memoryChannel stopped
+04 Jun 2014 21:12:12,960 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.start.time == 1401909061028
+04 Jun 2014 21:12:12,960 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.stop.time == 1401909132959
+04 Jun 2014 21:12:12,960 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.capacity == 100000
+04 Jun 2014 21:12:12,961 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.current.size == 0
+04 Jun 2014 21:12:12,961 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.put.attempt == 4
+04 Jun 2014 21:12:12,961 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.put.success == 4
+04 Jun 2014 21:12:12,962 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.take.attempt == 16
+04 Jun 2014 21:12:12,962 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.take.success == 4
+04 Jun 2014 21:15:38,977 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.node.PollingPropertiesFileConfigurationProvider.start:61)  - Configuration provider starting
+04 Jun 2014 21:15:38,982 INFO  [conf-file-poller-0] (org.apache.flume.node.PollingPropertiesFileConfigurationProvider$FileWatcherRunnable.run:133)  - Reloading configuration file:conf/tail-conf.properties
+04 Jun 2014 21:15:38,987 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addProperty:1016)  - Processing:flumeLogger
+04 Jun 2014 21:15:38,987 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addProperty:930)  - Added sinks: flumeLogger Agent: miAgente
+04 Jun 2014 21:15:38,987 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addProperty:1016)  - Processing:flumeLogger
+04 Jun 2014 21:15:38,996 INFO  [conf-file-poller-0] (org.apache.flume.conf.FlumeConfiguration.validateConfiguration:140)  - Post-validation flume configuration contains configuration for agents: [miAgente]
+04 Jun 2014 21:15:38,996 INFO  [conf-file-poller-0] (org.apache.flume.node.AbstractConfigurationProvider.loadChannels:150)  - Creating channels
+04 Jun 2014 21:15:39,002 INFO  [conf-file-poller-0] (org.apache.flume.channel.DefaultChannelFactory.create:40)  - Creating instance of channel memoryChannel type memory
+04 Jun 2014 21:15:39,006 INFO  [conf-file-poller-0] (org.apache.flume.node.AbstractConfigurationProvider.loadChannels:205)  - Created channel memoryChannel
+04 Jun 2014 21:15:39,007 INFO  [conf-file-poller-0] (org.apache.flume.source.DefaultSourceFactory.create:39)  - Creating instance of source testDir, type exec
+04 Jun 2014 21:15:39,014 INFO  [conf-file-poller-0] (org.apache.flume.sink.DefaultSinkFactory.create:40)  - Creating instance of sink: flumeLogger, type: logger
+04 Jun 2014 21:15:39,016 INFO  [conf-file-poller-0] (org.apache.flume.node.AbstractConfigurationProvider.getConfiguration:119)  - Channel memoryChannel connected to [testDir, flumeLogger]
+04 Jun 2014 21:15:39,022 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:138)  - Starting new configuration:{ sourceRunners:{testDir=EventDrivenSourceRunner: { source:org.apache.flume.source.ExecSource{name:testDir,state:IDLE} }} sinkRunners:{flumeLogger=SinkRunner: { policy:org.apache.flume.sink.DefaultSinkProcessor@44175c06 counterGroup:{ name:null counters:{} } }} channels:{memoryChannel=org.apache.flume.channel.MemoryChannel{name: memoryChannel}} }
+04 Jun 2014 21:15:39,029 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:145)  - Starting Channel memoryChannel
+04 Jun 2014 21:15:39,067 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: CHANNEL, name: memoryChannel: Successfully registered new MBean.
+04 Jun 2014 21:15:39,068 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: CHANNEL, name: memoryChannel started
+04 Jun 2014 21:15:39,070 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:173)  - Starting Sink flumeLogger
+04 Jun 2014 21:15:39,070 INFO  [conf-file-poller-0] (org.apache.flume.node.Application.startAllComponents:184)  - Starting Source testDir
+04 Jun 2014 21:15:39,071 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.source.ExecSource.start:163)  - Exec source starting with command:tail -f /tmp/test
+04 Jun 2014 21:15:39,073 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: SOURCE, name: testDir: Successfully registered new MBean.
+04 Jun 2014 21:15:39,074 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: SOURCE, name: testDir started
+04 Jun 2014 21:15:43,081 INFO  [SinkRunner-PollingRunner-DefaultSinkProcessor] (org.apache.flume.sink.LoggerSink.process:70)  - Event: { headers:{} body: 70 72 75 65 62 61                               prueba }
+04 Jun 2014 21:15:43,082 INFO  [SinkRunner-PollingRunner-DefaultSinkProcessor] (org.apache.flume.sink.LoggerSink.process:70)  - Event: { headers:{} body: 70 72 75 65 62 61                               prueba }
+04 Jun 2014 21:15:43,083 INFO  [SinkRunner-PollingRunner-DefaultSinkProcessor] (org.apache.flume.sink.LoggerSink.process:70)  - Event: { headers:{} body: 70 72 75 65 62 61                               prueba }
+04 Jun 2014 21:15:43,083 INFO  [SinkRunner-PollingRunner-DefaultSinkProcessor] (org.apache.flume.sink.LoggerSink.process:70)  - Event: { headers:{} body: 70 72 75 65 62 61                               prueba }
+04 Jun 2014 21:15:43,084 INFO  [SinkRunner-PollingRunner-DefaultSinkProcessor] (org.apache.flume.sink.LoggerSink.process:70)  - Event: { headers:{} body: 70 72 75 65 62 61                               prueba }
+04 Jun 2014 21:15:45,083 INFO  [SinkRunner-PollingRunner-DefaultSinkProcessor] (org.apache.flume.sink.LoggerSink.process:70)  - Event: { headers:{} body: 70 72 75 65 62 61                               prueba }
+04 Jun 2014 21:15:45,863 INFO  [pool-3-thread-1] (org.apache.flume.source.ExecSource$ExecRunnable.run:370)  - Command [tail -f /tmp/test] exited with 130
+04 Jun 2014 21:15:45,865 INFO  [agent-shutdown-hook] (org.apache.flume.lifecycle.LifecycleSupervisor.stop:79)  - Stopping lifecycle supervisor 10
+04 Jun 2014 21:15:45,868 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: CHANNEL, name: memoryChannel stopped
+04 Jun 2014 21:15:45,869 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.start.time == 1401909339068
+04 Jun 2014 21:15:45,869 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.stop.time == 1401909345868
+04 Jun 2014 21:15:45,870 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.capacity == 100000
+04 Jun 2014 21:15:45,870 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.current.size == 0
+04 Jun 2014 21:15:45,871 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.put.attempt == 6
+04 Jun 2014 21:15:45,871 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.put.success == 6
+04 Jun 2014 21:15:45,871 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.take.attempt == 8
+04 Jun 2014 21:15:45,872 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: CHANNEL, name: memoryChannel. channel.event.take.success == 6
+04 Jun 2014 21:15:45,872 INFO  [agent-shutdown-hook] (org.apache.flume.source.ExecSource.stop:186)  - Stopping exec source with command:tail -f /tmp/test
+04 Jun 2014 21:15:45,873 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:149)  - Component type: SOURCE, name: testDir stopped
+04 Jun 2014 21:15:45,874 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:155)  - Shutdown Metric for type: SOURCE, name: testDir. source.start.time == 1401909339074
+04 Jun 2014 21:15:45,874 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:161)  - Shutdown Metric for type: SOURCE, name: testDir. source.stop.time == 1401909345873
+04 Jun 2014 21:15:45,874 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.append-batch.accepted == 0
+04 Jun 2014 21:15:45,875 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.append-batch.received == 0
+04 Jun 2014 21:15:45,875 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.append.accepted == 0
+04 Jun 2014 21:15:45,875 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.append.received == 0
+04 Jun 2014 21:15:45,876 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.events.accepted == 6
+04 Jun 2014 21:15:45,876 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.events.received == 6
+04 Jun 2014 21:15:45,876 INFO  [agent-shutdown-hook] (org.apache.flume.instrumentation.MonitoredCounterGroup.stop:177)  - Shutdown Metric for type: SOURCE, name: testDir. src.open-connection.count == 0
+04 Jun 2014 21:15:45,877 INFO  [agent-shutdown-hook] (org.apache.flume.node.PollingPropertiesFileConfigurationProvider.stop:83)  - Configuration provider stopping

@@ -1,0 +1,41 @@
+#! /bin/bash
+
+echo ""
+
+#Check if there is arguemnts
+if [ $# -ne 0 ]; then
+	#Send the apt-get update command to update repositories
+	echo "INFO: Performing apt-get update"
+	ssh -i $1 $3@$2 "sudo apt-get update -y"
+	echo "INFO: apt-get update done"
+	echo ""
+	echo ""
+
+	#Send the recipe file to execute
+	echo "INFO: Sending recipe file"
+	scp -i $1 recipe $3@$2:/home/$3
+	echo "INFO: Env var file sent"
+	echo ""
+	echo ""
+
+	#Execute the recipe file
+	echo "INFO: Executing installation script recipe"
+	ssh -i $1 $3@$2 "sudo /home/$3/recipe"
+	echo "INFO: Installation script executed"
+
+	#Sourcing the bashrc
+	echo "INFO: Sourcing environment variables"
+	ssh -i $1 $3@$2 "source /home/$3/.bashrc"
+	echo "INFO: Sourcing completed"
+
+	#Final message
+	echo "INFO: All operations completed"
+	echo ""
+	echo ""
+else
+	echo "ERROR: Not enough arguments"
+	echo ""
+	echo "Usage:"
+	echo "configure-node [identity-file.pem] [target-ip] [user]"
+	echo ""
+fi

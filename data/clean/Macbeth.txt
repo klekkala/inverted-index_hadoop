@@ -1,0 +1,3668 @@
+Macbeth.txt 0   project gutenbergs etext   shakespeares first folio
+Macbeth.txt 1   tragedie   macbeth
+Macbeth.txt 2 
+Macbeth.txt 3       3rd edition   most   these plays  see   index
+Macbeth.txt 4 
+Macbeth.txt 5 
+Macbeth.txt 6 copyright laws   changing   over   world   sure   check
+Macbeth.txt 7   copyright laws     country before posting these files
+Macbeth.txt 8 
+Macbeth.txt 9 please take   look     important information     header
+Macbeth.txt 10   encourage     keep   file     own disk keeping an
+Macbeth.txt 11 electronic path open     next readers      remove  
+Macbeth.txt 12 
+Macbeth.txt 13 
+Macbeth.txt 14 welcome     world   free plain vanilla electronic texts
+Macbeth.txt 15 
+Macbeth.txt 16 etexts readable   both humans     computers since 1971
+Macbeth.txt 17 
+Macbeth.txt 18 these etexts prepared   hundreds   volunteers   donations
+Macbeth.txt 19 
+Macbeth.txt 20 information   contacting project gutenberg   get etexts  
+Macbeth.txt 21 further information   included below    need   donations
+Macbeth.txt 22 
+Macbeth.txt 23 
+Macbeth.txt 24   tragedie   macbeth
+Macbeth.txt 25 
+Macbeth.txt 26   william shakespeare
+Macbeth.txt 27 
+Macbeth.txt 28 july 2000  etext 2264
+Macbeth.txt 29 
+Macbeth.txt 30 
+Macbeth.txt 31   project gutenbergs etext   shakespeares first folio
+Macbeth.txt 32   tragedie   macbeth
+Macbeth.txt 33 
+Macbeth.txt 34   file should   named 0ws3410txt   0ws3410zip
+Macbeth.txt 35 
+Macbeth.txt 36 corrected editions     etexts get   new number 0ws3411txt
+Macbeth.txt 37 versions based   separate sources get new letter 0ws3410atxt
+Macbeth.txt 38 
+Macbeth.txt 39 
+Macbeth.txt 40 project gutenberg etexts   usually created   multiple editions
+Macbeth.txt 41             public domain     united states unless  
+Macbeth.txt 42 copyright notice   included  therefore   usually     keep any
+Macbeth.txt 43   these books   compliance   any particular paper edition
+Macbeth.txt 44 
+Macbeth.txt 45 
+Macbeth.txt 46       trying   release     books one month   advance
+Macbeth.txt 47     official release dates leaving time   better editing
+Macbeth.txt 48 
+Macbeth.txt 49 please note  neither   list nor its contents   final till
+Macbeth.txt 50 midnight     last day     month   any such announcement
+Macbeth.txt 51   official release date     project gutenberg etexts    
+Macbeth.txt 52 midnight central time     last day     stated month   
+Macbeth.txt 53 preliminary version may often   posted   suggestion comment
+Macbeth.txt 54   editing   those who wish            sure   have an
+Macbeth.txt 55 up   date first edition xxxxx10xxxx please check file sizes
+Macbeth.txt 56     first week     next month  since   ftp program has
+Macbeth.txt 57   bug       scrambles   date tried   fix   failed  
+Macbeth.txt 58 look     file size   have           try   see  
+Macbeth.txt 59 new copy has   least one byte     less
+Macbeth.txt 60 
+Macbeth.txt 61 
+Macbeth.txt 62 information about project gutenberg one page
+Macbeth.txt 63 
+Macbeth.txt 64   produce about two million dollars   each hour   work   
+Macbeth.txt 65 time   takes us   rather conservative estimate   fifty hours
+Macbeth.txt 66   get any etext selected entered proofread edited copyright
+Macbeth.txt 67 searched   analyzed   copyright letters written etc   
+Macbeth.txt 68 projected audience   one hundred million readers      value
+Macbeth.txt 69 per text   nominally estimated   one dollar     produce 2
+Macbeth.txt 70 million dollars per hour   year     release thirtysix text
+Macbeth.txt 71 files per month   432   etexts   1999     total   2000
+Macbeth.txt 72   these reach just 10     computerized population    
+Macbeth.txt 73 total should reach over 200 billion etexts given away   year
+Macbeth.txt 74 
+Macbeth.txt 75   goal   project gutenberg     give away one trillion etext
+Macbeth.txt 76 files   december 31 2001  10000 x 100000000  1 trillion
+Macbeth.txt 77     ten thousand titles each   one hundred million readers
+Macbeth.txt 78     only 5     present number   computer users
+Macbeth.txt 79 
+Macbeth.txt 80     revised rates   production     reach only onethird
+Macbeth.txt 81     goal     end   2001   about 3333 etexts unless  
+Macbeth.txt 82 manage   get some real funding currently   funding   mostly
+Macbeth.txt 83   michael harts salary   carnegiemellon university   an
+Macbeth.txt 84 assortment   sporadic gifts   salary   only       few
+Macbeth.txt 85   years       looking   something   replace      
+Macbeth.txt 86 don  want project gutenberg       dependent   one person
+Macbeth.txt 87 
+Macbeth.txt 88   need   donations   than ever
+Macbeth.txt 89 
+Macbeth.txt 90 
+Macbeth.txt 91   donations should   made   project gutenbergcmu    
+Macbeth.txt 92 tax deductible     extent allowable   law  cmu  carnegie
+Macbeth.txt 93 mellon university
+Macbeth.txt 94 
+Macbeth.txt 95   these   other matters please mail  
+Macbeth.txt 96 
+Macbeth.txt 97 project gutenberg
+Macbeth.txt 98 p   box  2782
+Macbeth.txt 99 champaign il 61825
+Macbeth.txt 100 
+Macbeth.txt 101 when   other email fails  try   executive director
+Macbeth.txt 102 michael s hart hartpoboxcom
+Macbeth.txt 103 hartpoboxcom forwards   hartprairienetorg   archiveorg
+Macbeth.txt 104     mail bounces   archiveorg     still see    
+Macbeth.txt 105   bounces   prairienetorg better resend later     
+Macbeth.txt 106 
+Macbeth.txt 107   would prefer   send     information   email
+Macbeth.txt 108 
+Macbeth.txt 109 
+Macbeth.txt 110 
+Macbeth.txt 111   access project gutenberg etexts use any web browser
+Macbeth.txt 112   view httppromonetpg    site lists etexts  
+Macbeth.txt 113 author     title   includes information about how
+Macbeth.txt 114   get involved   project gutenberg    could also
+Macbeth.txt 115 download   past newsletters   subscribe here   
+Macbeth.txt 116   one     major sites please email hartpoboxcom
+Macbeth.txt 117       complete list     various sites
+Macbeth.txt 118 
+Macbeth.txt 119   go directly     etext collections use ftp   any
+Macbeth.txt 120 web browser   visit   project gutenberg mirror mirror
+Macbeth.txt 121 sites   available   7 continents mirrors   listed
+Macbeth.txt 122   httppromonetpg
+Macbeth.txt 123 
+Macbeth.txt 124 mac users     point   click typing works better
+Macbeth.txt 125 
+Macbeth.txt 126 example ftp session
+Macbeth.txt 127 
+Macbeth.txt 128 ftp sunsiteuncedu
+Macbeth.txt 129 login anonymous
+Macbeth.txt 130 password  login
+Macbeth.txt 131 cd pubdocsbooksgutenberg
+Macbeth.txt 132 cd etext90 through etext99
+Macbeth.txt 133 dir   see files
+Macbeth.txt 134 get   mget   get files  set bin   zip files
+Macbeth.txt 135 get gutindex    get   years listing   books eg gutindex99
+Macbeth.txt 136 get gutindex    get   listing     books
+Macbeth.txt 137 
+Macbeth.txt 138 
+Macbeth.txt 139 
+Macbeth.txt 140 information prepared     project gutenberg legal advisor
+Macbeth.txt 141 
+Macbeth.txt 142 three pages
+Macbeth.txt 143 
+Macbeth.txt 144 
+Macbeth.txt 145 start  small print  public domain etextsstart
+Macbeth.txt 146 why     small print statement here    know lawyers
+Macbeth.txt 147   tell us   might sue us       something wrong  
+Macbeth.txt 148   copy     etext even     got     free  
+Macbeth.txt 149 someone other than us   even    s wrong      
+Macbeth.txt 150 fault    among other things   small print statement
+Macbeth.txt 151 disclaims most     liability        also tells   how
+Macbeth.txt 152   can distribute copies     etext     want  
+Macbeth.txt 153 
+Macbeth.txt 154 before   use   read   etext
+Macbeth.txt 155   using   reading any part     project gutenbergtm
+Macbeth.txt 156 etext   indicate     understand agree     accept
+Macbeth.txt 157   small print statement            can receive
+Macbeth.txt 158   refund     money   any   paid     etext  
+Macbeth.txt 159 sending   request within 30 days   receiving       person
+Macbeth.txt 160   got          received   etext     physical
+Macbeth.txt 161 medium such     disk   must return       request
+Macbeth.txt 162 
+Macbeth.txt 163 about project gutenbergtm etexts
+Macbeth.txt 164   project gutenbergtm etext like most project gutenberg
+Macbeth.txt 165 tm etexts     public domain work distributed   professor
+Macbeth.txt 166 michael s hart through   project gutenberg association  
+Macbeth.txt 167 carnegiemellon university   project  among other
+Macbeth.txt 168 things   means     one owns   united states copyright
+Macbeth.txt 169         work     project     can copy  
+Macbeth.txt 170 distribute       united states without permission  
+Macbeth.txt 171 without paying copyright royalties  special rules set forth
+Macbeth.txt 172 below apply     wish   copy   distribute   etext
+Macbeth.txt 173 under   projects project gutenberg trademark
+Macbeth.txt 174 
+Macbeth.txt 175   create these etexts   project expends considerable
+Macbeth.txt 176 efforts   identify transcribe   proofread public domain
+Macbeth.txt 177 works  despite these efforts   projects etexts   any
+Macbeth.txt 178 medium   may     may contain defects  among other
+Macbeth.txt 179 things defects may take   form   incomplete inaccurate  
+Macbeth.txt 180 corrupt data transcription errors   copyright   other
+Macbeth.txt 181 intellectual property infringement   defective   damaged
+Macbeth.txt 182 disk   other etext medium   computer virus   computer
+Macbeth.txt 183 codes   damage   cannot   read     equipment
+Macbeth.txt 184 
+Macbeth.txt 185 limited warranty disclaimer   damages
+Macbeth.txt 186       right   replacement   refund described below
+Macbeth.txt 187 1   project   any other party   may receive  
+Macbeth.txt 188 etext       project gutenbergtm etext disclaims  
+Macbeth.txt 189 liability       damages costs   expenses including
+Macbeth.txt 190 legal fees   2   have   remedies   negligence  
+Macbeth.txt 191 under strict liability     breach   warranty   contract
+Macbeth.txt 192 including     limited   indirect consequential punitive
+Macbeth.txt 193   incidental damages even     give notice    
+Macbeth.txt 194 possibility   such damages
+Macbeth.txt 195 
+Macbeth.txt 196     discover   defect     etext within 90 days  
+Macbeth.txt 197 receiving     can receive   refund     money   any
+Macbeth.txt 198   paid       sending an explanatory note within  
+Macbeth.txt 199 time     person   received          received  
+Macbeth.txt 200     physical medium   must return       note  
+Macbeth.txt 201 such person may choose   alternatively give     replacement
+Macbeth.txt 202 copy      received   electronically such person may
+Macbeth.txt 203 choose   alternatively give     second opportunity  
+Macbeth.txt 204 receive   electronically
+Macbeth.txt 205 
+Macbeth.txt 206   etext   otherwise provided           other
+Macbeth.txt 207 warranties   any kind express   implied   made      
+Macbeth.txt 208     etext   any medium   may     including    
+Macbeth.txt 209 limited   warranties   merchantability   fitness    
+Macbeth.txt 210 particular purpose
+Macbeth.txt 211 
+Macbeth.txt 212 some states     allow disclaimers   implied warranties  
+Macbeth.txt 213   exclusion   limitation   consequential damages    
+Macbeth.txt 214 above disclaimers   exclusions may   apply        
+Macbeth.txt 215 may have other legal rights
+Macbeth.txt 216 
+Macbeth.txt 217 indemnity
+Macbeth.txt 218     indemnify   hold   project its directors
+Macbeth.txt 219 officers members   agents harmless     liability cost
+Macbeth.txt 220   expense including legal fees   arise directly  
+Macbeth.txt 221 indirectly   any     following         cause
+Macbeth.txt 222 1 distribution     etext 2 alteration modification
+Macbeth.txt 223   addition     etext   3 any defect
+Macbeth.txt 224 
+Macbeth.txt 225 distribution under project gutenbergtm
+Macbeth.txt 226   may distribute copies     etext electronically    
+Macbeth.txt 227 disk book   any other medium     either delete  
+Macbeth.txt 228 small print     other references   project gutenberg
+Macbeth.txt 229  
+Macbeth.txt 230 
+Macbeth.txt 231 1  only give exact copies      among other things  
+Macbeth.txt 232      requires         remove alter   modify  
+Macbeth.txt 233      etext     small print statement    may however
+Macbeth.txt 234          wish distribute   etext   machine readable
+Macbeth.txt 235      binary compressed markup   proprietary form
+Macbeth.txt 236      including any form resulting   conversion   word pro
+Macbeth.txt 237      cessing   hypertext software   only   long  
+Macbeth.txt 238      either
+Macbeth.txt 239 
+Macbeth.txt 240          etext when displayed   clearly readable  
+Macbeth.txt 241           does   contain characters other than those
+Macbeth.txt 242           intended     author     work although tilde
+Macbeth.txt 243            asterisk    underline  characters may
+Macbeth.txt 244             used   convey punctuation intended    
+Macbeth.txt 245           author   additional characters may   used  
+Macbeth.txt 246           indicate hypertext links  
+Macbeth.txt 247 
+Macbeth.txt 248          etext may   readily converted     reader  
+Macbeth.txt 249             expense into plain ascii ebcdic   equivalent
+Macbeth.txt 250           form     program   displays   etext    
+Macbeth.txt 251             case   instance   most word processors
+Macbeth.txt 252            
+Macbeth.txt 253 
+Macbeth.txt 254          provide   agree   also provide   request  
+Macbeth.txt 255             additional cost fee   expense   copy    
+Macbeth.txt 256           etext   its original plain ascii form     ebcdic
+Macbeth.txt 257             other equivalent proprietary form
+Macbeth.txt 258 
+Macbeth.txt 259 2  honor   etext refund   replacement provisions    
+Macbeth.txt 260      small print statement
+Macbeth.txt 261 
+Macbeth.txt 262 3  pay   trademark license fee     project   20    
+Macbeth.txt 263      net profits   derive calculated using   method  
+Macbeth.txt 264      already use   calculate   applicable taxes     
+Macbeth.txt 265      don  derive profits   royalty   due  royalties  
+Macbeth.txt 266      payable   project gutenberg associationcarnegiemellon
+Macbeth.txt 267      university within   60 days following each
+Macbeth.txt 268      date   prepare   were legally required   prepare
+Macbeth.txt 269        annual   equivalent periodic tax return
+Macbeth.txt 270 
+Macbeth.txt 271       want   send money even     don  have  
+Macbeth.txt 272   project gratefully accepts contributions   money time
+Macbeth.txt 273 scanning machines ocr software public domain etexts royalty
+Macbeth.txt 274 free copyright licenses   every other sort   contribution
+Macbeth.txt 275   can think    money should   paid   project gutenberg
+Macbeth.txt 276 association  carnegiemellon university
+Macbeth.txt 277 
+Macbeth.txt 278 end  small print   public domain etextsver042993end
+Macbeth.txt 279 
+Macbeth.txt 280 
+Macbeth.txt 281 
+Macbeth.txt 282 
+Macbeth.txt 283 
+Macbeth.txt 284 project gutenbergs etext   shakespeares   tragedie   macbeth
+Macbeth.txt 285 
+Macbeth.txt 286 
+Macbeth.txt 287 
+Macbeth.txt 288 
+Macbeth.txt 289 
+Macbeth.txt 290 executive directors notes
+Macbeth.txt 291 
+Macbeth.txt 292   addition     notes below           think  
+Macbeth.txt 293   spelling errors introduced     printers     time have
+Macbeth.txt 294 been corrected here     first few lines   hamlet    
+Macbeth.txt 295   presented herein
+Macbeth.txt 296 
+Macbeth.txt 297   barnardo whos  
+Macbeth.txt 298   fran nay answer   stand  vnfold
+Macbeth.txt 299   selfe
+Macbeth.txt 300 
+Macbeth.txt 301    bar long liue    
+Macbeth.txt 302 
+Macbeth.txt 303 
+Macbeth.txt 304 
+Macbeth.txt 305     understand     printers often ran out   certain words
+Macbeth.txt 306   letters   had often packed into   cliche       
+Macbeth.txt 307 original meaning     term cliche    thus being unwilling
+Macbeth.txt 308   unpack   cliches   thus     see some substitutions
+Macbeth.txt 309   look very odd  such     exchanges   u   v v   u
+Macbeth.txt 310 above      may wonder why   did     way presuming
+Macbeth.txt 311 shakespeare did   actually write   play     manner   
+Macbeth.txt 312 
+Macbeth.txt 313   answer       may have packed liue into   cliche    
+Macbeth.txt 314 time when   were out   vs  possibly having used vv  
+Macbeth.txt 315 place   some ws etc    was   common practice     day
+Macbeth.txt 316   print was still quite expensive     didn  want   spend
+Macbeth.txt 317       wider selection   characters than   had  
+Macbeth.txt 318 
+Macbeth.txt 319     find   lot   these kinds   errors     text    
+Macbeth.txt 320 have mentioned   other times   places many scholars have an
+Macbeth.txt 321 extreme attachment   these errors   many have accorded them  
+Macbeth.txt 322 very high place     canon   shakespeare    father read an
+Macbeth.txt 323 assortment   these made available       cambridge university
+Macbeth.txt 324   england   several months     glass room constructed    
+Macbeth.txt 325 purpose      best     knowledge   read   those available
+Macbeth.txt 326     great detail    determined     various changes
+Macbeth.txt 327   shakespeare most likely did   write   nearly   many    
+Macbeth.txt 328 variety   errors   credit     even though   was  famous
+Macbeth.txt 329   signing   name   several different spellings
+Macbeth.txt 330 
+Macbeth.txt 331   please take   into account when reading   comments below
+Macbeth.txt 332 made     volunteer who prepared   file    may see errors
+Macbeth.txt 333       errors   
+Macbeth.txt 334 
+Macbeth.txt 335        caveat    have   changed   canon errors
+Macbeth.txt 336 here     project gutenberg etext   shakespeares   tragedie 
+Macbeth.txt 337   macbeth
+Macbeth.txt 338 
+Macbeth.txt 339 michael s hart
+Macbeth.txt 340 project gutenberg
+Macbeth.txt 341 executive director
+Macbeth.txt 342 
+Macbeth.txt 343 
+Macbeth.txt 344 
+Macbeth.txt 345 
+Macbeth.txt 346 
+Macbeth.txt 347 scanners notes         isn     was taken  
+Macbeth.txt 348   copy   shakespeares first folio         close     can
+Macbeth.txt 349     ascii     printed text
+Macbeth.txt 350 
+Macbeth.txt 351   elongated ss have been changed   small ss    
+Macbeth.txt 352 conjoined ae have been changed   ae    have left   spelling
+Macbeth.txt 353 punctuation capitalization   close   possible    
+Macbeth.txt 354 printed text    have corrected some spelling mistakes   have put
+Macbeth.txt 355 together   spelling dictionary devised     spellings    
+Macbeth.txt 356 geneva bible   shakespeares first folio   have unified
+Macbeth.txt 357 spellings according     template typos   expanded
+Macbeth.txt 358 abbreviations     have   across them  everything within
+Macbeth.txt 359 brackets        have added        don  like  
+Macbeth.txt 360   can delete everything within   brackets     want  
+Macbeth.txt 361 purer shakespeare
+Macbeth.txt 362 
+Macbeth.txt 363 another thing     should   aware           textual
+Macbeth.txt 364 differences between various copies     first folio      may
+Macbeth.txt 365   differences other than     have mentioned above between
+Macbeth.txt 366     other first folio editions      due     printers
+Macbeth.txt 367 habit   setting   type   running off   number   copies  
+Macbeth.txt 368   proofing   printed copy   correcting   type    
+Macbeth.txt 369 continuing   printing run    proof run wasn  thrown away  
+Macbeth.txt 370 incorporated into   printed copies      just   way    
+Macbeth.txt 371   text   have used was   composite     than 30 different
+Macbeth.txt 372 first folio editions best pages
+Macbeth.txt 373 
+Macbeth.txt 374     find any scanning errors out   out typos punctuation
+Macbeth.txt 375 errors       disagree     spelling choices please feel
+Macbeth.txt 376 free   email   those errors    wish   make     best
+Macbeth.txt 377 etext possible    email address   right     haraddaaolcom
+Macbeth.txt 378   davidrinconnectcom    hope     enjoy  
+Macbeth.txt 379 
+Macbeth.txt 380 david reed
+Macbeth.txt 381 
+Macbeth.txt 382   tragedie   macbeth
+Macbeth.txt 383 
+Macbeth.txt 384 actus primus scoena prima
+Macbeth.txt 385 
+Macbeth.txt 386 thunder   lightning   three witches
+Macbeth.txt 387 
+Macbeth.txt 388   1 when     three meet againe
+Macbeth.txt 389   thunder lightning     raine
+Macbeth.txt 390   2 when   hurleyburleys done
+Macbeth.txt 391 when   battailes lost   wonne
+Macbeth.txt 392 
+Macbeth.txt 393    3       ere   set   sunne
+Macbeth.txt 394 
+Macbeth.txt 395    1 where   place
+Macbeth.txt 396   2 vpon   heath
+Macbeth.txt 397 
+Macbeth.txt 398    3     meet   macbeth
+Macbeth.txt 399 
+Macbeth.txt 400    1     graymalkin
+Macbeth.txt 401 
+Macbeth.txt 402      padock calls anon faire   foule   foule   faire
+Macbeth.txt 403 houer through   fogge   filthie ayre
+Macbeth.txt 404 
+Macbeth.txt 405 exeunt
+Macbeth.txt 406 
+Macbeth.txt 407 
+Macbeth.txt 408 scena secunda
+Macbeth.txt 409 
+Macbeth.txt 410 alarum within     malcome donalbaine lenox  
+Macbeth.txt 411 attendants
+Macbeth.txt 412 meeting   bleeding captaine
+Macbeth.txt 413 
+Macbeth.txt 414       bloody man       can report
+Macbeth.txt 415   seemeth     plight     reuolt
+Macbeth.txt 416   newest state
+Macbeth.txt 417 
+Macbeth.txt 418    mal       serieant
+Macbeth.txt 419 who like       hardie souldier fought
+Macbeth.txt 420 gainst   captiuitie haile braue friend
+Macbeth.txt 421 say         knowledge     broyle
+Macbeth.txt 422     didst leaue  
+Macbeth.txt 423 
+Macbeth.txt 424    cap doubtfull   stood
+Macbeth.txt 425   two spent swimmers   doe cling together
+Macbeth.txt 426   choake their art   mercilesse macdonwald
+Macbeth.txt 427 worthie       rebell      
+Macbeth.txt 428   multiplying villanies   nature
+Macbeth.txt 429 doe swarme vpon       westerne isles
+Macbeth.txt 430   kernes   gallowgrosses   supply 
+Macbeth.txt 431   fortune     damned quarry smiling
+Macbeth.txt 432 shew  like   rebells whore    s too weake
+Macbeth.txt 433   braue macbeth well hee deserues   name
+Macbeth.txt 434 disdayning fortune     brandisht steele
+Macbeth.txt 435   smoak    bloody execution
+Macbeth.txt 436 like valours minion caru  out   passage
+Macbeth.txt 437 till hee fac    slaue
+Macbeth.txt 438   neur shooke hands nor bad farwell    
+Macbeth.txt 439 till   vnseam        naue toth chops
+Macbeth.txt 440   fix    head vpon   battlements
+Macbeth.txt 441 
+Macbeth.txt 442        valiant cousin worthy gentleman
+Macbeth.txt 443 
+Macbeth.txt 444    cap   whence   sunne gins   reflection
+Macbeth.txt 445 shipwracking stormes   direfull thunders
+Macbeth.txt 446       spring whence comfort seem     
+Macbeth.txt 447 discomfort swells marke     scotland marke
+Macbeth.txt 448   sooner iustice had   valour arm 
+Macbeth.txt 449 compell  these skipping kernes   trust their heeles
+Macbeth.txt 450     norweyan   surueying vantage
+Macbeth.txt 451   furbusht armes   new supplyes   men
+Macbeth.txt 452 began   fresh assault
+Macbeth.txt 453 
+Macbeth.txt 454      dismay        captaines macbeth  
+Macbeth.txt 455 banquoh
+Macbeth.txt 456   cap yes   sparrowes eagles
+Macbeth.txt 457     hare   lyon
+Macbeth.txt 458     say sooth   must report   were
+Macbeth.txt 459   cannons ouercharg    double cracks
+Macbeth.txt 460     doubly redoubled stroakes vpon   foe
+Macbeth.txt 461 except   meant   bathe   reeking wounds
+Macbeth.txt 462   memorize another golgotha
+Macbeth.txt 463   cannot tell     am faint
+Macbeth.txt 464   gashes cry   helpe
+Macbeth.txt 465 
+Macbeth.txt 466        well   words become       wounds
+Macbeth.txt 467   smack   honor both goe get   surgeons
+Macbeth.txt 468   rosse   angus
+Macbeth.txt 469 
+Macbeth.txt 470 who comes here
+Macbeth.txt 471   mal   worthy thane   rosse
+Macbeth.txt 472 
+Macbeth.txt 473    lenox     haste lookes through   eyes
+Macbeth.txt 474   should   looke   seemes   speake things strange
+Macbeth.txt 475 
+Macbeth.txt 476    rosse god saue    
+Macbeth.txt 477 
+Macbeth.txt 478      whence camst   worthy thane
+Macbeth.txt 479   rosse   fiffe great  
+Macbeth.txt 480 where   norweyan banners flowt   skie
+Macbeth.txt 481   fanne   people cold
+Macbeth.txt 482 norway himselfe   terrible numbers
+Macbeth.txt 483 assisted     most disloyall traytor
+Macbeth.txt 484   thane   cawdor began   dismall conflict
+Macbeth.txt 485 till   bellonas bridegroome lapt   proofe
+Macbeth.txt 486 confronted     selfecomparisons
+Macbeth.txt 487 point against point rebellious arme gainst arme
+Macbeth.txt 488 curbing   lauish spirit     conclude
+Macbeth.txt 489   victorie fell   vs
+Macbeth.txt 490 
+Macbeth.txt 491      great happinesse
+Macbeth.txt 492 
+Macbeth.txt 493    rosse     sweno   norwayes  
+Macbeth.txt 494 craues composition
+Macbeth.txt 495 nor would   deigne   buriall     men
+Macbeth.txt 496 till   disbursed   saint colmes ynch
+Macbeth.txt 497 ten thousand dollars     generall vse
+Macbeth.txt 498 
+Macbeth.txt 499            thane   cawdor   deceiue
+Macbeth.txt 500   bosome interest goe pronounce   present death
+Macbeth.txt 501       former title greet macbeth
+Macbeth.txt 502 
+Macbeth.txt 503    rosse ile see   done
+Macbeth.txt 504 
+Macbeth.txt 505          hath lost noble macbeth hath wonne
+Macbeth.txt 506 
+Macbeth.txt 507 exeunt
+Macbeth.txt 508 
+Macbeth.txt 509 
+Macbeth.txt 510 scena tertia
+Macbeth.txt 511 
+Macbeth.txt 512 thunder     three witches
+Macbeth.txt 513 
+Macbeth.txt 514   1 where hast   beene sister
+Macbeth.txt 515   2 killing swine
+Macbeth.txt 516 
+Macbeth.txt 517    3 sister where  
+Macbeth.txt 518   1   saylors wife had chestnuts     lappe
+Macbeth.txt 519   mouncht  mouncht   mouncht
+Macbeth.txt 520 giue   quoth  
+Macbeth.txt 521 aroynt   witch   rumpefed ronyon cryes
+Macbeth.txt 522   husbands   aleppo gone master  th tiger
+Macbeth.txt 523       syue ile thither sayle
+Macbeth.txt 524   like   rat without   tayle
+Macbeth.txt 525 ile doe ile doe   ile doe
+Macbeth.txt 526 
+Macbeth.txt 527    2 ile giue     winde
+Macbeth.txt 528 
+Macbeth.txt 529    1 thart kinde
+Macbeth.txt 530 
+Macbeth.txt 531    3     another
+Macbeth.txt 532 
+Macbeth.txt 533    1     selfe       other
+Macbeth.txt 534     very ports   blow
+Macbeth.txt 535     quarters     know
+Macbeth.txt 536  th shipmans card
+Macbeth.txt 537 ile dreyne   drie   hay
+Macbeth.txt 538 sleepe   neyther night nor day
+Macbeth.txt 539 hang vpon   penthouse lid
+Macbeth.txt 540     liue   man forbid
+Macbeth.txt 541 wearie seunights nine times nine
+Macbeth.txt 542     dwindle peake   pine
+Macbeth.txt 543 though   barke cannot   lost
+Macbeth.txt 544 yet       tempesttost
+Macbeth.txt 545 looke      
+Macbeth.txt 546 
+Macbeth.txt 547    2 shew   shew  
+Macbeth.txt 548 
+Macbeth.txt 549    1 here       pilots thumbe
+Macbeth.txt 550 wrackt   homeward   did  
+Macbeth.txt 551 
+Macbeth.txt 552 drum within
+Macbeth.txt 553 
+Macbeth.txt 554   3   drumme   drumme
+Macbeth.txt 555 macbeth doth  
+Macbeth.txt 556 
+Macbeth.txt 557        weyward sisters hand   hand
+Macbeth.txt 558 posters     sea   land
+Macbeth.txt 559 thus doe goe about about
+Macbeth.txt 560 thrice   thine   thrice   mine
+Macbeth.txt 561   thrice againe   make vp nine
+Macbeth.txt 562 peace   charmes wound vp
+Macbeth.txt 563   macbeth   banquo
+Macbeth.txt 564 
+Macbeth.txt 565   macb   foule   faire   day       seene
+Macbeth.txt 566 
+Macbeth.txt 567    banquo how farre    call    soris     these
+Macbeth.txt 568   wither      wilde   their attyre
+Macbeth.txt 569   looke   like th inhabitants  th earth
+Macbeth.txt 570   yet      liue         aught
+Macbeth.txt 571   man may question   seeme   vnderstand  
+Macbeth.txt 572   each   once   choppie finger laying
+Macbeth.txt 573 vpon   skinnie lips   should   women
+Macbeth.txt 574   yet   beards forbid     interprete
+Macbeth.txt 575        
+Macbeth.txt 576 
+Macbeth.txt 577    mac speake     can      
+Macbeth.txt 578   1   haile macbeth haile     thane   glamis
+Macbeth.txt 579 
+Macbeth.txt 580    2   haile macbeth haile     thane   cawdor
+Macbeth.txt 581 
+Macbeth.txt 582    3   haile macbeth   shalt     hereafter
+Macbeth.txt 583 
+Macbeth.txt 584    banq   sir why doe   start   seeme   feare
+Macbeth.txt 585 things   doe sound   faire  th name   truth
+Macbeth.txt 586   ye fantasticall     indeed
+Macbeth.txt 587   outwardly ye shew   noble partner
+Macbeth.txt 588   greet   present grace   great prediction
+Macbeth.txt 589   noble hauing     royall hope
+Macbeth.txt 590     seemes wrapt withall       speake  
+Macbeth.txt 591     can looke into   seedes   time
+Macbeth.txt 592   say   graine   grow        
+Macbeth.txt 593 speake       who neyther begge nor feare
+Macbeth.txt 594   fauors nor   hate
+Macbeth.txt 595 
+Macbeth.txt 596    1 hayle
+Macbeth.txt 597 
+Macbeth.txt 598    2 hayle
+Macbeth.txt 599 
+Macbeth.txt 600    3 hayle
+Macbeth.txt 601 
+Macbeth.txt 602    1 lesser than macbeth   greater
+Macbeth.txt 603 
+Macbeth.txt 604    2     happy yet much happyer
+Macbeth.txt 605 
+Macbeth.txt 606    3   shalt get kings though     none
+Macbeth.txt 607     haile macbeth   banquo
+Macbeth.txt 608 
+Macbeth.txt 609    1 banquo   macbeth   haile
+Macbeth.txt 610 
+Macbeth.txt 611    macb stay   imperfect speakers tell    
+Macbeth.txt 612   sinells death   know   am thane   glamis
+Macbeth.txt 613   how   cawdor   thane   cawdor liues
+Macbeth.txt 614   prosperous gentleman        
+Macbeth.txt 615 stands   within   prospect   beleefe
+Macbeth.txt 616           cawdor say   whence
+Macbeth.txt 617   owe   strange intelligence   why
+Macbeth.txt 618 vpon   blasted heath   stop   way
+Macbeth.txt 619   such prophetique greeting
+Macbeth.txt 620 speake   charge  
+Macbeth.txt 621 
+Macbeth.txt 622 witches vanish
+Macbeth.txt 623 
+Macbeth.txt 624   banq   earth hath bubbles     water has
+Macbeth.txt 625   these     them whither     vanish 
+Macbeth.txt 626   macb into   ayre     seem  corporall
+Macbeth.txt 627 melted   breath into   winde
+Macbeth.txt 628 would   had stay 
+Macbeth.txt 629 
+Macbeth.txt 630    banq were such things here     doe speake about
+Macbeth.txt 631       eaten     insane root
+Macbeth.txt 632   takes   reason prisoner
+Macbeth.txt 633   macb   children     kings
+Macbeth.txt 634 
+Macbeth.txt 635    banq        
+Macbeth.txt 636 
+Macbeth.txt 637    macb   thane   cawdor too went      
+Macbeth.txt 638   banq toth selfesame tune   words whos here
+Macbeth.txt 639   rosse   angus
+Macbeth.txt 640 
+Macbeth.txt 641   rosse     hath happily receiu  macbeth
+Macbeth.txt 642   newes     successe   when   reades
+Macbeth.txt 643   personall venture     rebels sight
+Macbeth.txt 644   wonders     prayses doe contend
+Macbeth.txt 645   should   thine     silenc     
+Macbeth.txt 646   viewing  re   rest  th selfesame day
+Macbeth.txt 647   findes       stout norweyan rankes
+Macbeth.txt 648 nothing afeard       selfe didst make
+Macbeth.txt 649 strange images   death   thick   tale
+Macbeth.txt 650 can post   post   euery one did beare
+Macbeth.txt 651   prayses     kingdomes great defence
+Macbeth.txt 652   powr  them downe before  
+Macbeth.txt 653 
+Macbeth.txt 654    ang wee   sent
+Macbeth.txt 655   giue       royall master thanks
+Macbeth.txt 656 onely   harrold   into   sight
+Macbeth.txt 657   pay  
+Macbeth.txt 658 
+Macbeth.txt 659    rosse     an earnest     greater honor
+Macbeth.txt 660   bad       call   thane   cawdor
+Macbeth.txt 661     addition haile most worthy thane
+Macbeth.txt 662       thine
+Macbeth.txt 663 
+Macbeth.txt 664    banq   can   deuill speake true
+Macbeth.txt 665   macb   thane   cawdor liues
+Macbeth.txt 666 why doe   dresse     borrowed robes
+Macbeth.txt 667   ang who was   thane liues yet
+Macbeth.txt 668   vnder heauie iudgement beares   life
+Macbeth.txt 669     deserues   loose
+Macbeth.txt 670 whether   was combin    those   norway
+Macbeth.txt 671   did lyne   rebell   hidden helpe
+Macbeth.txt 672   vantage       both   labour 
+Macbeth.txt 673     countreyes wracke   know  
+Macbeth.txt 674   treasons capitall confess    prou 
+Macbeth.txt 675   ouerthrowne  
+Macbeth.txt 676 
+Macbeth.txt 677    macb glamys   thane   cawdor
+Macbeth.txt 678   greatest   behinde thankes     paines
+Macbeth.txt 679 doe     hope   children     kings
+Macbeth.txt 680 when those   gaue   thane   cawdor    
+Macbeth.txt 681 promis    lesse   them
+Macbeth.txt 682 
+Macbeth.txt 683    banq   trusted home
+Macbeth.txt 684 might yet enkindle   vnto   crowne
+Macbeth.txt 685 besides   thane   cawdor   tis strange
+Macbeth.txt 686   oftentimes   winne vs     harme
+Macbeth.txt 687   instruments   darknesse tell vs truths
+Macbeth.txt 688 winne vs   honest trifles   betrays
+Macbeth.txt 689   deepest consequence
+Macbeth.txt 690 cousins   word   pray  
+Macbeth.txt 691 
+Macbeth.txt 692    macb two truths   told
+Macbeth.txt 693   happy prologues     swelling act
+Macbeth.txt 694     imperiall theame   thanke   gentlemen
+Macbeth.txt 695   supernaturall solliciting
+Macbeth.txt 696 cannot   ill cannot    
+Macbeth.txt 697   ill why hath   giuen   earnest   successe
+Macbeth.txt 698 commencing     truth   am thane   cawdor
+Macbeth.txt 699     why doe   yeeld     suggestion
+Macbeth.txt 700 whose horrid image doth vnfixe   heire
+Macbeth.txt 701   make   seated heart knock     ribbes
+Macbeth.txt 702 against   vse   nature present feares
+Macbeth.txt 703   lesse   horrible imaginings
+Macbeth.txt 704   thought whose murther yet     fantasticall
+Macbeth.txt 705 shakes     single state   man
+Macbeth.txt 706   function   smother    surmise
+Macbeth.txt 707   nothing          
+Macbeth.txt 708 
+Macbeth.txt 709    banq looke how   partners rapt
+Macbeth.txt 710 
+Macbeth.txt 711    macb   chance        
+Macbeth.txt 712 why chance may crowne  
+Macbeth.txt 713 without   stirre
+Macbeth.txt 714 
+Macbeth.txt 715    banq new honors   vpon  
+Macbeth.txt 716 like   strange garments cleaue     their mould
+Macbeth.txt 717       aid   vse
+Macbeth.txt 718 
+Macbeth.txt 719    macb       may
+Macbeth.txt 720 time     houre runs through   roughest day
+Macbeth.txt 721 
+Macbeth.txt 722    banq worthy macbeth wee stay vpon   leysure
+Macbeth.txt 723 
+Macbeth.txt 724    macb giue     fauour
+Macbeth.txt 725   dull braine was wrought   things forgotten
+Macbeth.txt 726 kinde gentlemen   paines   registred
+Macbeth.txt 727 where euery day   turne   leafe
+Macbeth.txt 728   reade them
+Macbeth.txt 729 let vs toward     thinke vpon
+Macbeth.txt 730   hath chanc        time
+Macbeth.txt 731   interim hauing weigh    let vs speake
+Macbeth.txt 732   free hearts each   other
+Macbeth.txt 733 
+Macbeth.txt 734    banq very gladly
+Macbeth.txt 735 
+Macbeth.txt 736    macb till   enough
+Macbeth.txt 737   friends
+Macbeth.txt 738 
+Macbeth.txt 739 exeunt
+Macbeth.txt 740 
+Macbeth.txt 741 
+Macbeth.txt 742 scena quarta
+Macbeth.txt 743 
+Macbeth.txt 744 flourish     lenox malcolme donalbaine  
+Macbeth.txt 745 attendants
+Macbeth.txt 746 
+Macbeth.txt 747       execution done   cawdor
+Macbeth.txt 748     those   commission yet return 
+Macbeth.txt 749   mal   liege       yet   back
+Macbeth.txt 750       spoke   one   saw   die
+Macbeth.txt 751 who did report   very frankly hee
+Macbeth.txt 752 confess    treasons implor    highnesse pardon
+Macbeth.txt 753   set forth   deepe repentance
+Macbeth.txt 754 nothing     life became  
+Macbeth.txt 755 like   leauing   hee dyde
+Macbeth.txt 756   one   had beene studied     death
+Macbeth.txt 757   throw away   dearest thing   ow 
+Macbeth.txt 758   twere   carelesse trifle
+Macbeth.txt 759 
+Macbeth.txt 760       s   art
+Macbeth.txt 761   finde   mindes construction     face
+Macbeth.txt 762   was   gentleman   whom   built
+Macbeth.txt 763 an absolute trust
+Macbeth.txt 764   macbeth banquo rosse   angus
+Macbeth.txt 765 
+Macbeth.txt 766   worthyest cousin
+Macbeth.txt 767   sinne     ingratitude euen  
+Macbeth.txt 768 was heauie       art   farre before
+Macbeth.txt 769   swiftest wing   recompence   slow
+Macbeth.txt 770   ouertake   would   hadst lesse deseru 
+Macbeth.txt 771     proportion both   thanks   payment
+Macbeth.txt 772 might   beene mine onely     left   say
+Macbeth.txt 773       due         can pay
+Macbeth.txt 774 
+Macbeth.txt 775    macb   seruice     loyaltie   owe
+Macbeth.txt 776   doing   payes   selfe
+Macbeth.txt 777   highnesse part     receiue   duties
+Macbeth.txt 778     duties       throne   state
+Macbeth.txt 779 children   seruants   doe       should
+Macbeth.txt 780   doing euery thing safe toward   loue
+Macbeth.txt 781   honor
+Macbeth.txt 782 
+Macbeth.txt 783      welcome hither
+Macbeth.txt 784     begun   plant       labour
+Macbeth.txt 785   make   full   growing noble banquo
+Macbeth.txt 786   hast   lesse deseru  nor must   knowne
+Macbeth.txt 787   lesse     done   let   enfold  
+Macbeth.txt 788   hold       heart
+Macbeth.txt 789 
+Macbeth.txt 790    banq       grow
+Macbeth.txt 791   haruest     owne
+Macbeth.txt 792 
+Macbeth.txt 793        plenteous ioyes
+Macbeth.txt 794 wanton   fulnesse seeke   hide themselues
+Macbeth.txt 795   drops   sorrow sonnes kinsmen thanes
+Macbeth.txt 796     whose places     nearest know
+Macbeth.txt 797     establish   estate vpon
+Macbeth.txt 798   eldest malcolme whom   name hereafter
+Macbeth.txt 799   prince   cumberland   honor must
+Macbeth.txt 800   vnaccompanied inuest   onely
+Macbeth.txt 801   signes   noblenesse like starres   shine
+Macbeth.txt 802     deseruers   hence   envernes
+Macbeth.txt 803   binde vs further    
+Macbeth.txt 804 
+Macbeth.txt 805    macb   rest   labor       vs     
+Macbeth.txt 806 ile     selfe   herbenger   make ioyfull
+Macbeth.txt 807   hearing     wife     approach
+Macbeth.txt 808   humbly take   leaue
+Macbeth.txt 809 
+Macbeth.txt 810        worthy cawdor
+Macbeth.txt 811 
+Macbeth.txt 812    macb   prince   cumberland       step
+Macbeth.txt 813       must fall downe   else  releape
+Macbeth.txt 814       way   lyes starres hide   fires
+Macbeth.txt 815 let   light see   black   deepe desires
+Macbeth.txt 816   eye winke     hand yet let   bee
+Macbeth.txt 817     eye feares when     done   see
+Macbeth.txt 818  
+Macbeth.txt 819 
+Macbeth.txt 820     true worthy banquo     full   valiant
+Macbeth.txt 821       commendations   am fed
+Macbeth.txt 822       banquet     lets after  
+Macbeth.txt 823 whose care   gone before   bid vs welcome
+Macbeth.txt 824       peerelesse kinsman
+Macbeth.txt 825 
+Macbeth.txt 826 flourish exeunt
+Macbeth.txt 827 
+Macbeth.txt 828 
+Macbeth.txt 829 scena quinta
+Macbeth.txt 830 
+Macbeth.txt 831   macbeths wife alone     letter
+Macbeth.txt 832 
+Macbeth.txt 833   lady   met       day   successe      
+Macbeth.txt 834 learn      perfectst report         them  
+Macbeth.txt 835 mortall knowledge when   burnt   desire   question them
+Macbeth.txt 836 further   made themselues ayre into     vanish 
+Macbeth.txt 837 whiles   stood rapt     wonder     came missiues  
+Macbeth.txt 838     who  hail    thane   cawdor     title
+Macbeth.txt 839 before these weyward sisters saluted     referr     
+Macbeth.txt 840   comming     time   haile     shalt    
+Macbeth.txt 841     thought     deliuer     dearest partner  
+Macbeth.txt 842 greatnesse     mightst   loose   dues   reioycing
+Macbeth.txt 843   being ignorant     greatnesse   promis    lay
+Macbeth.txt 844       heart   farewell
+Macbeth.txt 845 glamys   art   cawdor   shalt  
+Macbeth.txt 846     art promis  yet doe   feare   nature
+Macbeth.txt 847     too full  th milke   humane kindnesse
+Macbeth.txt 848   catch   neerest way   wouldst   great
+Macbeth.txt 849 art   without ambition   without
+Macbeth.txt 850   illnesse should attend       wouldst highly
+Macbeth.txt 851   wouldst   holily wouldst   play false
+Macbeth.txt 852   yet wouldst wrongly winne
+Macbeth.txt 853 thouldst   great glamys     cryes
+Macbeth.txt 854 thus   must doe        
+Macbeth.txt 855       rather    st feare   doe
+Macbeth.txt 856   wishest should   vndone high   hither
+Macbeth.txt 857     may powre   spirits   thine eare
+Macbeth.txt 858   chastise     valour     tongue
+Macbeth.txt 859     impeides       golden round
+Macbeth.txt 860   fate   metaphysicall ayde doth seeme
+Macbeth.txt 861       crown  withall
+Macbeth.txt 862   messenger
+Macbeth.txt 863 
+Macbeth.txt 864       tidings
+Macbeth.txt 865   mess     comes here   night
+Macbeth.txt 866 
+Macbeth.txt 867    lady  rt mad   say  
+Macbeth.txt 868       master     who wer   
+Macbeth.txt 869 would   inform    preparation
+Macbeth.txt 870 
+Macbeth.txt 871    mess   please       true   thane   comming
+Macbeth.txt 872 one     fellowes had   speed    
+Macbeth.txt 873 who almost dead   breath had scarcely  
+Macbeth.txt 874   would make vp   message
+Macbeth.txt 875 
+Macbeth.txt 876    lady giue   tending
+Macbeth.txt 877   brings great newes
+Macbeth.txt 878 
+Macbeth.txt 879 exit messenger
+Macbeth.txt 880 
+Macbeth.txt 881   rauen himselfe   hoarse
+Macbeth.txt 882   croakes   fatall entrance   duncan
+Macbeth.txt 883 vnder   battlements     spirits
+Macbeth.txt 884   tend   mortall thoughts vnsex   here
+Macbeth.txt 885   fill       crowne     toe topfull
+Macbeth.txt 886   direst crueltie make thick   blood
+Macbeth.txt 887 stop vp th accesse   passage   remorse
+Macbeth.txt 888     compunctious visitings   nature
+Macbeth.txt 889 shake   fell purpose nor keepe peace betweene
+Macbeth.txt 890 th effect   hit       womans brests
+Macbeth.txt 891   take   milke   gall   murthring ministers
+Macbeth.txt 892 whereeuer     sightlesse substances
+Macbeth.txt 893   wait   natures mischiefe   thick night
+Macbeth.txt 894   pall       dunnest smoake   hell
+Macbeth.txt 895 
+Macbeth.txt 896     keene knife see     wound   makes
+Macbeth.txt 897 nor heauen peepe through   blanket     darke
+Macbeth.txt 898   cry hold hold
+Macbeth.txt 899   macbeth
+Macbeth.txt 900 
+Macbeth.txt 901 great glamys worthy cawdor
+Macbeth.txt 902 greater   both      haile hereafter
+Macbeth.txt 903   letters   transported   beyond
+Macbeth.txt 904   ignorant present     feele  
+Macbeth.txt 905   future     instant
+Macbeth.txt 906 
+Macbeth.txt 907    macb   dearest loue
+Macbeth.txt 908 duncan comes here   night
+Macbeth.txt 909 
+Macbeth.txt 910    lady   when goes hence
+Macbeth.txt 911   macb   morrow     purposes
+Macbeth.txt 912 
+Macbeth.txt 913    lady   neuer
+Macbeth.txt 914   sunne   morrow see
+Macbeth.txt 915   face   thane       booke where men
+Macbeth.txt 916 may reade strange matters   beguile   time
+Macbeth.txt 917 looke like   time beare welcome     eye
+Macbeth.txt 918   hand   tongue looke like th innocent flower
+Macbeth.txt 919       serpent vnder     s comming
+Macbeth.txt 920 must   prouided         put
+Macbeth.txt 921   nights great businesse into   dispatch
+Macbeth.txt 922           nights   dayes    
+Macbeth.txt 923 giue solely soueraigne sway   masterdome
+Macbeth.txt 924 
+Macbeth.txt 925    macb     speake further
+Macbeth.txt 926   lady onely looke vp cleare
+Macbeth.txt 927   alter fauor euer     feare
+Macbeth.txt 928 leaue     rest    
+Macbeth.txt 929 
+Macbeth.txt 930 exeunt
+Macbeth.txt 931 
+Macbeth.txt 932 
+Macbeth.txt 933 scena sexta
+Macbeth.txt 934 
+Macbeth.txt 935 hoboyes   torches     malcolme donalbaine
+Macbeth.txt 936 banquo lenox
+Macbeth.txt 937 macduff rosse angus   attendants
+Macbeth.txt 938 
+Macbeth.txt 939       castle hath   pleasant seat
+Macbeth.txt 940   ayre nimbly   sweetly recommends   selfe
+Macbeth.txt 941 vnto   gentle sences
+Macbeth.txt 942 
+Macbeth.txt 943    banq   guest   summer
+Macbeth.txt 944   templehaunting barlet does approue
+Macbeth.txt 945     loued mansonry     heauens breath
+Macbeth.txt 946 smells wooingly here   iutty frieze
+Macbeth.txt 947 buttrice nor coigne   vantage     bird
+Macbeth.txt 948 hath made   pendant bed   procreant cradle
+Macbeth.txt 949 where   must breed   haunt     obseru 
+Macbeth.txt 950   ayre   delicate
+Macbeth.txt 951   lady
+Macbeth.txt 952 
+Macbeth.txt 953     see see   honor  hostesse
+Macbeth.txt 954   loue   followes vs sometime     trouble
+Macbeth.txt 955   still   thanke   loue herein   teach  
+Macbeth.txt 956 how     bid godeyld vs     paines
+Macbeth.txt 957   thanke vs     trouble
+Macbeth.txt 958 
+Macbeth.txt 959    lady     seruice
+Macbeth.txt 960   euery point twice done     done double
+Macbeth.txt 961 were poore   single businesse   contend
+Macbeth.txt 962 against those honors deepe   broad
+Macbeth.txt 963 wherewith   maiestie loades   house
+Macbeth.txt 964   those   old     late dignities
+Macbeth.txt 965 heap  vp   them   rest   ermites
+Macbeth.txt 966 
+Macbeth.txt 967      wheres   thane   cawdor
+Macbeth.txt 968   courst       heeles   had   purpose
+Macbeth.txt 969       purueyor     rides well
+Macbeth.txt 970     great loue sharpe     spurre hath holp  
+Macbeth.txt 971     home before vs faire   noble hostesse
+Macbeth.txt 972       guest   night
+Macbeth.txt 973 
+Macbeth.txt 974    la   seruants euer
+Macbeth.txt 975   theirs themselues       theirs   compt
+Macbeth.txt 976   make their audit     highnesse pleasure
+Macbeth.txt 977 still   returne   owne
+Macbeth.txt 978 
+Macbeth.txt 979      giue     hand
+Macbeth.txt 980 conduct     mine host   loue   highly
+Macbeth.txt 981     continue   graces towards  
+Macbeth.txt 982     leaue hostesse
+Macbeth.txt 983 
+Macbeth.txt 984 exeunt
+Macbeth.txt 985 
+Macbeth.txt 986 scena septima
+Macbeth.txt 987 
+Macbeth.txt 988 hoboyes torches     sewer   diuers seruants   dishes
+Macbeth.txt 989  
+Macbeth.txt 990 seruice ouer   stage     macbeth
+Macbeth.txt 991 
+Macbeth.txt 992    macb     were done when tis done   twer well
+Macbeth.txt 993   were done quickly   th assassination
+Macbeth.txt 994 could trammell vp   consequence   catch
+Macbeth.txt 995     surcease successe       blow
+Macbeth.txt 996 might             end   heere
+Macbeth.txt 997   heere vpon   banke   schoole   time
+Macbeth.txt 998 weeld iumpe   life         these cases
+Macbeth.txt 999   still   iudgement heere       teach
+Macbeth.txt 1000 bloody instructions   being taught returne
+Macbeth.txt 1001   plague th inuenter   euenhanded iustice
+Macbeth.txt 1002 commends th ingredience     poyson  challice
+Macbeth.txt 1003     owne lips hees heere   double trust
+Macbeth.txt 1004 first     am   kinsman     subiect
+Macbeth.txt 1005 strong both against   deed       host
+Macbeth.txt 1006 who should against   murtherer shut   doore
+Macbeth.txt 1007   beare   knife   selfe besides   duncane
+Macbeth.txt 1008 hath borne   faculties   meeke hath bin
+Macbeth.txt 1009   cleere     great office     vertues
+Macbeth.txt 1010   pleade like angels trumpettongu  against
+Macbeth.txt 1011   deepe damnation     taking off
+Macbeth.txt 1012   pitty like   naked newbornebabe
+Macbeth.txt 1013 striding   blast   heauens cherubin hors 
+Macbeth.txt 1014 vpon   sightlesse curriors     ayre
+Macbeth.txt 1015   blow   horrid deed   euery eye
+Macbeth.txt 1016   teares   drowne   winde       spurre
+Macbeth.txt 1017   pricke   sides     intent   onely
+Macbeth.txt 1018 vaulting ambition   oreleapes   selfe
+Macbeth.txt 1019   falles   th other
+Macbeth.txt 1020   lady
+Macbeth.txt 1021 
+Macbeth.txt 1022 how     newes
+Macbeth.txt 1023   la   has almost supt why     left   chamber
+Macbeth.txt 1024   mac hath   ask     
+Macbeth.txt 1025   la know       has
+Macbeth.txt 1026   mac     proceed   further     businesse
+Macbeth.txt 1027   hath honour      late       bought
+Macbeth.txt 1028 golden opinions     sorts   people
+Macbeth.txt 1029   would   worne     their newest glosse
+Macbeth.txt 1030   cast aside   soone
+Macbeth.txt 1031 
+Macbeth.txt 1032    la was   hope drunke
+Macbeth.txt 1033 wherein   drest   selfe hath   slept since
+Macbeth.txt 1034   wakes       looke   greene   pale
+Macbeth.txt 1035       did   freely     time
+Macbeth.txt 1036 such   account   loue art   affear 
+Macbeth.txt 1037       same   thine owne act   valour
+Macbeth.txt 1038     art   desire wouldst      
+Macbeth.txt 1039     esteemst   ornament   life
+Macbeth.txt 1040   liue   coward   thine owne esteeme
+Macbeth.txt 1041 letting   dare   wait vpon   would
+Macbeth.txt 1042 like   poore cat  th addage
+Macbeth.txt 1043 
+Macbeth.txt 1044    macb prythee peace
+Macbeth.txt 1045   dare       may become   man
+Macbeth.txt 1046 who dares       none
+Macbeth.txt 1047 
+Macbeth.txt 1048    la   beast was   
+Macbeth.txt 1049   made   breake   enterprize    
+Macbeth.txt 1050 when   durst         were   man
+Macbeth.txt 1051               were   would
+Macbeth.txt 1052     much     man nor time nor place
+Macbeth.txt 1053 did   adhere   yet   would make both
+Macbeth.txt 1054     made themselues     their fitnesse  
+Macbeth.txt 1055  s vnmake       giuen sucke   know
+Macbeth.txt 1056 how tender tis   loue   babe   milkes  
+Macbeth.txt 1057   would while   was smyling     face
+Macbeth.txt 1058   pluckt   nipple     bonelesse gummes
+Macbeth.txt 1059   dasht   braines out had     sworne
+Macbeth.txt 1060       done    
+Macbeth.txt 1061 
+Macbeth.txt 1062    macb     should faile
+Macbeth.txt 1063   lady   faile
+Macbeth.txt 1064   screw   courage     sticking place
+Macbeth.txt 1065   weele   fayle when duncan   asleepe
+Macbeth.txt 1066 whereto   rather     dayes hard iourney
+Macbeth.txt 1067 soundly inuite     two chamberlaines
+Macbeth.txt 1068       wine   wassell   conuince
+Macbeth.txt 1069   memorie   warder     braine
+Macbeth.txt 1070       fume     receit   reason
+Macbeth.txt 1071   lymbeck onely when   swinish sleepe
+Macbeth.txt 1072 their drenched natures lyes       death
+Macbeth.txt 1073   cannot       performe vpon
+Macbeth.txt 1074 th vnguarded duncan     put vpon
+Macbeth.txt 1075   spungie officers who   beare   guilt
+Macbeth.txt 1076     great quell
+Macbeth.txt 1077 
+Macbeth.txt 1078    macb bring forth menchildren onely
+Macbeth.txt 1079     vndaunted mettle should compose
+Macbeth.txt 1080 nothing   males         receiu 
+Macbeth.txt 1081 when     mark    blood those sleepie two
+Macbeth.txt 1082     owne chamber   vs  their very daggers
+Macbeth.txt 1083       don 
+Macbeth.txt 1084   lady who dares receiue   other
+Macbeth.txt 1085       make   griefes   clamor rore
+Macbeth.txt 1086 vpon   death
+Macbeth.txt 1087   macb   am settled   bend vp
+Macbeth.txt 1088 each corporall agent     terrible feat
+Macbeth.txt 1089 away   mock   time   fairest show
+Macbeth.txt 1090 false face must hide     false heart doth know
+Macbeth.txt 1091 
+Macbeth.txt 1092 exeunt
+Macbeth.txt 1093 
+Macbeth.txt 1094 
+Macbeth.txt 1095 actus secundus scena prima
+Macbeth.txt 1096 
+Macbeth.txt 1097   banquo   fleance     torch before  
+Macbeth.txt 1098 
+Macbeth.txt 1099   banq how goes   night boy
+Macbeth.txt 1100   fleance   moone   downe       heard  
+Macbeth.txt 1101 clock
+Macbeth.txt 1102 
+Macbeth.txt 1103    banq   she goes downe   twelue
+Macbeth.txt 1104 
+Macbeth.txt 1105    fleance   take  tis later sir
+Macbeth.txt 1106 
+Macbeth.txt 1107    banq hold take   sword
+Macbeth.txt 1108  s husbandry   heauen
+Macbeth.txt 1109 their candles     out take     too
+Macbeth.txt 1110   heauie summons lyes like lead vpon  
+Macbeth.txt 1111   yet   would   sleepe
+Macbeth.txt 1112 mercifull powers restraine       cursed thoughts
+Macbeth.txt 1113   nature giues way     repose
+Macbeth.txt 1114   macbeth     seruant     torch
+Macbeth.txt 1115 
+Macbeth.txt 1116 giue     sword whos  
+Macbeth.txt 1117   macb   friend
+Macbeth.txt 1118 
+Macbeth.txt 1119    banq   sir   yet   rest    s   bed
+Macbeth.txt 1120   hath beene   vnusuall pleasure
+Macbeth.txt 1121   sent forth great largesse     offices
+Macbeth.txt 1122   diamond   greetes   wife withall
+Macbeth.txt 1123     name   most kind hostesse
+Macbeth.txt 1124   shut vp   measurelesse content
+Macbeth.txt 1125 
+Macbeth.txt 1126    mac being vnprepar 
+Macbeth.txt 1127     became   seruant   defect
+Macbeth.txt 1128   else should free   wrought
+Macbeth.txt 1129 
+Macbeth.txt 1130    banq  s well
+Macbeth.txt 1131   dreamt last night     three weyward sisters
+Macbeth.txt 1132         shew  some truth
+Macbeth.txt 1133 
+Macbeth.txt 1134    macb   thinke     them
+Macbeth.txt 1135 yet when   can entreat an houre   serue
+Macbeth.txt 1136   would spend     some words vpon   businesse
+Macbeth.txt 1137     would graunt   time
+Macbeth.txt 1138 
+Macbeth.txt 1139    banq     kindst leysure
+Macbeth.txt 1140 
+Macbeth.txt 1141    macb       cleaue     consent
+Macbeth.txt 1142 when tis     make honor    
+Macbeth.txt 1143 
+Macbeth.txt 1144    banq     lose none
+Macbeth.txt 1145   seeking   augment     still keepe
+Macbeth.txt 1146   bosome franchis    allegeance cleare
+Macbeth.txt 1147       counsail 
+Macbeth.txt 1148 
+Macbeth.txt 1149    macb   repose   while
+Macbeth.txt 1150 
+Macbeth.txt 1151    banq thankes sir   like    
+Macbeth.txt 1152 
+Macbeth.txt 1153 exit banquo
+Macbeth.txt 1154 
+Macbeth.txt 1155   macb goe bid   mistresse when   drinke   ready
+Macbeth.txt 1156 she strike vpon   bell get     bed
+Macbeth.txt 1157  
+Macbeth.txt 1158 
+Macbeth.txt 1159       dagger     see before  
+Macbeth.txt 1160   handle toward   hand   let   clutch  
+Macbeth.txt 1161           yet   see   still
+Macbeth.txt 1162 art     fatall vision sensible
+Macbeth.txt 1163   feeling     sight   art    
+Macbeth.txt 1164   dagger     minde   false creation
+Macbeth.txt 1165 proceeding     heatoppressed braine
+Macbeth.txt 1166   see   yet   forme   palpable
+Macbeth.txt 1167           draw
+Macbeth.txt 1168   marshallst     way     was going
+Macbeth.txt 1169   such an instrument   was   vse
+Macbeth.txt 1170 mine eyes   made   fooles  th other sences
+Macbeth.txt 1171   else worth     rest   see   still
+Macbeth.txt 1172       blade   dudgeon gouts   blood
+Macbeth.txt 1173   was     before  s   such thing
+Macbeth.txt 1174       bloody businesse   informes
+Macbeth.txt 1175 thus   mine eyes    re   one halfe world
+Macbeth.txt 1176 nature seemes dead   wicked dreames abuse
+Macbeth.txt 1177   curtain  sleepe witchcraft celebrates
+Macbeth.txt 1178 pale heccats offrings   wither  murther
+Macbeth.txt 1179 alarum      centinell   wolfe
+Macbeth.txt 1180 whose howles   watch thus     stealthy pace
+Macbeth.txt 1181   tarquins rauishing sides towards   designe
+Macbeth.txt 1182 moues like   ghost   sowre   firmeset earth
+Macbeth.txt 1183 heare     steps     may walke   feare
+Macbeth.txt 1184   very stones prate     whereabout
+Macbeth.txt 1185   take   present horror     time
+Macbeth.txt 1186     sutes     whiles   threat   liues
+Macbeth.txt 1187 words     heat   deedes too cold breath giues
+Macbeth.txt 1188 
+Macbeth.txt 1189   bell rings
+Macbeth.txt 1190 
+Macbeth.txt 1191   goe       done   bell inuites  
+Macbeth.txt 1192 heare     duncan         knell
+Macbeth.txt 1193   summons     heauen     hell
+Macbeth.txt 1194  
+Macbeth.txt 1195 
+Macbeth.txt 1196 
+Macbeth.txt 1197 scena secunda
+Macbeth.txt 1198 
+Macbeth.txt 1199   lady
+Macbeth.txt 1200 
+Macbeth.txt 1201   la     hath made  m drunk hath made   bold
+Macbeth.txt 1202   hath quench  them hath giuen   fire
+Macbeth.txt 1203 hearke peace   was   owle   shriek 
+Macbeth.txt 1204   fatall bellman   giues   sternst  night
+Macbeth.txt 1205     about     doores   open
+Macbeth.txt 1206     surfeted groomes doe mock their charge
+Macbeth.txt 1207   snores     drugg  their possets
+Macbeth.txt 1208   death   nature doe contend about them
+Macbeth.txt 1209 whether   liue   dye
+Macbeth.txt 1210   macbeth
+Macbeth.txt 1211 
+Macbeth.txt 1212   macb whos     hoa
+Macbeth.txt 1213   lady alack   am afraid     awak 
+Macbeth.txt 1214   tis   done th attempt       deed
+Macbeth.txt 1215 confounds vs hearke   lay  their daggers ready
+Macbeth.txt 1216   could   misse em had     resembled
+Macbeth.txt 1217   father     slept   had don 
+Macbeth.txt 1218   husband
+Macbeth.txt 1219   macb     done   deed
+Macbeth.txt 1220 didst     heare   noyse
+Macbeth.txt 1221   lady   heard   owle schreame     crickets cry
+Macbeth.txt 1222 did     speake
+Macbeth.txt 1223   macb when
+Macbeth.txt 1224   lady  
+Macbeth.txt 1225 
+Macbeth.txt 1226    macb     descended
+Macbeth.txt 1227   lady  
+Macbeth.txt 1228 
+Macbeth.txt 1229    macb hearke who lyes  th second chamber
+Macbeth.txt 1230   lady donalbaine
+Macbeth.txt 1231 
+Macbeth.txt 1232    mac       sorry sight
+Macbeth.txt 1233 
+Macbeth.txt 1234    lady   foolish thought   say   sorry sight
+Macbeth.txt 1235 
+Macbeth.txt 1236    macb  s one did laugh  s sleepe
+Macbeth.txt 1237   one cry  murther     did wake each other
+Macbeth.txt 1238   stood   heard them     did say their prayers
+Macbeth.txt 1239   addrest them againe   sleepe
+Macbeth.txt 1240 
+Macbeth.txt 1241    lady     two lodg  together
+Macbeth.txt 1242 
+Macbeth.txt 1243    macb one cry  god blesse vs   amen   other
+Macbeth.txt 1244     had seene     these hangmans hands
+Macbeth.txt 1245 listning their feare   could   say amen
+Macbeth.txt 1246 when   did say god blesse vs
+Macbeth.txt 1247 
+Macbeth.txt 1248    lady consider       deepely
+Macbeth.txt 1249 
+Macbeth.txt 1250    mac   wherefore could     pronounce amen
+Macbeth.txt 1251   had most need   blessing   amen stuck     throat
+Macbeth.txt 1252 
+Macbeth.txt 1253    lady these deeds must     thought
+Macbeth.txt 1254 after these wayes       make vs mad
+Macbeth.txt 1255 
+Macbeth.txt 1256    macb   thought   heard   voyce cry sleep    
+Macbeth.txt 1257 macbeth does murther sleepe   innocent sleepe
+Macbeth.txt 1258 sleepe   knits vp   rauel  sleeue   care
+Macbeth.txt 1259   death   each dayes life sore labors bath
+Macbeth.txt 1260 balme   hurt mindes great natures second course
+Macbeth.txt 1261 chiefe nourisher   lifes feast
+Macbeth.txt 1262 
+Macbeth.txt 1263    lady   doe   meane
+Macbeth.txt 1264   macb still   cry  sleepe           house
+Macbeth.txt 1265 glamis hath murther  sleepe   therefore cawdor
+Macbeth.txt 1266   sleepe     macbeth   sleepe    
+Macbeth.txt 1267 
+Macbeth.txt 1268    lady who was     thus cry  why worthy thane
+Macbeth.txt 1269   doe vnbend   noble strength   thinke
+Macbeth.txt 1270   brainesickly   things goe get some water
+Macbeth.txt 1271   wash   filthie witnesse     hand
+Macbeth.txt 1272 why did   bring these daggers     place
+Macbeth.txt 1273   must lye   goe carry them   smeare
+Macbeth.txt 1274   sleepie groomes   blood
+Macbeth.txt 1275 
+Macbeth.txt 1276    macb ile goe    
+Macbeth.txt 1277   am afraid   thinke       done
+Macbeth.txt 1278 looke    againe   dare  
+Macbeth.txt 1279 
+Macbeth.txt 1280    lady infirme   purpose
+Macbeth.txt 1281 giue     daggers   sleeping     dead
+Macbeth.txt 1282       pictures tis   eye   childhood
+Macbeth.txt 1283   feares   painted deuill     doe bleed
+Macbeth.txt 1284 ile guild   faces     groomes withall
+Macbeth.txt 1285     must seeme their guilt
+Macbeth.txt 1286  
+Macbeth.txt 1287 
+Macbeth.txt 1288 knocke within
+Macbeth.txt 1289 
+Macbeth.txt 1290   macb whence     knocking
+Macbeth.txt 1291 how        when euery noyse appalls  
+Macbeth.txt 1292   hands   here hah   pluck out mine eyes
+Macbeth.txt 1293     great neptunes ocean wash   blood
+Macbeth.txt 1294 cleane     hand       hand   rather
+Macbeth.txt 1295   multitudinous seas incarnardine
+Macbeth.txt 1296 making   greene one red
+Macbeth.txt 1297   lady
+Macbeth.txt 1298 
+Macbeth.txt 1299   lady   hands       colour     shame
+Macbeth.txt 1300   weare   heart   white
+Macbeth.txt 1301 
+Macbeth.txt 1302 knocke
+Macbeth.txt 1303 
+Macbeth.txt 1304   heare   knocking     south entry
+Macbeth.txt 1305 retyre       chamber
+Macbeth.txt 1306   little water cleares vs     deed
+Macbeth.txt 1307 how easie         constancie
+Macbeth.txt 1308 hath left   vnattended
+Macbeth.txt 1309 
+Macbeth.txt 1310 knocke
+Macbeth.txt 1311 
+Macbeth.txt 1312 hearke   knocking
+Macbeth.txt 1313 get     nightgowne least occasion call vs
+Macbeth.txt 1314   shew vs     watchers     lost
+Macbeth.txt 1315   poorely     thoughts
+Macbeth.txt 1316 
+Macbeth.txt 1317    macb   know   deed
+Macbeth.txt 1318 
+Macbeth.txt 1319 knocke
+Macbeth.txt 1320 
+Macbeth.txt 1321 twere best   know   selfe
+Macbeth.txt 1322 wake duncan     knocking
+Macbeth.txt 1323   would   couldst
+Macbeth.txt 1324 
+Macbeth.txt 1325 exeunt
+Macbeth.txt 1326 
+Macbeth.txt 1327 
+Macbeth.txt 1328 scena tertia
+Macbeth.txt 1329 
+Macbeth.txt 1330     porter knocking within
+Macbeth.txt 1331 
+Macbeth.txt 1332   porter heres   knocking indeede     man were
+Macbeth.txt 1333 porter   hell gate hee should   old turning  
+Macbeth.txt 1334 key
+Macbeth.txt 1335 
+Macbeth.txt 1336 knock
+Macbeth.txt 1337 
+Macbeth.txt 1338 knock knock knock whos  
+Macbeth.txt 1339  th name   belzebub heres   farmer   hang 
+Macbeth.txt 1340 himselfe   th expectation   plentie     time  
+Macbeth.txt 1341 napkins enow about   here  le sweat   
+Macbeth.txt 1342 
+Macbeth.txt 1343 knock
+Macbeth.txt 1344 
+Macbeth.txt 1345 knock knock whos     th other deuils name
+Macbeth.txt 1346 faith heres an equiuocator   could sweare   both
+Macbeth.txt 1347   scales against eyther scale who committed treason
+Macbeth.txt 1348 enough   gods sake yet could   equiuocate   heauen
+Macbeth.txt 1349 oh     equiuocator
+Macbeth.txt 1350 
+Macbeth.txt 1351 knock
+Macbeth.txt 1352 
+Macbeth.txt 1353 knock knock knock whos   faith heres an english
+Macbeth.txt 1354 taylor   hither   stealing out     french hose
+Macbeth.txt 1355     taylor here   may rost   goose
+Macbeth.txt 1356 knock
+Macbeth.txt 1357 
+Macbeth.txt 1358 knock knock neuer   quiet          
+Macbeth.txt 1359 place   too cold   hell ile deuillporter     further
+Macbeth.txt 1360   had thought     let   some     professions  
+Macbeth.txt 1361 goe   primrose way   th euerlasting bonfire
+Macbeth.txt 1362 
+Macbeth.txt 1363 knock
+Macbeth.txt 1364 
+Macbeth.txt 1365 anon anon   pray   remember   porter
+Macbeth.txt 1366   macduff   lenox
+Macbeth.txt 1367 
+Macbeth.txt 1368   macd was     late friend ere   went   bed
+Macbeth.txt 1369     doe lye   late
+Macbeth.txt 1370   port faith sir   were carowsing till   second cock
+Macbeth.txt 1371   drinke sir     great prouoker   three things
+Macbeth.txt 1372 
+Macbeth.txt 1373    macd   three things does drinke especially
+Macbeth.txt 1374 prouoke
+Macbeth.txt 1375   port marry sir nosepainting sleepe   vrine
+Macbeth.txt 1376 lecherie sir   prouokes   vnprouokes   prouokes
+Macbeth.txt 1377   desire     takes away   performance therefore
+Macbeth.txt 1378 much drinke may   said     an equiuocator   lecherie
+Macbeth.txt 1379   makes       marres     sets    
+Macbeth.txt 1380     takes   off   perswades     disheartens
+Macbeth.txt 1381   makes   stand too     stand too   conclusion
+Macbeth.txt 1382 equiuocates       sleepe   giuing     lye
+Macbeth.txt 1383 leaues  
+Macbeth.txt 1384 
+Macbeth.txt 1385    macd   beleeue drinke gaue     lye last night
+Macbeth.txt 1386 
+Macbeth.txt 1387    port     did sir    very throat        
+Macbeth.txt 1388 requited       lye     thinke being too strong
+Macbeth.txt 1389     though   tooke vp   legges sometime yet  
+Macbeth.txt 1390 made   shift   cast  
+Macbeth.txt 1391   macbeth
+Macbeth.txt 1392 
+Macbeth.txt 1393   macd     master stirring
+Macbeth.txt 1394   knocking has awak    here   comes
+Macbeth.txt 1395 
+Macbeth.txt 1396    lenox   morrow noble sir
+Macbeth.txt 1397 
+Macbeth.txt 1398    macb   morrow both
+Macbeth.txt 1399 
+Macbeth.txt 1400    macd       stirring worthy thane
+Macbeth.txt 1401   macb   yet
+Macbeth.txt 1402 
+Macbeth.txt 1403    macd   did command     call timely    
+Macbeth.txt 1404     almost slipt   houre
+Macbeth.txt 1405 
+Macbeth.txt 1406    macb ile bring      
+Macbeth.txt 1407 
+Macbeth.txt 1408    macd   know       ioyfull trouble    
+Macbeth.txt 1409   yet tis one
+Macbeth.txt 1410 
+Macbeth.txt 1411    macb   labour   delight   physicks paine
+Macbeth.txt 1412       doore
+Macbeth.txt 1413 
+Macbeth.txt 1414    macd ile make   bold   call   tis   limitted
+Macbeth.txt 1415 seruice
+Macbeth.txt 1416 
+Macbeth.txt 1417 exit macduffe
+Macbeth.txt 1418 
+Macbeth.txt 1419   lenox goes     hence   day
+Macbeth.txt 1420   macb   does   did appoint  
+Macbeth.txt 1421 
+Macbeth.txt 1422    lenox   night has been vnruly
+Macbeth.txt 1423 where   lay   chimneys were blowne downe
+Macbeth.txt 1424       say lamentings heard  th ayre
+Macbeth.txt 1425 strange schreemes   death
+Macbeth.txt 1426   prophecying   accents terrible
+Macbeth.txt 1427   dyre combustion   confus  euents
+Macbeth.txt 1428 new hatch  toth wofull time
+Macbeth.txt 1429   obscure bird clamor    liuelong night
+Macbeth.txt 1430 some say   earth was feuorous
+Macbeth.txt 1431   did shake
+Macbeth.txt 1432 
+Macbeth.txt 1433    macb twas   rough night
+Macbeth.txt 1434 
+Macbeth.txt 1435    lenox   young remembrance cannot paralell
+Macbeth.txt 1436   fellow    
+Macbeth.txt 1437   macduff
+Macbeth.txt 1438 
+Macbeth.txt 1439   macd   horror horror horror
+Macbeth.txt 1440 tongue nor heart cannot conceiue nor name  
+Macbeth.txt 1441 
+Macbeth.txt 1442    macb   lenox  s   matter
+Macbeth.txt 1443   macd confusion   hath made   masterpeece
+Macbeth.txt 1444 most sacrilegious murther hath broke ope
+Macbeth.txt 1445   lords anoynted temple   stole thence
+Macbeth.txt 1446   life  th building
+Macbeth.txt 1447 
+Macbeth.txt 1448    macb        say   life
+Macbeth.txt 1449   lenox meane     maiestie
+Macbeth.txt 1450   macd approch   chamber   destroy   sight
+Macbeth.txt 1451     new gorgon doe   bid   speake
+Macbeth.txt 1452 see     speake   selues awake awake
+Macbeth.txt 1453 
+Macbeth.txt 1454 exeunt macbeth   lenox
+Macbeth.txt 1455 
+Macbeth.txt 1456 ring   alarum bell murther   treason
+Macbeth.txt 1457 banquo   donalbaine malcolme awake
+Macbeth.txt 1458 shake off   downey sleepe deaths counterfeit
+Macbeth.txt 1459   looke   death   selfe vp vp   see
+Macbeth.txt 1460   great doomes image malcolme banquo
+Macbeth.txt 1461       graues rise vp   walke like sprights
+Macbeth.txt 1462   countenance   horror ring   bell
+Macbeth.txt 1463 
+Macbeth.txt 1464 bell rings   lady
+Macbeth.txt 1465 
+Macbeth.txt 1466   lady  s   businesse
+Macbeth.txt 1467   such   hideous trumpet calls   parley
+Macbeth.txt 1468   sleepers     house speake speake
+Macbeth.txt 1469 
+Macbeth.txt 1470    macd   gentle lady
+Macbeth.txt 1471 tis         heare     can speake
+Macbeth.txt 1472   repetition     womans eare
+Macbeth.txt 1473 would murther     fell
+Macbeth.txt 1474   banquo
+Macbeth.txt 1475 
+Macbeth.txt 1476   banquo banquo   royall masters murther 
+Macbeth.txt 1477 
+Macbeth.txt 1478    lady woe alas
+Macbeth.txt 1479       house
+Macbeth.txt 1480   ban too cruell any where
+Macbeth.txt 1481 deare duff   prythee contradict   selfe
+Macbeth.txt 1482   say        
+Macbeth.txt 1483   macbeth lenox   rosse
+Macbeth.txt 1484 
+Macbeth.txt 1485   macb had     dy  an houre before   chance
+Macbeth.txt 1486   had liu    blessed time       instant
+Macbeth.txt 1487  s nothing serious   mortalitie
+Macbeth.txt 1488       toyes renowne   grace   dead
+Macbeth.txt 1489   wine   life   drawne     meere lees
+Macbeth.txt 1490   left   vault   brag  
+Macbeth.txt 1491   malcolme   donalbaine
+Macbeth.txt 1492 
+Macbeth.txt 1493   donal     amisse
+Macbeth.txt 1494   macb       doe   know 
+Macbeth.txt 1495   spring   head   fountaine     blood
+Macbeth.txt 1496   stopt   very source       stopt
+Macbeth.txt 1497 
+Macbeth.txt 1498    macd   royall fathers murther 
+Macbeth.txt 1499 
+Macbeth.txt 1500    mal oh   whom
+Macbeth.txt 1501   lenox those     chamber     seem  had don 
+Macbeth.txt 1502 their hands   faces were   badg    blood
+Macbeth.txt 1503   were their daggers   vnwip    found
+Macbeth.txt 1504 vpon their pillowes   star    were distracted
+Macbeth.txt 1505   mans life was     trusted   them
+Macbeth.txt 1506 
+Macbeth.txt 1507    macb   yet   doe repent       furie
+Macbeth.txt 1508     did kill them
+Macbeth.txt 1509 
+Macbeth.txt 1510    macd wherefore did    
+Macbeth.txt 1511   macb who can   wise amaz  temprate  furious
+Macbeth.txt 1512 loyall   neutrall     moment   man
+Macbeth.txt 1513 th expedition     violent loue
+Macbeth.txt 1514 outrun   pawser reason here lay duncan
+Macbeth.txt 1515   siluer skinne lac      golden blood
+Macbeth.txt 1516     gash  stabs look  like   breach   nature
+Macbeth.txt 1517   ruines wastfull entrance     murtherers
+Macbeth.txt 1518 steep      colours   their trade their daggers
+Macbeth.txt 1519 vnmannerly breech    gore who could refraine
+Macbeth.txt 1520   had   heart   loue       heart
+Macbeth.txt 1521 courage   makes loue knowne
+Macbeth.txt 1522   lady helpe   hence hoa
+Macbeth.txt 1523 
+Macbeth.txt 1524    macd looke     lady
+Macbeth.txt 1525 
+Macbeth.txt 1526    mal why doe   hold   tongues
+Macbeth.txt 1527   most may clayme   argument   ours
+Macbeth.txt 1528   donal   should   spoken here
+Macbeth.txt 1529 where   fate hid   an augure hole
+Macbeth.txt 1530 may rush   seize vs lets away
+Macbeth.txt 1531   teares     yet brew 
+Macbeth.txt 1532 
+Macbeth.txt 1533    mal nor   strong sorrow
+Macbeth.txt 1534 vpon   foot   motion
+Macbeth.txt 1535 
+Macbeth.txt 1536    banq looke     lady
+Macbeth.txt 1537   when       naked frailties hid
+Macbeth.txt 1538   suffer   exposure let vs meet
+Macbeth.txt 1539   question   most bloody piece   worke
+Macbeth.txt 1540   know   further feares   scruples shake vs
+Macbeth.txt 1541     great hand   god   stand   thence
+Macbeth.txt 1542 against   vndivulg  pretence   fight
+Macbeth.txt 1543   treasonous mallice
+Macbeth.txt 1544 
+Macbeth.txt 1545    macd     doe  
+Macbeth.txt 1546 
+Macbeth.txt 1547         
+Macbeth.txt 1548 
+Macbeth.txt 1549    macb lets briefely put   manly readinesse
+Macbeth.txt 1550   meet  th hall together
+Macbeth.txt 1551 
+Macbeth.txt 1552      well contented
+Macbeth.txt 1553 
+Macbeth.txt 1554 exeunt
+Macbeth.txt 1555 
+Macbeth.txt 1556   malc       doe
+Macbeth.txt 1557 lets   consort   them
+Macbeth.txt 1558   shew an vnfelt sorrow   an office
+Macbeth.txt 1559     false man  s easie
+Macbeth.txt 1560 ile   england
+Macbeth.txt 1561 
+Macbeth.txt 1562    don   ireland  
+Macbeth.txt 1563   seperated fortune   keepe vs both   safer
+Macbeth.txt 1564 where      s daggers   mens smiles
+Macbeth.txt 1565   neere   blood   neerer bloody
+Macbeth.txt 1566 
+Macbeth.txt 1567    malc   murtherous shaft  s shot
+Macbeth.txt 1568 hath   yet lighted     safest way
+Macbeth.txt 1569     auoid   ayme therefore   horse
+Macbeth.txt 1570   let vs     daintie   leauetaking
+Macbeth.txt 1571   shift away  s warrant     theft
+Macbeth.txt 1572   steales   selfe when  s   mercie left
+Macbeth.txt 1573 
+Macbeth.txt 1574 exeunt
+Macbeth.txt 1575 
+Macbeth.txt 1576 
+Macbeth.txt 1577 
+Macbeth.txt 1578 scena quarta
+Macbeth.txt 1579 
+Macbeth.txt 1580   rosse   an old man
+Macbeth.txt 1581 
+Macbeth.txt 1582   old man threescore   ten   can remember well
+Macbeth.txt 1583 within   volume     time     seene
+Macbeth.txt 1584 houres dreadfull   things strange     sore night
+Macbeth.txt 1585 hath trifled former knowings
+Macbeth.txt 1586 
+Macbeth.txt 1587    rosse ha   father
+Macbeth.txt 1588   seest   heauens   troubled   mans act
+Macbeth.txt 1589 threatens   bloody stage byth clock tis day
+Macbeth.txt 1590   yet darke night strangles   trauailing lampe
+Macbeth.txt 1591    nights predominance     dayes shame
+Macbeth.txt 1592   darknesse does   face   earth intombe
+Macbeth.txt 1593 when liuing light should kisse  
+Macbeth.txt 1594   old man tis vnnaturall
+Macbeth.txt 1595 euen like   deed  s done   tuesday last
+Macbeth.txt 1596   faulcon towring     pride   place
+Macbeth.txt 1597 was     mowsing owle hawkt     kill 
+Macbeth.txt 1598 
+Macbeth.txt 1599    rosse   duncans horses
+Macbeth.txt 1600   thing most strange   certaine
+Macbeth.txt 1601 beauteous   swift   minions   their race
+Macbeth.txt 1602 turn  wilde   nature broke their stalls flong out
+Macbeth.txt 1603 contending gainst obedience     would
+Macbeth.txt 1604 make warre   mankinde
+Macbeth.txt 1605 
+Macbeth.txt 1606    old man tis said   eate each other
+Macbeth.txt 1607 
+Macbeth.txt 1608    rosse   did  
+Macbeth.txt 1609   th amazement   mine eyes   look  vpon 
+Macbeth.txt 1610   macduffe
+Macbeth.txt 1611 
+Macbeth.txt 1612 heere comes     macduffe
+Macbeth.txt 1613 how goes   world sir  
+Macbeth.txt 1614   macd why see    
+Macbeth.txt 1615   ross    known who did       bloody deed
+Macbeth.txt 1616   macd those   macbeth hath slaine
+Macbeth.txt 1617 
+Macbeth.txt 1618    ross alas   day
+Macbeth.txt 1619     could   pretend
+Macbeth.txt 1620   macd   were subborned
+Macbeth.txt 1621 malcolme   donalbaine   kings two sonnes
+Macbeth.txt 1622   stolne away   fled   puts vpon them
+Macbeth.txt 1623 suspition     deed
+Macbeth.txt 1624 
+Macbeth.txt 1625    rosse gainst nature still
+Macbeth.txt 1626 thriftlesse ambition     rauen vp
+Macbeth.txt 1627 thine owne liues meanes   tis most like
+Macbeth.txt 1628   soueraignty   fall vpon macbeth
+Macbeth.txt 1629 
+Macbeth.txt 1630    macd     already nam    gone   scone
+Macbeth.txt 1631     inuested
+Macbeth.txt 1632 
+Macbeth.txt 1633    rosse where   duncans body
+Macbeth.txt 1634   macd carried   colmekill
+Macbeth.txt 1635   sacred storehouse     predecessors
+Macbeth.txt 1636   guardian   their bones
+Macbeth.txt 1637 
+Macbeth.txt 1638    rosse       scone
+Macbeth.txt 1639   macd   cosin ile   fife
+Macbeth.txt 1640 
+Macbeth.txt 1641    rosse well     thither
+Macbeth.txt 1642 
+Macbeth.txt 1643    macd well may   see things wel done   adieu
+Macbeth.txt 1644 least   old robes sit easier     new
+Macbeth.txt 1645 
+Macbeth.txt 1646    rosse farewell father
+Macbeth.txt 1647 
+Macbeth.txt 1648    old m gods benyson go         those
+Macbeth.txt 1649   would make     bad   friends   foes
+Macbeth.txt 1650 
+Macbeth.txt 1651 exeunt omnes
+Macbeth.txt 1652 
+Macbeth.txt 1653 actus tertius scena prima
+Macbeth.txt 1654 
+Macbeth.txt 1655   banquo
+Macbeth.txt 1656 
+Macbeth.txt 1657   banq   hast       cawdor glamis  
+Macbeth.txt 1658     weyard women promis      feare
+Macbeth.txt 1659   playdst most fowly    yet   was saide
+Macbeth.txt 1660   should   stand     posterity
+Macbeth.txt 1661       selfe should     roote   father
+Macbeth.txt 1662   many kings       truth   them
+Macbeth.txt 1663   vpon   macbeth their speeches shine
+Macbeth.txt 1664 why     verities     made  
+Macbeth.txt 1665 may         oracles   well
+Macbeth.txt 1666   set   vp   hope   hush    
+Macbeth.txt 1667 
+Macbeth.txt 1668 senit sounded   macbeth     lady lenox rosse lords
+Macbeth.txt 1669  
+Macbeth.txt 1670 attendants
+Macbeth.txt 1671 
+Macbeth.txt 1672   macb heeres   chiefe guest
+Macbeth.txt 1673 
+Macbeth.txt 1674    la     had beene forgotten
+Macbeth.txt 1675   had bene     gap     great feast
+Macbeth.txt 1676    thing vnbecomming
+Macbeth.txt 1677 
+Macbeth.txt 1678    macb   night   hold   solemne supper sir
+Macbeth.txt 1679   ile request   presence
+Macbeth.txt 1680 
+Macbeth.txt 1681    banq let   highnesse
+Macbeth.txt 1682 command vpon           duties
+Macbeth.txt 1683       most indissoluble tye
+Macbeth.txt 1684   euer knit
+Macbeth.txt 1685 
+Macbeth.txt 1686    macb ride     afternoone
+Macbeth.txt 1687   ban        
+Macbeth.txt 1688 
+Macbeth.txt 1689    macb   should   else desir      aduice
+Macbeth.txt 1690   still hath been both graue   prosperous
+Macbeth.txt 1691     dayes councell   weele take   morrow
+Macbeth.txt 1692    farre   ride
+Macbeth.txt 1693   ban   farre         fill vp   time
+Macbeth.txt 1694 twixt     supper goe     horse   better
+Macbeth.txt 1695   must become   borrower     night
+Macbeth.txt 1696     darke houre   twaine
+Macbeth.txt 1697 
+Macbeth.txt 1698    macb faile     feast
+Macbeth.txt 1699 
+Macbeth.txt 1700    ban          
+Macbeth.txt 1701 
+Macbeth.txt 1702    macb   heare   bloody cozens   bestow 
+Macbeth.txt 1703   england     ireland   confessing
+Macbeth.txt 1704 their cruell parricide filling their hearers
+Macbeth.txt 1705   strange inuention         morrow
+Macbeth.txt 1706 when therewithall       cause   state
+Macbeth.txt 1707 crauing vs ioyntly hye     horse
+Macbeth.txt 1708 adieu till   returne   night
+Macbeth.txt 1709 goes fleance    
+Macbeth.txt 1710   ban           time does call vpons
+Macbeth.txt 1711 
+Macbeth.txt 1712    macb   wish   horses swift   sure   foot
+Macbeth.txt 1713       doe commend     their backs
+Macbeth.txt 1714 farwell
+Macbeth.txt 1715 
+Macbeth.txt 1716 exit banquo
+Macbeth.txt 1717 
+Macbeth.txt 1718 let euery man   master     time
+Macbeth.txt 1719 till seuen   night   make societie
+Macbeth.txt 1720   sweeter welcome
+Macbeth.txt 1721     keepe   selfe till supper time alone
+Macbeth.txt 1722 while   god      
+Macbeth.txt 1723 
+Macbeth.txt 1724 exeunt lords
+Macbeth.txt 1725 
+Macbeth.txt 1726 sirrha   word     attend those men
+Macbeth.txt 1727   pleasure
+Macbeth.txt 1728   seruant         without   pallace
+Macbeth.txt 1729 gate
+Macbeth.txt 1730 
+Macbeth.txt 1731    macb bring them before vs
+Macbeth.txt 1732 
+Macbeth.txt 1733 exit seruant
+Macbeth.txt 1734 
+Macbeth.txt 1735     thus   nothing       safely thus
+Macbeth.txt 1736   feares   banquo sticke deepe
+Macbeth.txt 1737       royaltie   nature reignes  
+Macbeth.txt 1738   would   fear  tis much   dares
+Macbeth.txt 1739       dauntlesse temper     minde
+Macbeth.txt 1740   hath   wisdome   doth guide   valour
+Macbeth.txt 1741   act   safetie     none    
+Macbeth.txt 1742 whose being   doe feare   vnder  
+Macbeth.txt 1743   genius   rebuk        said
+Macbeth.txt 1744 mark anthonies was   caesar   chid   sisters
+Macbeth.txt 1745 when first   put   name     vpon  
+Macbeth.txt 1746   bad them speake       prophetlike
+Macbeth.txt 1747   hayl    father     line   kings
+Macbeth.txt 1748 vpon   head   plac    fruitlesse crowne
+Macbeth.txt 1749   put   barren scepter     gripe
+Macbeth.txt 1750 thence     wrencht   an vnlineall hand
+Macbeth.txt 1751   sonne   mine succeeding       
+Macbeth.txt 1752   banquos issue     fil    minde
+Macbeth.txt 1753   them   gracious duncan     murther 
+Macbeth.txt 1754 put rancours     vessell     peace
+Macbeth.txt 1755 onely   them   mine eternall iewell
+Macbeth.txt 1756 giuen     common enemie   man
+Macbeth.txt 1757   make them kings   seedes   banquo kings
+Macbeth.txt 1758 rather       fate into   lyst
+Macbeth.txt 1759   champion     th vtterance
+Macbeth.txt 1760 whos  
+Macbeth.txt 1761   seruant   two murtherers
+Macbeth.txt 1762 
+Macbeth.txt 1763   goe     doore   stay   till   call
+Macbeth.txt 1764 
+Macbeth.txt 1765 exit seruant
+Macbeth.txt 1766 
+Macbeth.txt 1767 was     yesterday   spoke together
+Macbeth.txt 1768   murth   was   please   highnesse
+Macbeth.txt 1769 
+Macbeth.txt 1770    macb well  
+Macbeth.txt 1771       consider      speeches
+Macbeth.txt 1772 know     was       times past
+Macbeth.txt 1773   held     vnder fortune
+Macbeth.txt 1774     thought had been   innocent selfe
+Macbeth.txt 1775     made           last conference
+Macbeth.txt 1776 past   probation    
+Macbeth.txt 1777 how   were borne   hand how crost
+Macbeth.txt 1778   instruments who wrought   them
+Macbeth.txt 1779     things else   might
+Macbeth.txt 1780   halfe   soule       notion craz 
+Macbeth.txt 1781 say thus did banquo
+Macbeth.txt 1782 
+Macbeth.txt 1783    1murth   made   knowne   vs
+Macbeth.txt 1784 
+Macbeth.txt 1785    macb   did  
+Macbeth.txt 1786   went further      
+Macbeth.txt 1787   point   second meeting
+Macbeth.txt 1788 doe   finde   patience   predominant
+Macbeth.txt 1789     nature     can let   goe
+Macbeth.txt 1790       gospell    pray       man
+Macbeth.txt 1791       issue whose heauie hand
+Macbeth.txt 1792 hath bow        graue   begger 
+Macbeth.txt 1793 yours   euer
+Macbeth.txt 1794   1murth     men   liege
+Macbeth.txt 1795 
+Macbeth.txt 1796    macb       catalogue ye goe   men
+Macbeth.txt 1797   hounds   greyhounds mungrels spaniels curres
+Macbeth.txt 1798 showghes waterrugs   demywolues   clipt
+Macbeth.txt 1799       name   dogges   valued file
+Macbeth.txt 1800 distinguishes   swift   slow   subtle
+Macbeth.txt 1801   housekeeper   hunter euery one
+Macbeth.txt 1802 according     gift   bounteous nature
+Macbeth.txt 1803 hath     clos  whereby   does receiue
+Macbeth.txt 1804 particular addition     bill
+Macbeth.txt 1805   writes them   alike       men
+Macbeth.txt 1806           station     file
+Macbeth.txt 1807    th worst ranke   manhood say 
+Macbeth.txt 1808       put   businesse     bosomes
+Macbeth.txt 1809 whose execution takes   enemie off
+Macbeth.txt 1810 grapples       heart   loue   vs
+Macbeth.txt 1811 who weare   health   sickly     life
+Macbeth.txt 1812       death were perfect
+Macbeth.txt 1813 
+Macbeth.txt 1814    2murth   am one   liege
+Macbeth.txt 1815 whom   vile blowes   buffets     world
+Macbeth.txt 1816 hath   incens      am recklesse     doe
+Macbeth.txt 1817   spight   world
+Macbeth.txt 1818 
+Macbeth.txt 1819    1murth     another
+Macbeth.txt 1820   wearie   disasters tugg    fortune
+Macbeth.txt 1821     would set   life   any chance
+Macbeth.txt 1822   mend       rid   
+Macbeth.txt 1823 
+Macbeth.txt 1824    macb both     know banquo was   enemie
+Macbeth.txt 1825 
+Macbeth.txt 1826    murth true    
+Macbeth.txt 1827 
+Macbeth.txt 1828    macb       mine     such bloody distance
+Macbeth.txt 1829   euery minute     being thrusts
+Macbeth.txt 1830 against   neerst   life   though   could
+Macbeth.txt 1831   barefac  power sweepe       sight
+Macbeth.txt 1832   bid     auouch   yet   must  
+Macbeth.txt 1833   certaine friends     both     mine
+Macbeth.txt 1834 whose loues   may   drop   wayle   fall
+Macbeth.txt 1835 who     selfe struck downe   thence    
+Macbeth.txt 1836         assistance doe make loue
+Macbeth.txt 1837 masking   businesse     common eye
+Macbeth.txt 1838   sundry weightie reasons
+Macbeth.txt 1839 
+Macbeth.txt 1840    2murth        
+Macbeth.txt 1841 performe     command vs
+Macbeth.txt 1842 
+Macbeth.txt 1843    1murth though   liues
+Macbeth.txt 1844   macb   spirits shine through  
+Macbeth.txt 1845 within   houre   most
+Macbeth.txt 1846     aduise   where   plant   selues
+Macbeth.txt 1847 acquaint       perfect spy  th time
+Macbeth.txt 1848   moment       must   done   night
+Macbeth.txt 1849   something     pallace alwayes thought
+Macbeth.txt 1850     require   clearenesse      
+Macbeth.txt 1851   leaue   rubs nor botches     worke
+Macbeth.txt 1852   fleans    sonne   keepes   companie
+Macbeth.txt 1853 whose absence     lesse materiall    
+Macbeth.txt 1854       fathers must embrace   fate
+Macbeth.txt 1855     darke houre resolue   selues apart
+Macbeth.txt 1856 ile       anon
+Macbeth.txt 1857 
+Macbeth.txt 1858    murth     resolu     
+Macbeth.txt 1859 
+Macbeth.txt 1860    macb ile call vpon   straight abide within
+Macbeth.txt 1861     concluded banquo   soules flight
+Macbeth.txt 1862     finde heauen must finde   out   night
+Macbeth.txt 1863 
+Macbeth.txt 1864 exeunt
+Macbeth.txt 1865 
+Macbeth.txt 1866 
+Macbeth.txt 1867 scena secunda
+Macbeth.txt 1868 
+Macbeth.txt 1869   macbeths lady     seruant
+Macbeth.txt 1870 
+Macbeth.txt 1871   lady   banquo gone   court
+Macbeth.txt 1872   seruant   madame   returnes againe   night
+Macbeth.txt 1873 
+Macbeth.txt 1874    lady say         would attend   leysure
+Macbeth.txt 1875     few words
+Macbeth.txt 1876 
+Macbeth.txt 1877    seruant madame    
+Macbeth.txt 1878  
+Macbeth.txt 1879 
+Macbeth.txt 1880   lady noughts had  s spent
+Macbeth.txt 1881 where   desire   got without content
+Macbeth.txt 1882 tis safer           destroy
+Macbeth.txt 1883     destruction dwell   doubtfull ioy
+Macbeth.txt 1884   macbeth
+Macbeth.txt 1885 
+Macbeth.txt 1886 how       why doe   keepe alone
+Macbeth.txt 1887   sorryest fancies   companions making
+Macbeth.txt 1888 vsing those thoughts   should indeed   dy 
+Macbeth.txt 1889   them   thinke   things without   remedie
+Macbeth.txt 1890 should   without regard  s done   done
+Macbeth.txt 1891 
+Macbeth.txt 1892    macb     scorch    snake   kill   
+Macbeth.txt 1893 sheele close       selfe whilest   poore mallice
+Macbeth.txt 1894 remaines   danger     former tooth
+Macbeth.txt 1895   let   frame   things disioynt
+Macbeth.txt 1896 both   worlds suffer
+Macbeth.txt 1897 ere     eate   meale   feare   sleepe
+Macbeth.txt 1898     affliction   these terrible dreames
+Macbeth.txt 1899   shake vs nightly better       dead
+Macbeth.txt 1900 whom     gayne   peace   sent   peace
+Macbeth.txt 1901       torture     minde   lye
+Macbeth.txt 1902   restlesse extasie
+Macbeth.txt 1903 duncane       graue
+Macbeth.txt 1904 after lifes fitfull feuer   sleepes well
+Macbeth.txt 1905 treason has done   worst nor steele nor poyson
+Macbeth.txt 1906 mallice domestique forraine leuie nothing
+Macbeth.txt 1907 can touch   further
+Macbeth.txt 1908 
+Macbeth.txt 1909    lady    
+Macbeth.txt 1910 gentle     sleeke  re   rugged lookes
+Macbeth.txt 1911   bright   iouiall among   guests   night
+Macbeth.txt 1912 
+Macbeth.txt 1913    macb       loue       pray    
+Macbeth.txt 1914 let   remembrance apply   banquo
+Macbeth.txt 1915 present   eminence both   eye   tongue
+Macbeth.txt 1916 vnsafe   while   wee must laue
+Macbeth.txt 1917   honors   these flattering streames
+Macbeth.txt 1918   make   faces vizards     hearts
+Macbeth.txt 1919 disguising      
+Macbeth.txt 1920 
+Macbeth.txt 1921    lady   must leaue  
+Macbeth.txt 1922 
+Macbeth.txt 1923    macb   full   scorpions     minde deare wife
+Macbeth.txt 1924   knowst   banquo     fleans liues
+Macbeth.txt 1925 
+Macbeth.txt 1926    lady     them natures coppies   eterne
+Macbeth.txt 1927 
+Macbeth.txt 1928    macb  s comfort yet     assaileable
+Macbeth.txt 1929       iocund ere   bat hath flowne
+Macbeth.txt 1930   cloyster  flight ere   black heccats summons
+Macbeth.txt 1931   shardborne beetle     drowsie hums
+Macbeth.txt 1932 hath rung nights yawning peale
+Macbeth.txt 1933       done   deed   dreadfull note
+Macbeth.txt 1934 
+Macbeth.txt 1935    lady  s     done
+Macbeth.txt 1936   macb   innocent     knowledge dearest chuck
+Macbeth.txt 1937 till   applaud   deed   seeling night
+Macbeth.txt 1938 skarfe vp   tender eye   pittifull day
+Macbeth.txt 1939       bloodie   inuisible hand
+Macbeth.txt 1940 cancell   teare   pieces   great bond
+Macbeth.txt 1941   keepes   pale light thickens
+Macbeth.txt 1942     crow makes wing toth rookie wood
+Macbeth.txt 1943   things   day begin   droope   drowse
+Macbeth.txt 1944 whiles nights black agents   their preys doe rowse
+Macbeth.txt 1945   maruellst     words   hold   still
+Macbeth.txt 1946 things bad begun make strong themselues   ill
+Macbeth.txt 1947   prythee goe    
+Macbeth.txt 1948 
+Macbeth.txt 1949 exeunt
+Macbeth.txt 1950 
+Macbeth.txt 1951 
+Macbeth.txt 1952 scena tertia
+Macbeth.txt 1953 
+Macbeth.txt 1954   three murtherers
+Macbeth.txt 1955 
+Macbeth.txt 1956   1   who did bid   ioyne   vs
+Macbeth.txt 1957   3 macbeth
+Macbeth.txt 1958 
+Macbeth.txt 1959    2   needes     mistrust since   deliuers
+Macbeth.txt 1960   offices           doe
+Macbeth.txt 1961     direction iust
+Macbeth.txt 1962 
+Macbeth.txt 1963    1   stand   vs
+Macbeth.txt 1964   west yet glimmers   some streakes   day
+Macbeth.txt 1965   spurres   lated traueller apace
+Macbeth.txt 1966   gayne   timely inne   neere approches
+Macbeth.txt 1967   subiect     watch
+Macbeth.txt 1968 
+Macbeth.txt 1969    3 hearke   heare horses
+Macbeth.txt 1970 
+Macbeth.txt 1971    banquo within giue vs   light   hoa
+Macbeth.txt 1972 
+Macbeth.txt 1973    2   tis hee
+Macbeth.txt 1974   rest     within   note   expectation
+Macbeth.txt 1975 alreadie    th court
+Macbeth.txt 1976 
+Macbeth.txt 1977    1   horses goe about
+Macbeth.txt 1978 
+Macbeth.txt 1979    3 almost   mile     does vsually
+Macbeth.txt 1980     men doe   hence toth pallace gate
+Macbeth.txt 1981 make   their walke
+Macbeth.txt 1982   banquo   fleans     torch
+Macbeth.txt 1983 
+Macbeth.txt 1984   2   light   light
+Macbeth.txt 1985 
+Macbeth.txt 1986    3 tis hee
+Macbeth.txt 1987 
+Macbeth.txt 1988    1 stand too 
+Macbeth.txt 1989 
+Macbeth.txt 1990    ban       rayne   night
+Macbeth.txt 1991 
+Macbeth.txt 1992    1 let     downe
+Macbeth.txt 1993 
+Macbeth.txt 1994    ban   trecherie
+Macbeth.txt 1995 flye   fleans flye flye flye
+Macbeth.txt 1996   mayst reuenge   slaue
+Macbeth.txt 1997   3 who did strike out   light
+Macbeth.txt 1998   1 was      way
+Macbeth.txt 1999   3  s   one downe   sonne   fled
+Macbeth.txt 2000 
+Macbeth.txt 2001    2     lost
+Macbeth.txt 2002 best halfe     affaire
+Macbeth.txt 2003 
+Macbeth.txt 2004    1 well lets away   say how much   done
+Macbeth.txt 2005 
+Macbeth.txt 2006 exeunt
+Macbeth.txt 2007 
+Macbeth.txt 2008 
+Macbeth.txt 2009 scaena quarta
+Macbeth.txt 2010 
+Macbeth.txt 2011 banquet prepar    macbeth lady rosse lenox lords  
+Macbeth.txt 2012 attendants
+Macbeth.txt 2013 
+Macbeth.txt 2014   macb   know   owne degrees sit downe
+Macbeth.txt 2015   first   last   hearty welcome
+Macbeth.txt 2016 
+Macbeth.txt 2017    lords thankes     maiesty
+Macbeth.txt 2018 
+Macbeth.txt 2019    macb   selfe   mingle   society
+Macbeth.txt 2020   play   humble host
+Macbeth.txt 2021   hostesse keepes   state     best time
+Macbeth.txt 2022     require   welcome
+Macbeth.txt 2023 
+Macbeth.txt 2024    la pronounce       sir       friends
+Macbeth.txt 2025     heart speakes     welcome
+Macbeth.txt 2026   first murtherer
+Macbeth.txt 2027 
+Macbeth.txt 2028   macb see   encounter     their harts thanks
+Macbeth.txt 2029 both sides   euen heere ile sit  th midst
+Macbeth.txt 2030   large   mirth anon weel drinke   measure
+Macbeth.txt 2031   table round  s blood vpon   face
+Macbeth.txt 2032 
+Macbeth.txt 2033    mur tis banquos  
+Macbeth.txt 2034 
+Macbeth.txt 2035    macb tis better   without     within
+Macbeth.txt 2036     dispatch 
+Macbeth.txt 2037   mur       throat   cut     did    
+Macbeth.txt 2038 
+Macbeth.txt 2039    mac   art   best  th cutthroats
+Macbeth.txt 2040 yet hees     did   like   fleans
+Macbeth.txt 2041     didst     art   nonpareill
+Macbeth.txt 2042 
+Macbeth.txt 2043    mur most royall sir
+Macbeth.txt 2044 fleans   scap 
+Macbeth.txt 2045 
+Macbeth.txt 2046    macb   comes   fit againe
+Macbeth.txt 2047   had else beene perfect
+Macbeth.txt 2048 whole     marble founded     rocke
+Macbeth.txt 2049   broad   generall     casing ayre
+Macbeth.txt 2050       am cabin  crib  confin  bound  
+Macbeth.txt 2051   sawcy doubts   feares   banquos safe
+Macbeth.txt 2052   mur         safe     ditch   bides
+Macbeth.txt 2053   twenty trenched gashes     head
+Macbeth.txt 2054   least   death   nature
+Macbeth.txt 2055 
+Macbeth.txt 2056    macb thankes    
+Macbeth.txt 2057     growne serpent lyes   worme  s fled
+Macbeth.txt 2058 hath nature     time   venom breed
+Macbeth.txt 2059   teeth   th present get   gone   morrow
+Macbeth.txt 2060 weel heare   selues againe
+Macbeth.txt 2061 
+Macbeth.txt 2062 exit murderer
+Macbeth.txt 2063 
+Macbeth.txt 2064   lady   royall  
+Macbeth.txt 2065       giue   cheere   feast   sold
+Macbeth.txt 2066       often vouch  while tis   making
+Macbeth.txt 2067 tis giuen   welcome   feede were best   home
+Macbeth.txt 2068   thence   sawce   meate   ceremony
+Macbeth.txt 2069 meeting were bare without  
+Macbeth.txt 2070     ghost   banquo   sits   macbeths place
+Macbeth.txt 2071 
+Macbeth.txt 2072   macb sweet remembrancer
+Macbeth.txt 2073     digestion waite   appetite
+Macbeth.txt 2074   health   both
+Macbeth.txt 2075 
+Macbeth.txt 2076    lenox may  please   highnesse sit
+Macbeth.txt 2077 
+Macbeth.txt 2078    macb here had       countries honor roof 
+Macbeth.txt 2079 were   grac  person     banquo present
+Macbeth.txt 2080 who may   rather challenge   vnkindnesse
+Macbeth.txt 2081   pitty   mischance
+Macbeth.txt 2082 
+Macbeth.txt 2083    rosse   absence sir
+Macbeth.txt 2084 layes blame vpon   promise pleas    highnesse
+Macbeth.txt 2085   grace vs     royall company
+Macbeth.txt 2086   macb   tables full
+Macbeth.txt 2087 
+Macbeth.txt 2088    lenox heere     place reseru  sir
+Macbeth.txt 2089 
+Macbeth.txt 2090    macb where
+Macbeth.txt 2091   lenox heere      
+Macbeth.txt 2092        moues   highnesse
+Macbeth.txt 2093   macb         done  
+Macbeth.txt 2094   lords        
+Macbeth.txt 2095   macb   canst   say   did   neuer shake
+Macbeth.txt 2096   goary lockes    
+Macbeth.txt 2097 
+Macbeth.txt 2098    rosse gentlemen rise   highnesse     well
+Macbeth.txt 2099 
+Macbeth.txt 2100    lady sit worthy friends       often thus
+Macbeth.txt 2101   hath beene     youth pray   keepe seat
+Macbeth.txt 2102   fit   momentary vpon   thought
+Macbeth.txt 2103     againe   well   much   note  
+Macbeth.txt 2104     offend     extend   passion
+Macbeth.txt 2105 feed   regard           man
+Macbeth.txt 2106   macb       bold one   dare looke    
+Macbeth.txt 2107   might appall   diuell
+Macbeth.txt 2108 
+Macbeth.txt 2109    la   proper stuffe
+Macbeth.txt 2110       very painting     feare
+Macbeth.txt 2111       ayredrawnedagger     said
+Macbeth.txt 2112 led     duncan   these flawes   starts
+Macbeth.txt 2113 impostors   true feare would well become
+Macbeth.txt 2114   womans story     winters fire
+Macbeth.txt 2115 authoriz      grandam shame   selfe
+Macbeth.txt 2116 why     make such faces when  s done
+Macbeth.txt 2117   looke       stoole
+Macbeth.txt 2118 
+Macbeth.txt 2119    macb prythee see  
+Macbeth.txt 2120 behold looke loe how say  
+Macbeth.txt 2121 why   care       canst nod speake too
+Macbeth.txt 2122   charnell houses     graues must send
+Macbeth.txt 2123 those     bury backe   monuments
+Macbeth.txt 2124       mawes   kytes
+Macbeth.txt 2125 
+Macbeth.txt 2126    la   quite vnmann    folly
+Macbeth.txt 2127 
+Macbeth.txt 2128    macb     stand heere   saw  
+Macbeth.txt 2129 
+Macbeth.txt 2130    la fie   shame
+Macbeth.txt 2131 
+Macbeth.txt 2132    macb blood hath bene shed ere    th olden time
+Macbeth.txt 2133 ere humane statute purg    gentle weale
+Macbeth.txt 2134     since too murthers   bene perform 
+Macbeth.txt 2135 too terrible     eare   times has bene
+Macbeth.txt 2136   when   braines were out   man would dye
+Macbeth.txt 2137     an end       rise againe
+Macbeth.txt 2138   twenty mortall murthers   their crownes
+Macbeth.txt 2139   push vs     stooles       strange
+Macbeth.txt 2140   such   murther  
+Macbeth.txt 2141 
+Macbeth.txt 2142    la   worthy  
+Macbeth.txt 2143   noble friends   lacke  
+Macbeth.txt 2144 
+Macbeth.txt 2145    macb     forget
+Macbeth.txt 2146     muse       most worthy friends
+Macbeth.txt 2147       strange infirmity     nothing
+Macbeth.txt 2148   those   know     loue   health    
+Macbeth.txt 2149   ile sit downe giue   some wine fill full
+Macbeth.txt 2150   ghost
+Macbeth.txt 2151 
+Macbeth.txt 2152   drinke   th generall ioy  th whole table
+Macbeth.txt 2153       deere friend banquo whom   misse
+Macbeth.txt 2154 would   were heere           thirst
+Macbeth.txt 2155        
+Macbeth.txt 2156 
+Macbeth.txt 2157    lords   duties     pledge
+Macbeth.txt 2158 
+Macbeth.txt 2159    mac auant  quit   sight let   earth hide  
+Macbeth.txt 2160   bones   marrowlesse   blood   cold
+Macbeth.txt 2161   hast   speculation   those eyes
+Macbeth.txt 2162     dost glare  
+Macbeth.txt 2163 
+Macbeth.txt 2164    la thinke       peeres
+Macbeth.txt 2165       thing   custome tis   other
+Macbeth.txt 2166 onely   spoyles   pleasure     time
+Macbeth.txt 2167 
+Macbeth.txt 2168    macb   man dare   dare
+Macbeth.txt 2169 approach   like   rugged russian beare
+Macbeth.txt 2170   arm  rhinoceros   th hircan tiger
+Macbeth.txt 2171 take any shape         firme nerues
+Macbeth.txt 2172   neuer tremble     aliue againe
+Macbeth.txt 2173   dare       desart     sword
+Macbeth.txt 2174   trembling   inhabit   protest mee
+Macbeth.txt 2175   baby     girle hence horrible shadow
+Macbeth.txt 2176 vnreall mockry hence why   being gone
+Macbeth.txt 2177   am   man againe pray   sit still
+Macbeth.txt 2178 
+Macbeth.txt 2179    la     displac    mirth
+Macbeth.txt 2180 broke     meeting   most admir  disorder
+Macbeth.txt 2181 
+Macbeth.txt 2182    macb can such things  
+Macbeth.txt 2183   ouercome vs like   summers clowd
+Macbeth.txt 2184 without   speciall wonder   make   strange
+Macbeth.txt 2185 euen     disposition     owe
+Macbeth.txt 2186 when     thinke   can behold such sights
+Macbeth.txt 2187   keepe   naturall rubie     cheekes
+Macbeth.txt 2188 when mine   blanch    feare
+Macbeth.txt 2189 
+Macbeth.txt 2190    rosse   sights    
+Macbeth.txt 2191   la   pray   speake     growes worse  worse
+Macbeth.txt 2192 question enrages     once goodnight
+Macbeth.txt 2193 stand   vpon   order     going
+Macbeth.txt 2194   go   once
+Macbeth.txt 2195 
+Macbeth.txt 2196    len   night   better health
+Macbeth.txt 2197 attend   maiesty
+Macbeth.txt 2198 
+Macbeth.txt 2199    la   kinde goodnight    
+Macbeth.txt 2200 
+Macbeth.txt 2201 exit lords
+Macbeth.txt 2202 
+Macbeth.txt 2203   macb       blood   say
+Macbeth.txt 2204 blood     blood
+Macbeth.txt 2205 stones   beene knowne   moue  trees   speake
+Macbeth.txt 2206 augures   vnderstood relations  
+Macbeth.txt 2207   maggot pyes  choughes  rookes brought forth
+Macbeth.txt 2208   secretst man   blood       night
+Macbeth.txt 2209   la almost   oddes   morning      
+Macbeth.txt 2210 
+Macbeth.txt 2211    macb how sayst     macduff denies   person
+Macbeth.txt 2212     great bidding
+Macbeth.txt 2213 
+Macbeth.txt 2214    la did   send     sir
+Macbeth.txt 2215   macb   heare       way       send
+Macbeth.txt 2216  s     one   them       house
+Macbeth.txt 2217   keepe   seruant feed       morrow
+Macbeth.txt 2218   betimes         weyard sisters
+Macbeth.txt 2219       speake       am bent   know
+Macbeth.txt 2220     worst meanes   worst   mine owne  
+Macbeth.txt 2221   causes   giue way   am   blood
+Macbeth.txt 2222 stept     farre   should   wade    
+Macbeth.txt 2223 returning were   tedious   go ore
+Macbeth.txt 2224 strange things       head       hand
+Macbeth.txt 2225   must   acted ere   may   scand
+Macbeth.txt 2226 
+Macbeth.txt 2227    la   lacke   season     natures sleepe
+Macbeth.txt 2228 
+Macbeth.txt 2229    macb   weel   sleepe   strange  selfabuse
+Macbeth.txt 2230     initiate feare   wants hard vse
+Macbeth.txt 2231     yet   yong indeed
+Macbeth.txt 2232 
+Macbeth.txt 2233 exeunt
+Macbeth.txt 2234 
+Macbeth.txt 2235 
+Macbeth.txt 2236 scena quinta
+Macbeth.txt 2237 
+Macbeth.txt 2238 thunder     three witches meeting hecat
+Macbeth.txt 2239 
+Macbeth.txt 2240   1 why how   hecat   looke angerly
+Macbeth.txt 2241   hec       reason beldams      
+Macbeth.txt 2242 sawcy   ouerbold how did   dare
+Macbeth.txt 2243   trade   trafficke   macbeth
+Macbeth.txt 2244   riddles   affaires   death
+Macbeth.txt 2245       mistris     charmes
+Macbeth.txt 2246   close contriuer     harmes
+Macbeth.txt 2247 was neuer call    beare   part
+Macbeth.txt 2248   shew   glory     art
+Macbeth.txt 2249       worse       done
+Macbeth.txt 2250 hath bene       wayward sonne
+Macbeth.txt 2251 spightfull   wrathfull who   others  
+Macbeth.txt 2252 loues     owne ends      
+Macbeth.txt 2253   make amends   get   gon
+Macbeth.txt 2254       pit   acheron
+Macbeth.txt 2255 meete    th morning thither  
+Macbeth.txt 2256       know   destinie
+Macbeth.txt 2257   vessels     spels prouide
+Macbeth.txt 2258   charmes   euery thing beside
+Macbeth.txt 2259   am   th ayre   night ile spend
+Macbeth.txt 2260 vnto   dismall     fatall end
+Macbeth.txt 2261 great businesse must   wrought ere noone
+Macbeth.txt 2262 vpon   corner     moone
+Macbeth.txt 2263   hangs   vaprous drop profound
+Macbeth.txt 2264 ile catch   ere       ground
+Macbeth.txt 2265     distill    magicke slights
+Macbeth.txt 2266   raise such artificiall sprights
+Macbeth.txt 2267       strength   their illusion
+Macbeth.txt 2268   draw         confusion
+Macbeth.txt 2269     spurne fate scorne death   beare
+Macbeth.txt 2270   hopes boue wisedome grace   feare
+Macbeth.txt 2271       know security
+Macbeth.txt 2272   mortals cheefest enemie
+Macbeth.txt 2273 
+Macbeth.txt 2274 musicke     song
+Macbeth.txt 2275 
+Macbeth.txt 2276 hearke   am call    little spirit see
+Macbeth.txt 2277 sits   foggy cloud   stayes    
+Macbeth.txt 2278 
+Macbeth.txt 2279 sing within   away   away c
+Macbeth.txt 2280 
+Macbeth.txt 2281   1   lets make hast sheel soone  
+Macbeth.txt 2282 backe againe
+Macbeth.txt 2283 
+Macbeth.txt 2284 exeunt
+Macbeth.txt 2285 
+Macbeth.txt 2286 
+Macbeth.txt 2287 scaena sexta
+Macbeth.txt 2288 
+Macbeth.txt 2289   lenox   another  
+Macbeth.txt 2290 
+Macbeth.txt 2291   lenox   former speeches
+Macbeth.txt 2292     hit   thoughts
+Macbeth.txt 2293   can interpret farther onely   say
+Macbeth.txt 2294 things   bin strangely borne   gracious duncan
+Macbeth.txt 2295 was pittied   macbeth marry   was dead
+Macbeth.txt 2296     right valiant banquo walk  too late
+Macbeth.txt 2297 whom   may say    please   fleans kill 
+Macbeth.txt 2298   fleans fled men must   walke too late
+Macbeth.txt 2299 who cannot want   thought how monstrous
+Macbeth.txt 2300   was   malcolme     donalbane
+Macbeth.txt 2301   kill their gracious father damned fact
+Macbeth.txt 2302 how   did greeue macbeth did     straight
+Macbeth.txt 2303   pious rage   two delinquents teare
+Macbeth.txt 2304   were   slaues   drinke   thralles   sleepe
+Macbeth.txt 2305 was     nobly done     wisely too
+Macbeth.txt 2306   twould   anger  any heart aliue
+Macbeth.txt 2307   heare   men deny        say
+Macbeth.txt 2308   has borne   things well       thinke
+Macbeth.txt 2309   had   duncans sonnes vnder   key
+Macbeth.txt 2310      please heauen         should finde
+Macbeth.txt 2311   twere   kill   father   should fleans
+Macbeth.txt 2312   peace     broad words   cause   fayl 
+Macbeth.txt 2313   presence     tyrants feast   heare
+Macbeth.txt 2314 macduffe liues   disgrace sir can   tell
+Macbeth.txt 2315 where   bestowes himselfe
+Macbeth.txt 2316       sonnes   duncane
+Macbeth.txt 2317   whom   tyrant holds   due   birth
+Macbeth.txt 2318 liues     english court     receyu 
+Macbeth.txt 2319     most pious edward   such grace
+Macbeth.txt 2320     maleuolence   fortune nothing
+Macbeth.txt 2321 takes     high respect thither macduffe
+Macbeth.txt 2322   gone   pray   holy   vpon   ayd
+Macbeth.txt 2323   wake northumberland   warlike seyward
+Macbeth.txt 2324       helpe   these     aboue
+Macbeth.txt 2325   ratifie   worke   may againe
+Macbeth.txt 2326 giue     tables meate sleepe     nights
+Macbeth.txt 2327 free     feasts   banquets bloody kniues
+Macbeth.txt 2328   faithfull homage   receiue free honors
+Macbeth.txt 2329       pine         report
+Macbeth.txt 2330 hath   exasperate their     hee
+Macbeth.txt 2331 prepares   some attempt   warre
+Macbeth.txt 2332 
+Macbeth.txt 2333    len sent     macduffe
+Macbeth.txt 2334       did     an absolute sir    
+Macbeth.txt 2335   clowdy messenger turnes     backe
+Macbeth.txt 2336   hums   who should say  l rue   time
+Macbeth.txt 2337   clogges       answer
+Macbeth.txt 2338 
+Macbeth.txt 2339    lenox     well might
+Macbeth.txt 2340 aduise       caution   hold   distance
+Macbeth.txt 2341   wisedome can prouide some holy angell
+Macbeth.txt 2342 flye     court   england   vnfold
+Macbeth.txt 2343   message ere         swift blessing
+Macbeth.txt 2344 may soone returne       suffering country
+Macbeth.txt 2345 vnder   hand accurs 
+Macbeth.txt 2346 
+Macbeth.txt 2347      ile send   prayers    
+Macbeth.txt 2348 
+Macbeth.txt 2349 exeunt
+Macbeth.txt 2350 
+Macbeth.txt 2351 actus quartus scena prima
+Macbeth.txt 2352 
+Macbeth.txt 2353 thunder     three witches
+Macbeth.txt 2354 
+Macbeth.txt 2355   1 thrice   brinded cat hath mew 
+Macbeth.txt 2356 
+Macbeth.txt 2357    2 thrice   once   hedgepigge whin 
+Macbeth.txt 2358 
+Macbeth.txt 2359    3 harpier cries tis time tis time
+Macbeth.txt 2360 
+Macbeth.txt 2361    1 round about   caldron go
+Macbeth.txt 2362     poysond entrailes throw
+Macbeth.txt 2363 toad   vnder cold stone
+Macbeth.txt 2364 dayes   nights has thirty one
+Macbeth.txt 2365 sweltred venom sleeping got
+Macbeth.txt 2366 boyle   first  th charmed pot
+Macbeth.txt 2367 
+Macbeth.txt 2368      double double toile   trouble
+Macbeth.txt 2369 fire burne   cauldron bubble
+Macbeth.txt 2370 
+Macbeth.txt 2371    2 fillet     fenny snake
+Macbeth.txt 2372     cauldron boyle   bake
+Macbeth.txt 2373 eye   newt   toe   frogge
+Macbeth.txt 2374 wooll   bat   tongue   dogge
+Macbeth.txt 2375 adders forke   blindewormes sting
+Macbeth.txt 2376 lizards legge   howlets wing
+Macbeth.txt 2377     charme   powrefull trouble
+Macbeth.txt 2378 like   hellbroth boyle   bubble
+Macbeth.txt 2379 
+Macbeth.txt 2380      double double toyle   trouble
+Macbeth.txt 2381 fire burne   cauldron bubble
+Macbeth.txt 2382 
+Macbeth.txt 2383    3 scale   dragon tooth   wolfe
+Macbeth.txt 2384 witches mummey maw   gulfe
+Macbeth.txt 2385     rauin  salt sea sharke
+Macbeth.txt 2386 roote   hemlocke digg   th darke
+Macbeth.txt 2387 liuer   blaspheming iew
+Macbeth.txt 2388 gall   goate   slippes   yew
+Macbeth.txt 2389 sliuer      moones ecclipse
+Macbeth.txt 2390 nose   turke   tartars lips
+Macbeth.txt 2391 finger   birthstrangled babe
+Macbeth.txt 2392 ditchdeliuer      drab
+Macbeth.txt 2393 make   grewell thicke   slab
+Macbeth.txt 2394 adde thereto   tigers chawdron
+Macbeth.txt 2395   th ingredience     cawdron
+Macbeth.txt 2396 
+Macbeth.txt 2397      double double toyle   trouble
+Macbeth.txt 2398 fire burne   cauldron bubble
+Macbeth.txt 2399 
+Macbeth.txt 2400    2 coole       baboones blood
+Macbeth.txt 2401     charme   firme    
+Macbeth.txt 2402   hecat     other three witches
+Macbeth.txt 2403 
+Macbeth.txt 2404   hec   well done   commend   paines
+Macbeth.txt 2405   euery one   share  th gaines
+Macbeth.txt 2406     about   cauldron sing
+Macbeth.txt 2407 like elues   fairies     ring
+Macbeth.txt 2408 inchanting       put  
+Macbeth.txt 2409 
+Macbeth.txt 2410 musicke     song blacke spirits c
+Macbeth.txt 2411 
+Macbeth.txt 2412   2     pricking     thumbes
+Macbeth.txt 2413 something wicked   way comes
+Macbeth.txt 2414 open lockes who euer knockes
+Macbeth.txt 2415   macbeth
+Macbeth.txt 2416 
+Macbeth.txt 2417   macb how     secret black  midnight hags
+Macbeth.txt 2418         
+Macbeth.txt 2419       deed without   name
+Macbeth.txt 2420 
+Macbeth.txt 2421    macb   coniure           professe
+Macbeth.txt 2422 how ere       know   answer  
+Macbeth.txt 2423 though   vntye   windes   let them fight
+Macbeth.txt 2424 against   churches though   yesty waues
+Macbeth.txt 2425 confound   swallow nauigation vp
+Macbeth.txt 2426 though bladed corne   lodg   trees blown downe
+Macbeth.txt 2427 though castles topple   their warders heads
+Macbeth.txt 2428 though pallaces   pyramids   slope
+Macbeth.txt 2429 their heads   their foundations though   treasure
+Macbeth.txt 2430   natures germaine tumble altogether
+Macbeth.txt 2431 euen till destruction sicken answer  
+Macbeth.txt 2432       aske  
+Macbeth.txt 2433 
+Macbeth.txt 2434    1 speake
+Macbeth.txt 2435 
+Macbeth.txt 2436    2 demand
+Macbeth.txt 2437 
+Macbeth.txt 2438    3 weel answer
+Macbeth.txt 2439 
+Macbeth.txt 2440    1 say   thhadst rather heare       mouthes
+Macbeth.txt 2441       masters
+Macbeth.txt 2442 
+Macbeth.txt 2443    macb call em let   see em
+Macbeth.txt 2444 
+Macbeth.txt 2445    1 powre   sowes blood   hath eaten
+Macbeth.txt 2446   nine farrow greaze  s sweaten
+Macbeth.txt 2447     murderers gibbet throw
+Macbeth.txt 2448 into   flame
+Macbeth.txt 2449 
+Macbeth.txt 2450        high   low
+Macbeth.txt 2451   selfe   office deaftly show
+Macbeth.txt 2452 thunder 1 apparation an armed head
+Macbeth.txt 2453 
+Macbeth.txt 2454   macb tell     vnknowne power
+Macbeth.txt 2455 
+Macbeth.txt 2456    1   knowes   thought
+Macbeth.txt 2457 heare   speech   say   nought
+Macbeth.txt 2458 
+Macbeth.txt 2459    1 appar macbeth macbeth macbeth
+Macbeth.txt 2460 beware macduffe
+Macbeth.txt 2461 beware   thane   fife dismisse   enough
+Macbeth.txt 2462 
+Macbeth.txt 2463   descends
+Macbeth.txt 2464 
+Macbeth.txt 2465   macb   ere   art       caution thanks
+Macbeth.txt 2466   hast harp    feare aright   one word  
+Macbeth.txt 2467 
+Macbeth.txt 2468    1         commanded heeres another
+Macbeth.txt 2469   potent     first
+Macbeth.txt 2470 
+Macbeth.txt 2471 thunder 2 apparition   bloody childe
+Macbeth.txt 2472 
+Macbeth.txt 2473   2 appar macbeth macbeth macbeth
+Macbeth.txt 2474 
+Macbeth.txt 2475    macb had   three eares il  heare  
+Macbeth.txt 2476 
+Macbeth.txt 2477    appar   bloody bold  resolute
+Macbeth.txt 2478 laugh   scorne
+Macbeth.txt 2479   powre   man   none   woman borne
+Macbeth.txt 2480   harme macbeth
+Macbeth.txt 2481 
+Macbeth.txt 2482 descends
+Macbeth.txt 2483 
+Macbeth.txt 2484   mac   liue macduffe   need   feare    
+Macbeth.txt 2485   yet ile make assurance double sure
+Macbeth.txt 2486   take   bond   fate   shalt   liue
+Macbeth.txt 2487     may tell palehearted feare   lies
+Macbeth.txt 2488   sleepe   spight   thunder
+Macbeth.txt 2489 
+Macbeth.txt 2490 thunder 3 apparation   childe crowned     tree     hand
+Macbeth.txt 2491 
+Macbeth.txt 2492         rises like   issue      
+Macbeth.txt 2493   weares vpon   babybrow   round
+Macbeth.txt 2494   top   soueraignty
+Macbeth.txt 2495     listen   speake   too 
+Macbeth.txt 2496 
+Macbeth.txt 2497    3 appar   lyon metled proud   take   care
+Macbeth.txt 2498 who chafes who frets   where conspirers  
+Macbeth.txt 2499 macbeth   neuer vanquish    vntill
+Macbeth.txt 2500 great byrnam wood   high dunsmane hill
+Macbeth.txt 2501     against  
+Macbeth.txt 2502 
+Macbeth.txt 2503 descend
+Macbeth.txt 2504 
+Macbeth.txt 2505   macb     neuer bee
+Macbeth.txt 2506 who can impresse   forrest bid   tree
+Macbeth.txt 2507 vnfixe   earthbound root sweet boadments  
+Macbeth.txt 2508 rebellious dead rise neuer till   wood
+Macbeth.txt 2509   byrnan rise     high plac  macbeth
+Macbeth.txt 2510   liue   lease   nature pay   breath
+Macbeth.txt 2511   time   mortall custome yet   hart
+Macbeth.txt 2512 throbs   know one thing tell       art
+Macbeth.txt 2513 can tell   much   banquos issue euer
+Macbeth.txt 2514 reigne     kingdome
+Macbeth.txt 2515     seeke   know    
+Macbeth.txt 2516 
+Macbeth.txt 2517    macb       satisfied deny    
+Macbeth.txt 2518   an eternall curse fall     let   know
+Macbeth.txt 2519 why sinkes   caldron    noise    
+Macbeth.txt 2520 
+Macbeth.txt 2521 hoboyes
+Macbeth.txt 2522 
+Macbeth.txt 2523   1 shew
+Macbeth.txt 2524 
+Macbeth.txt 2525    2 shew
+Macbeth.txt 2526 
+Macbeth.txt 2527    3 shew
+Macbeth.txt 2528 
+Macbeth.txt 2529      shew   eyes   greeue   hart
+Macbeth.txt 2530   like shadowes   depart
+Macbeth.txt 2531 
+Macbeth.txt 2532   shew   eight kings   banquo last     glasse     hand
+Macbeth.txt 2533 
+Macbeth.txt 2534   macb   art too like   spirit   banquo down
+Macbeth.txt 2535   crowne  s seare mine eyebals     haire
+Macbeth.txt 2536   other goldboundbrow   like   first
+Macbeth.txt 2537   third   like   former filthy hagges
+Macbeth.txt 2538 why     shew        fourth start eyes
+Macbeth.txt 2539       line stretch out  th cracke   doome
+Macbeth.txt 2540 another yet   seauenth ile see    
+Macbeth.txt 2541   yet   eighth appeares who beares   glasse
+Macbeth.txt 2542   shewes   many     some   see
+Macbeth.txt 2543   twofold balles   trebble scepters carry
+Macbeth.txt 2544 horrible sight     see tis true
+Macbeth.txt 2545     bloodbolter  banquo smiles vpon  
+Macbeth.txt 2546   points   them            
+Macbeth.txt 2547   1   sir           why
+Macbeth.txt 2548 stands macbeth thus amazedly
+Macbeth.txt 2549   sisters cheere   vp   sprights
+Macbeth.txt 2550   shew   best     delights
+Macbeth.txt 2551 ile charme   ayre   giue   sound
+Macbeth.txt 2552 while   performe   antique round
+Macbeth.txt 2553     great   may kindly say
+Macbeth.txt 2554   duties did   welcome pay
+Macbeth.txt 2555 
+Macbeth.txt 2556 musicke   witches dance   vanish
+Macbeth.txt 2557 
+Macbeth.txt 2558   macb where     gone
+Macbeth.txt 2559 let   pernitious houre
+Macbeth.txt 2560 stand aye accursed     kalender
+Macbeth.txt 2561     without  
+Macbeth.txt 2562   lenox
+Macbeth.txt 2563 
+Macbeth.txt 2564   lenox  s   graces  
+Macbeth.txt 2565 
+Macbeth.txt 2566    macb saw     weyard sisters
+Macbeth.txt 2567   lenox      
+Macbeth.txt 2568 
+Macbeth.txt 2569    macb came        
+Macbeth.txt 2570   lenox   indeed    
+Macbeth.txt 2571 
+Macbeth.txt 2572    macb infected     ayre whereon   ride
+Macbeth.txt 2573   damn    those   trust them   did heare
+Macbeth.txt 2574   gallopping   horse who was  came  
+Macbeth.txt 2575   len tis two   three       bring   word
+Macbeth.txt 2576 macduff   fled   england
+Macbeth.txt 2577 
+Macbeth.txt 2578    macb fled   england
+Macbeth.txt 2579   len        
+Macbeth.txt 2580 
+Macbeth.txt 2581    macb time   anticipatst   dread exploits
+Macbeth.txt 2582   flighty purpose neuer    retooke
+Macbeth.txt 2583 vnlesse   deed go         moment
+Macbeth.txt 2584   very firstlings     heart    
+Macbeth.txt 2585   firstlings     hand   euen  
+Macbeth.txt 2586   crown   thoughts   acts     thoght  done
+Macbeth.txt 2587   castle   macduff     surprize
+Macbeth.txt 2588 seize vpon fife giue   th edge  th sword
+Macbeth.txt 2589   wife   babes     vnfortunate soules
+Macbeth.txt 2590   trace       line   boasting like   foole
+Macbeth.txt 2591   deed ile   before   purpose coole
+Macbeth.txt 2592       sights where   these gentlemen
+Macbeth.txt 2593   bring   where    
+Macbeth.txt 2594 
+Macbeth.txt 2595 exeunt
+Macbeth.txt 2596 
+Macbeth.txt 2597 scena secunda
+Macbeth.txt 2598 
+Macbeth.txt 2599   macduffes wife   son   rosse
+Macbeth.txt 2600 
+Macbeth.txt 2601   wife   had   done   make   fly   land
+Macbeth.txt 2602   rosse   must   patience madam
+Macbeth.txt 2603 
+Macbeth.txt 2604    wife   had none
+Macbeth.txt 2605   flight was madnesse when   actions    
+Macbeth.txt 2606   feares   make vs traitors
+Macbeth.txt 2607 
+Macbeth.txt 2608    rosse   know  
+Macbeth.txt 2609 whether   was   wisedome     feare
+Macbeth.txt 2610 
+Macbeth.txt 2611    wife wisedom   leaue   wife   leaue   babes
+Macbeth.txt 2612   mansion     titles     place
+Macbeth.txt 2613   whence himselfe  s flye   loues vs  
+Macbeth.txt 2614   wants   naturall touch     poore wren
+Macbeth.txt 2615   most diminitiue   birds   fight
+Macbeth.txt 2616   yong ones     nest against   owle
+Macbeth.txt 2617       feare   nothing     loue
+Macbeth.txt 2618   little     wisedome where   flight
+Macbeth.txt 2619   runnes against   reason
+Macbeth.txt 2620 
+Macbeth.txt 2621    rosse   deerest cooz
+Macbeth.txt 2622   pray   schoole   selfe       husband
+Macbeth.txt 2623     noble wise iudicious   best knowes
+Macbeth.txt 2624   fits  th season   dare   speake much further
+Macbeth.txt 2625   cruell     times when     traitors
+Macbeth.txt 2626       know   selues when   hold rumor
+Macbeth.txt 2627       feare yet know       feare
+Macbeth.txt 2628   floate vpon   wilde   violent sea
+Macbeth.txt 2629 each way   moue   take   leaue    
+Macbeth.txt 2630       long   ile   heere againe
+Macbeth.txt 2631 things     worst   cease   else climbe vpward
+Macbeth.txt 2632       were before   pretty cosine
+Macbeth.txt 2633 blessing vpon  
+Macbeth.txt 2634 
+Macbeth.txt 2635    wife father     
+Macbeth.txt 2636   yet hees fatherlesse
+Macbeth.txt 2637 
+Macbeth.txt 2638    rosse   am   much   foole should   stay longer
+Macbeth.txt 2639   would     disgrace     discomfort
+Macbeth.txt 2640   take   leaue   once
+Macbeth.txt 2641 
+Macbeth.txt 2642 exit rosse
+Macbeth.txt 2643 
+Macbeth.txt 2644   wife sirra   fathers dead
+Macbeth.txt 2645             how     liue
+Macbeth.txt 2646   son   birds   mother
+Macbeth.txt 2647 
+Macbeth.txt 2648    wife     wormes   flyes
+Macbeth.txt 2649   son       get   meane        
+Macbeth.txt 2650 
+Macbeth.txt 2651    wife poore bird
+Macbeth.txt 2652  dst neuer feare   net nor lime
+Macbeth.txt 2653   pitfall nor   gin
+Macbeth.txt 2654 
+Macbeth.txt 2655    son why should   mother
+Macbeth.txt 2656 poore birds       set  
+Macbeth.txt 2657   father     dead       saying
+Macbeth.txt 2658 
+Macbeth.txt 2659    wife yes     dead
+Macbeth.txt 2660 how wilt         father
+Macbeth.txt 2661   son nay how           husband
+Macbeth.txt 2662   wife why   can buy   twenty   any market
+Macbeth.txt 2663 
+Macbeth.txt 2664    son    l   em   sell againe
+Macbeth.txt 2665 
+Macbeth.txt 2666    wife   speakst withall   wit
+Macbeth.txt 2667   yet  faith   wit enough    
+Macbeth.txt 2668 
+Macbeth.txt 2669    son was   father   traitor mother
+Macbeth.txt 2670   wife       was
+Macbeth.txt 2671 
+Macbeth.txt 2672    son       traitor
+Macbeth.txt 2673   wife why one   sweares   lyes
+Macbeth.txt 2674 
+Macbeth.txt 2675    son       traitors      
+Macbeth.txt 2676 
+Macbeth.txt 2677    wife euery one    s       traitor
+Macbeth.txt 2678   must   hang 
+Macbeth.txt 2679 
+Macbeth.txt 2680    son   must       hang    swear   lye
+Macbeth.txt 2681   wife euery one
+Macbeth.txt 2682 
+Macbeth.txt 2683    son who must hang them
+Macbeth.txt 2684   wife why   honest men
+Macbeth.txt 2685 
+Macbeth.txt 2686    son     liars   swearers   fools    
+Macbeth.txt 2687   lyars   swearers enow   beate   honest men
+Macbeth.txt 2688   hang vp them
+Macbeth.txt 2689 
+Macbeth.txt 2690    wife   god helpe   poore monkie
+Macbeth.txt 2691   how wilt         father
+Macbeth.txt 2692   son     were dead youl  weepe        
+Macbeth.txt 2693 would     were     signe     should quickely
+Macbeth.txt 2694     new father
+Macbeth.txt 2695 
+Macbeth.txt 2696    wife poore pratler how   talkst
+Macbeth.txt 2697     messenger
+Macbeth.txt 2698 
+Macbeth.txt 2699   mes blesse   faire dame   am       known
+Macbeth.txt 2700 though     state   honor   am perfect
+Macbeth.txt 2701   doubt some danger  s approach   neerely
+Macbeth.txt 2702       take   homely mans aduice
+Macbeth.txt 2703     found heere hence     little ones
+Macbeth.txt 2704   fright   thus   thinkes   am too sauage
+Macbeth.txt 2705     worse     were fell cruelty
+Macbeth.txt 2706     too nie   person heauen preserue  
+Macbeth.txt 2707   dare abide   longer
+Macbeth.txt 2708 
+Macbeth.txt 2709 exit messenger
+Macbeth.txt 2710 
+Macbeth.txt 2711   wife whether should   flye
+Macbeth.txt 2712     done   harme     remember  
+Macbeth.txt 2713   am     earthly world where     harme
+Macbeth.txt 2714   often laudable       sometime
+Macbeth.txt 2715 accounted dangerous folly why   alas
+Macbeth.txt 2716     put vp   womanly defence
+Macbeth.txt 2717   say     done   harme
+Macbeth.txt 2718     these faces
+Macbeth.txt 2719   murtherers
+Macbeth.txt 2720 
+Macbeth.txt 2721   mur where     husband
+Macbeth.txt 2722   wife   hope     place   vnsanctified
+Macbeth.txt 2723 where such     mayst finde  
+Macbeth.txt 2724 
+Macbeth.txt 2725    mur  s   traitor
+Macbeth.txt 2726 
+Macbeth.txt 2727    son   lyst   shaggeear  villaine
+Macbeth.txt 2728 
+Macbeth.txt 2729    mur     egge
+Macbeth.txt 2730 yong fry   treachery
+Macbeth.txt 2731   son   has kill    mother
+Macbeth.txt 2732 run away   pray  
+Macbeth.txt 2733 
+Macbeth.txt 2734 exit crying murther
+Macbeth.txt 2735 
+Macbeth.txt 2736 
+Macbeth.txt 2737 scaena tertia
+Macbeth.txt 2738 
+Macbeth.txt 2739   malcolme   macduffe
+Macbeth.txt 2740 
+Macbeth.txt 2741   mal let vs seeke out some desolate shade   
+Macbeth.txt 2742 weepe   sad bosomes empty
+Macbeth.txt 2743 
+Macbeth.txt 2744    macd let vs rather
+Macbeth.txt 2745 hold fast   mortall sword   like   men
+Macbeth.txt 2746 bestride   downfall birthdome each new morne
+Macbeth.txt 2747 new widdowes howle new orphans cry new sorowes
+Macbeth.txt 2748 strike heauen     face     resounds
+Macbeth.txt 2749       felt   scotland   yell  out
+Macbeth.txt 2750 like syllable   dolour
+Macbeth.txt 2751 
+Macbeth.txt 2752    mal     beleeue ile waile
+Macbeth.txt 2753   know beleeue       can redresse
+Macbeth.txt 2754       finde   time   friend   wil
+Macbeth.txt 2755       spoke   may     perchance
+Macbeth.txt 2756   tyrant whose sole name blisters   tongues
+Macbeth.txt 2757 was once thought honest     lou    well
+Macbeth.txt 2758   hath   touch    yet   am yong   something
+Macbeth.txt 2759   may discerne     through     wisedome
+Macbeth.txt 2760   offer vp   weake poore innocent lambe
+Macbeth.txt 2761   appease an angry god
+Macbeth.txt 2762 
+Macbeth.txt 2763    macd   am   treacherous
+Macbeth.txt 2764 
+Macbeth.txt 2765    malc   macbeth  
+Macbeth.txt 2766       vertuous nature may recoyle
+Macbeth.txt 2767   an imperiall charge       craue   pardon
+Macbeth.txt 2768           thoughts cannot transpose
+Macbeth.txt 2769 angels   bright still though   brightest fell
+Macbeth.txt 2770 though   things foule would wear   brows   grace
+Macbeth.txt 2771 yet grace must still looke  
+Macbeth.txt 2772 
+Macbeth.txt 2773    macd     lost   hopes
+Macbeth.txt 2774 
+Macbeth.txt 2775    malc perchance euen  
+Macbeth.txt 2776 where   did finde   doubts
+Macbeth.txt 2777 why     rawnesse left   wife   childe
+Macbeth.txt 2778 those precious motiues those strong knots   loue
+Macbeth.txt 2779 without leauetaking   pray  
+Macbeth.txt 2780 let     iealousies     dishonors
+Macbeth.txt 2781   mine owne safeties   may   rightly iust
+Macbeth.txt 2782   euer     thinke
+Macbeth.txt 2783 
+Macbeth.txt 2784    macd bleed bleed poore country
+Macbeth.txt 2785 great tyrrany lay     basis sure
+Macbeth.txt 2786   goodnesse dare   check   wear y   wrongs
+Macbeth.txt 2787   title   affear  far   well  
+Macbeth.txt 2788   would       villaine     thinkst
+Macbeth.txt 2789     whole space  s     tyrants graspe
+Macbeth.txt 2790     rich east   boot
+Macbeth.txt 2791 
+Macbeth.txt 2792    mal     offended
+Macbeth.txt 2793   speake       absolute feare    
+Macbeth.txt 2794   thinke   country sinkes beneath   yoake
+Macbeth.txt 2795   weepes   bleeds   each new day   gash
+Macbeth.txt 2796   added     wounds   thinke withall
+Macbeth.txt 2797   would   hands vplifted     right
+Macbeth.txt 2798   heere   gracious england     offer
+Macbeth.txt 2799   goodly thousands        
+Macbeth.txt 2800 when     treade vpon   tyrants head
+Macbeth.txt 2801   weare       sword yet   poore country
+Macbeth.txt 2802       vices     had before
+Macbeth.txt 2803   suffer     sundry wayes   euer
+Macbeth.txt 2804         succeede
+Macbeth.txt 2805 
+Macbeth.txt 2806    macd   should    
+Macbeth.txt 2807   mal       selfe   meane   whom   know
+Macbeth.txt 2808     particulars   vice   grafted
+Macbeth.txt 2809   when       open  blacke macbeth
+Macbeth.txt 2810   seeme   pure   snow     poore state
+Macbeth.txt 2811 esteeme       lambe being compar 
+Macbeth.txt 2812     confinelesse harmes
+Macbeth.txt 2813 
+Macbeth.txt 2814    macd       legions
+Macbeth.txt 2815   horrid hell can     diuell   damn 
+Macbeth.txt 2816   euils   top macbeth
+Macbeth.txt 2817 
+Macbeth.txt 2818    mal   grant   bloody
+Macbeth.txt 2819 luxurious auaricious false deceitfull
+Macbeth.txt 2820 sodaine malicious smacking   euery sinne
+Macbeth.txt 2821   has   name    s   bottome none
+Macbeth.txt 2822     voluptuousnesse   wiues   daughters
+Macbeth.txt 2823   matrons     maides could   fill vp
+Macbeth.txt 2824   cesterne     lust     desire
+Macbeth.txt 2825   continent impediments would orebeare
+Macbeth.txt 2826   did oppose     better macbeth
+Macbeth.txt 2827   such an one   reigne
+Macbeth.txt 2828 
+Macbeth.txt 2829    macd boundlesse intemperance
+Macbeth.txt 2830   nature     tyranny   hath beene
+Macbeth.txt 2831 th vntimely emptying     happy throne
+Macbeth.txt 2832   fall   many kings   feare   yet
+Macbeth.txt 2833   take vpon       yours   may
+Macbeth.txt 2834 conuey   pleasures     spacious plenty
+Macbeth.txt 2835   yet seeme cold   time   may   hoodwinke
+Macbeth.txt 2836     willing dames enough   cannot  
+Macbeth.txt 2837   vulture       deuoure   many
+Macbeth.txt 2838       greatnesse dedicate themselues
+Macbeth.txt 2839 finding     inclinde
+Macbeth.txt 2840 
+Macbeth.txt 2841    mal       growes
+Macbeth.txt 2842     most illcomposd affection such
+Macbeth.txt 2843   stanchlesse auarice   were    
+Macbeth.txt 2844   should cut off   nobles   their lands
+Macbeth.txt 2845 desire   iewels     others house
+Macbeth.txt 2846      hauing would       sawce
+Macbeth.txt 2847   make   hunger       should forge
+Macbeth.txt 2848 quarrels vniust against       loyall
+Macbeth.txt 2849 destroying them   wealth
+Macbeth.txt 2850 
+Macbeth.txt 2851    macd   auarice
+Macbeth.txt 2852 stickes deeper growes     pernicious roote
+Macbeth.txt 2853   summerseeming lust     hath bin
+Macbeth.txt 2854   sword     slaine kings yet     feare
+Macbeth.txt 2855 scotland hath foysons   fill vp    
+Macbeth.txt 2856     meere owne   these   portable
+Macbeth.txt 2857   other graces weigh 
+Macbeth.txt 2858 
+Macbeth.txt 2859    mal       none    becoming graces
+Macbeth.txt 2860   iustice verity temprance stablenesse
+Macbeth.txt 2861 bounty perseuerance mercy lowlinesse
+Macbeth.txt 2862 deuotion patience courage fortitude
+Macbeth.txt 2863       rellish   them   abound
+Macbeth.txt 2864     diuision   each seuerall crime
+Macbeth.txt 2865 acting   many wayes nay had   powre   should
+Macbeth.txt 2866 poure   sweet milke   concord into hell
+Macbeth.txt 2867 vprore   vniuersall peace confound
+Macbeth.txt 2868   vnity   earth
+Macbeth.txt 2869 
+Macbeth.txt 2870    macd   scotland scotland
+Macbeth.txt 2871 
+Macbeth.txt 2872    mal   such   one   fit   gouerne speake
+Macbeth.txt 2873   am       spoken
+Macbeth.txt 2874 
+Macbeth.txt 2875    mac fit   gouern       liue   nation miserable
+Macbeth.txt 2876   an vntitled tyrant bloody sceptred
+Macbeth.txt 2877 when shalt   see   wholsome dayes againe
+Macbeth.txt 2878 since     truest issue     throne
+Macbeth.txt 2879     owne interdiction stands accust
+Macbeth.txt 2880    s blaspheme   breed   royall father
+Macbeth.txt 2881 was   most sainted    queene   bore  
+Macbeth.txt 2882 oftner vpon   knees       feet
+Macbeth.txt 2883 dyde euery day she liu  fare   well
+Macbeth.txt 2884 these euils   repeatst vpon   selfe
+Macbeth.txt 2885 hath banish      scotland     brest
+Macbeth.txt 2886   hope ends heere
+Macbeth.txt 2887 
+Macbeth.txt 2888    mal macduff   noble passion
+Macbeth.txt 2889 childe   integrity hath     soule
+Macbeth.txt 2890 wip    blacke scruples reconcil    thoughts
+Macbeth.txt 2891       truth   honor diuellish macbeth
+Macbeth.txt 2892   many   these traines hath sought   win  
+Macbeth.txt 2893 into   power   modest wisedome pluckes  
+Macbeth.txt 2894   ouercredulous hast   god aboue
+Macbeth.txt 2895 deale betweene         euen  
+Macbeth.txt 2896   put   selfe     direction  
+Macbeth.txt 2897 vnspeake mine owne detraction heere abiure
+Macbeth.txt 2898   taints   blames   laide vpon   selfe
+Macbeth.txt 2899   strangers     nature   am yet
+Macbeth.txt 2900 vnknowne   woman neuer was forsworne
+Macbeth.txt 2901 scarsely   coueted   was mine owne
+Macbeth.txt 2902     time broke   faith would   betray
+Macbeth.txt 2903   deuill     fellow   delight
+Macbeth.txt 2904   lesse   truth   life   first false speaking
+Macbeth.txt 2905 was   vpon   selfe     am truly
+Macbeth.txt 2906   thine     poore countries   command
+Macbeth.txt 2907 whither indeed before   heere approach
+Macbeth.txt 2908 old seyward   ten thousand warlike men
+Macbeth.txt 2909 already     point was setting foorth
+Macbeth.txt 2910   weel together     chance   goodnesse
+Macbeth.txt 2911   like   warranted quarrell why     silent
+Macbeth.txt 2912   macd such welcome   vnwelcom things   once
+Macbeth.txt 2913 tis hard   reconcile
+Macbeth.txt 2914     doctor
+Macbeth.txt 2915 
+Macbeth.txt 2916   mal well   anon comes     forth
+Macbeth.txt 2917   pray  
+Macbeth.txt 2918   doct   sir       crew   wretched soules
+Macbeth.txt 2919   stay   cure their malady conuinces
+Macbeth.txt 2920   great assay   art       touch
+Macbeth.txt 2921 such sanctity hath heauen giuen   hand
+Macbeth.txt 2922   presently amend
+Macbeth.txt 2923  
+Macbeth.txt 2924 
+Macbeth.txt 2925   mal   thanke   doctor
+Macbeth.txt 2926 
+Macbeth.txt 2927    macd  s   disease   meanes
+Macbeth.txt 2928   mal tis call    euill
+Macbeth.txt 2929   most myraculous worke        
+Macbeth.txt 2930   often since   heere remaine   england
+Macbeth.txt 2931     seene     how   solicites heauen
+Macbeth.txt 2932 himselfe best knowes   strangely visited people
+Macbeth.txt 2933   swolne   vlcerous pittifull     eye
+Macbeth.txt 2934   meere dispaire   surgery   cures
+Macbeth.txt 2935 hanging   golden stampe about their neckes
+Macbeth.txt 2936 put     holy prayers   tis spoken
+Macbeth.txt 2937     succeeding royalty   leaues
+Macbeth.txt 2938   healing benediction     strange vertue
+Macbeth.txt 2939   hath   heauenly guift   prophesie
+Macbeth.txt 2940   sundry blessings hang about   throne
+Macbeth.txt 2941   speake   full   grace
+Macbeth.txt 2942   rosse
+Macbeth.txt 2943 
+Macbeth.txt 2944   macd see who comes heere
+Macbeth.txt 2945 
+Macbeth.txt 2946    malc   countryman   yet   know    
+Macbeth.txt 2947 
+Macbeth.txt 2948    macd   euer gentle cozen welcome hither
+Macbeth.txt 2949 
+Macbeth.txt 2950    malc   know       god betimes remoue
+Macbeth.txt 2951   meanes   makes vs strangers
+Macbeth.txt 2952 
+Macbeth.txt 2953    rosse sir amen
+Macbeth.txt 2954 
+Macbeth.txt 2955    macd stands scotland where   did
+Macbeth.txt 2956   rosse alas poore countrey
+Macbeth.txt 2957 almost affraid   know   selfe   cannot
+Macbeth.txt 2958   call    mother     graue where nothing
+Macbeth.txt 2959   who knowes nothing   once seene   smile
+Macbeth.txt 2960 where sighes   groanes   shrieks   rent   ayre
+Macbeth.txt 2961   made   mark  where violent sorrow seemes
+Macbeth.txt 2962   moderne extasie   deadmans knell
+Macbeth.txt 2963     scarse ask    who     mens liues
+Macbeth.txt 2964 expire before   flowers   their caps
+Macbeth.txt 2965 dying   ere   sicken
+Macbeth.txt 2966 
+Macbeth.txt 2967    macd oh relation too nice   yet too true
+Macbeth.txt 2968 
+Macbeth.txt 2969    malc  s   newest griefe
+Macbeth.txt 2970   rosse     an houres age doth hisse   speaker
+Macbeth.txt 2971 each minute teemes   new one
+Macbeth.txt 2972 
+Macbeth.txt 2973    macd how  s   wife
+Macbeth.txt 2974   rosse why well
+Macbeth.txt 2975 
+Macbeth.txt 2976    macd       children
+Macbeth.txt 2977   rosse well too
+Macbeth.txt 2978 
+Macbeth.txt 2979    macd   tyrant has   batter    their peace
+Macbeth.txt 2980   rosse     were wel   peace when   did leaue em
+Macbeth.txt 2981   macd       niggard     speech how gos 
+Macbeth.txt 2982   rosse when   came hither   transport   tydings
+Macbeth.txt 2983       heauily borne   ran   rumour
+Macbeth.txt 2984   many worthy fellowes   were out
+Macbeth.txt 2985   was     beleefe witnest   rather
+Macbeth.txt 2986       saw   tyrants power  foot
+Macbeth.txt 2987       time   helpe   eye   scotland
+Macbeth.txt 2988 would create soldiours make   women fight
+Macbeth.txt 2989   doffe their dire distresses
+Macbeth.txt 2990 
+Macbeth.txt 2991    malc bee  their comfort
+Macbeth.txt 2992     comming thither gracious england hath
+Macbeth.txt 2993 lent vs   seyward   ten thousand men
+Macbeth.txt 2994 an older     better souldier none
+Macbeth.txt 2995   christendome giues out
+Macbeth.txt 2996 
+Macbeth.txt 2997    rosse would   could answer
+Macbeth.txt 2998   comfort     like       words
+Macbeth.txt 2999   would   howl  out     desert ayre
+Macbeth.txt 3000 where hearing should   latch them
+Macbeth.txt 3001 
+Macbeth.txt 3002    macd   concerne  
+Macbeth.txt 3003   generall cause         feegriefe
+Macbeth.txt 3004 due   some single brest
+Macbeth.txt 3005   rosse   minde  s honest
+Macbeth.txt 3006       shares some woe though   maine part
+Macbeth.txt 3007 pertaines     alone
+Macbeth.txt 3008 
+Macbeth.txt 3009    macd       mine
+Macbeth.txt 3010 keepe         quickly let      
+Macbeth.txt 3011 
+Macbeth.txt 3012    rosse let     eares dispise   tongue   euer
+Macbeth.txt 3013     possesse them     heauiest sound
+Macbeth.txt 3014   euer yet   heard
+Macbeth.txt 3015 
+Macbeth.txt 3016    macd humh   guesse    
+Macbeth.txt 3017 
+Macbeth.txt 3018    rosse   castle   surpriz    wife   babes
+Macbeth.txt 3019 sauagely slaughter    relate   manner
+Macbeth.txt 3020 were     quarry   these murther  deere
+Macbeth.txt 3021   adde   death    
+Macbeth.txt 3022 
+Macbeth.txt 3023    malc mercifull heauen
+Macbeth.txt 3024   man nere pull   hat vpon   browes
+Macbeth.txt 3025 giue sorrow words   griefe    s   speake
+Macbeth.txt 3026 whispers    refraught heart   bids   breake
+Macbeth.txt 3027 
+Macbeth.txt 3028    macd   children too
+Macbeth.txt 3029   ro wife children seruants     could   found
+Macbeth.txt 3030 
+Macbeth.txt 3031    macd     must     thence   wife kil  too
+Macbeth.txt 3032   rosse     said
+Macbeth.txt 3033 
+Macbeth.txt 3034    malc   comforted
+Macbeth.txt 3035 lets make vs medcines     great reuenge
+Macbeth.txt 3036   cure   deadly greefe
+Macbeth.txt 3037 
+Macbeth.txt 3038    macd   has   children     pretty ones
+Macbeth.txt 3039 did   say   oh hellkite  
+Macbeth.txt 3040       pretty chickens   their damme
+Macbeth.txt 3041   one fell swoope
+Macbeth.txt 3042   malc dispute   like   man
+Macbeth.txt 3043 
+Macbeth.txt 3044    macd        
+Macbeth.txt 3045     must also feele       man
+Macbeth.txt 3046   cannot   remember such things were
+Macbeth.txt 3047   were most precious     did heauen looke  
+Macbeth.txt 3048   would   take their part sinfull macduff
+Macbeth.txt 3049   were   strooke     naught     am
+Macbeth.txt 3050     their owne demerits     mine
+Macbeth.txt 3051 fell slaughter   their soules heauen rest them  
+Macbeth.txt 3052 
+Macbeth.txt 3053    mal       whetstone     sword let griefe
+Macbeth.txt 3054 conuert   anger blunt     heart enrage  
+Macbeth.txt 3055 
+Macbeth.txt 3056    macd     could play   woman   mine eyes
+Macbeth.txt 3057   braggart     tongue   gentle heauens
+Macbeth.txt 3058 cut short   intermission front   front
+Macbeth.txt 3059 bring     fiend   scotland     selfe
+Macbeth.txt 3060 within   swords length set       scape
+Macbeth.txt 3061 heauen forgiue   too
+Macbeth.txt 3062 
+Macbeth.txt 3063    mal   time goes manly
+Macbeth.txt 3064   go           power   ready
+Macbeth.txt 3065   lacke   nothing     leaue macbeth
+Macbeth.txt 3066   ripe   shaking     powres aboue
+Macbeth.txt 3067 put   their instruments receiue   cheere   may
+Macbeth.txt 3068   night   long   neuer findes   day
+Macbeth.txt 3069 
+Macbeth.txt 3070 exeunt
+Macbeth.txt 3071 
+Macbeth.txt 3072 actus quintus scena prima
+Macbeth.txt 3073 
+Macbeth.txt 3074     doctor   physicke     wayting gentlewoman
+Macbeth.txt 3075 
+Macbeth.txt 3076   doct     too nights watch        can
+Macbeth.txt 3077 perceiue   truth     report when was   shee last
+Macbeth.txt 3078 walk 
+Macbeth.txt 3079   gent since   maiesty went into   field    
+Macbeth.txt 3080 seene   rise     bed throw   nightgown vppon
+Macbeth.txt 3081   vnlocke   closset take foorth paper folde  
+Macbeth.txt 3082 write vpon  read   afterwards seale     againe returne
+Macbeth.txt 3083   bed yet     while     most fast sleepe
+Macbeth.txt 3084 
+Macbeth.txt 3085    doct   great perturbation   nature   receyue  
+Macbeth.txt 3086 once   benefit   sleep       effects   watching
+Macbeth.txt 3087     slumbry agitation besides   walking   other
+Macbeth.txt 3088 actuall performances     any time     heard
+Macbeth.txt 3089   say
+Macbeth.txt 3090   gent   sir         report after  
+Macbeth.txt 3091 
+Macbeth.txt 3092    doct   may       tis most meet   should
+Macbeth.txt 3093 
+Macbeth.txt 3094    gent neither     nor any one hauing   witnesse
+Macbeth.txt 3095   confirme   speech
+Macbeth.txt 3096   lady     taper
+Macbeth.txt 3097 
+Macbeth.txt 3098 lo   heere she comes       very guise   vpon
+Macbeth.txt 3099   life fast asleepe obserue   stand close
+Macbeth.txt 3100 
+Macbeth.txt 3101    doct how came she     light
+Macbeth.txt 3102   gent why   stood     she has light     continually
+Macbeth.txt 3103 tis   command
+Macbeth.txt 3104 
+Macbeth.txt 3105    doct   see   eyes   open
+Macbeth.txt 3106 
+Macbeth.txt 3107    gent     their sense   shut
+Macbeth.txt 3108 
+Macbeth.txt 3109    doct       she  s  
+Macbeth.txt 3110 looke how she rubbes   hands
+Macbeth.txt 3111 
+Macbeth.txt 3112    gent     an accustom  action       seeme
+Macbeth.txt 3113 thus washing   hands     knowne   continue  
+Macbeth.txt 3114     quarter   an houre
+Macbeth.txt 3115 
+Macbeth.txt 3116    lad yet heeres   spot
+Macbeth.txt 3117 
+Macbeth.txt 3118    doct heark she speaks     set downe   comes
+Macbeth.txt 3119       satisfie   remembrance     strongly
+Macbeth.txt 3120 
+Macbeth.txt 3121    la out damned spot out   say one two why
+Macbeth.txt 3122   tis time   doo  hell   murky fye     fie
+Macbeth.txt 3123   souldier   affear    need   feare who knowes
+Macbeth.txt 3124   when none can call   powre   accompt yet who
+Macbeth.txt 3125 would   thought   olde man     had   much
+Macbeth.txt 3126 blood    
+Macbeth.txt 3127 
+Macbeth.txt 3128    doct     marke  
+Macbeth.txt 3129   lad   thane   fife had   wife where   she  
+Macbeth.txt 3130     these hands nere   cleane       
+Macbeth.txt 3131              marre       starting
+Macbeth.txt 3132 
+Macbeth.txt 3133    doct go too go too
+Macbeth.txt 3134     knowne     should  
+Macbeth.txt 3135 
+Macbeth.txt 3136    gent she has spoke   shee should     am sure
+Macbeth.txt 3137     heauen knowes   she has knowne
+Macbeth.txt 3138 
+Macbeth.txt 3139    la heeres   smell     blood still     perfumes
+Macbeth.txt 3140   arabia     sweeten   little hand
+Macbeth.txt 3141 oh oh oh
+Macbeth.txt 3142 
+Macbeth.txt 3143    doct     sigh       hart   sorely charg 
+Macbeth.txt 3144 
+Macbeth.txt 3145    gent   would     such   heart     bosome
+Macbeth.txt 3146     dignity     whole body
+Macbeth.txt 3147 
+Macbeth.txt 3148    doct well well well
+Macbeth.txt 3149 
+Macbeth.txt 3150    gent pray god     sir
+Macbeth.txt 3151 
+Macbeth.txt 3152    doct   disease   beyond   practise yet    
+Macbeth.txt 3153 knowne those     walkt   their sleep who  
+Macbeth.txt 3154 dyed holily   their beds
+Macbeth.txt 3155 
+Macbeth.txt 3156    lad wash   hands put     nightgowne
+Macbeth.txt 3157 looke     pale   tell   yet againe banquos buried
+Macbeth.txt 3158   cannot   out  s graue
+Macbeth.txt 3159 
+Macbeth.txt 3160    doct euen  
+Macbeth.txt 3161   lady   bed   bed  s knocking     gate
+Macbeth.txt 3162         giue     hand  s
+Macbeth.txt 3163 done cannot   vndone   bed   bed   bed
+Macbeth.txt 3164 
+Macbeth.txt 3165 exit lady
+Macbeth.txt 3166 
+Macbeth.txt 3167   doct   she go     bed
+Macbeth.txt 3168   gent directly
+Macbeth.txt 3169 
+Macbeth.txt 3170    doct foule whisprings   abroad vnnaturall deeds
+Macbeth.txt 3171   breed vnnaturall troubles infected mindes
+Macbeth.txt 3172   their deafe pillowes   discharge their secrets
+Macbeth.txt 3173   needs she   diuine     physitian
+Macbeth.txt 3174 god god forgiue vs   looke after  
+Macbeth.txt 3175 remoue       meanes     annoyance
+Macbeth.txt 3176   still keepe eyes vpon     goodnight
+Macbeth.txt 3177   minde she has mated   amaz    sight
+Macbeth.txt 3178   thinke   dare   speake
+Macbeth.txt 3179 
+Macbeth.txt 3180    gent   night   doctor
+Macbeth.txt 3181 
+Macbeth.txt 3182 exeunt
+Macbeth.txt 3183 
+Macbeth.txt 3184 
+Macbeth.txt 3185 scena secunda
+Macbeth.txt 3186 
+Macbeth.txt 3187 drum   colours   menteth cathnes angus lenox
+Macbeth.txt 3188 soldiers
+Macbeth.txt 3189 
+Macbeth.txt 3190   ment   english powre   neere led     malcolm
+Macbeth.txt 3191   vnkle seyward       macduff
+Macbeth.txt 3192 reuenges burne   them   their deere causes
+Macbeth.txt 3193 would     bleeding     grim alarme
+Macbeth.txt 3194 excite   mortified man
+Macbeth.txt 3195 
+Macbeth.txt 3196    ang neere byrnan wood
+Macbeth.txt 3197     well meet them   way     comming
+Macbeth.txt 3198 
+Macbeth.txt 3199    cath who knowes   donalbane       brother
+Macbeth.txt 3200   len   certaine sir             file
+Macbeth.txt 3201       gentry     seywards sonne
+Macbeth.txt 3202   many vnruffe youths   euen  
+Macbeth.txt 3203 protest their first   manhood
+Macbeth.txt 3204 
+Macbeth.txt 3205    ment    s   tyrant
+Macbeth.txt 3206 
+Macbeth.txt 3207    cath great dunsinane   strongly fortifies
+Macbeth.txt 3208 some say hees mad others   lesser hate  
+Macbeth.txt 3209   call   valiant fury     certaine
+Macbeth.txt 3210   cannot buckle   distemper  cause
+Macbeth.txt 3211 within   belt   rule
+Macbeth.txt 3212 
+Macbeth.txt 3213    ang    s   feele
+Macbeth.txt 3214   secret murthers sticking     hands
+Macbeth.txt 3215   minutely reuolts vpbraid   faithbreach
+Macbeth.txt 3216 those   commands moue onely   command
+Macbeth.txt 3217 nothing   loue    s   feele   title
+Macbeth.txt 3218 hang loose about   like   giants robe
+Macbeth.txt 3219 vpon   dwarfish theefe
+Macbeth.txt 3220 
+Macbeth.txt 3221    ment who     blame
+Macbeth.txt 3222   pester  senses   recoyle   start
+Macbeth.txt 3223 when       within    s condemne
+Macbeth.txt 3224   selfe   being  
+Macbeth.txt 3225 
+Macbeth.txt 3226    cath well march    
+Macbeth.txt 3227   giue obedience where tis truly ow 
+Macbeth.txt 3228 meet     medcine     sickly weale
+Macbeth.txt 3229       poure       countries purge
+Macbeth.txt 3230 each drop   vs
+Macbeth.txt 3231 
+Macbeth.txt 3232    lenox     much     needes
+Macbeth.txt 3233   dew   soueraigne flower   drowne   weeds
+Macbeth.txt 3234 make     march towards birnan
+Macbeth.txt 3235 
+Macbeth.txt 3236 exeunt marching
+Macbeth.txt 3237 
+Macbeth.txt 3238 
+Macbeth.txt 3239 scaena tertia
+Macbeth.txt 3240 
+Macbeth.txt 3241   macbeth doctor   attendants
+Macbeth.txt 3242 
+Macbeth.txt 3243   macb bring       reports let them flye  
+Macbeth.txt 3244 till byrnane wood remoue   dunsinane
+Macbeth.txt 3245   cannot taint   feare  s   boy malcolme
+Macbeth.txt 3246 was     borne   woman   spirits   know
+Macbeth.txt 3247   mortall consequences   pronounc    thus
+Macbeth.txt 3248 feare   macbeth   man  s borne   woman
+Macbeth.txt 3249   ere   power vpon     fly false thanes
+Macbeth.txt 3250   mingle     english epicures
+Macbeth.txt 3251   minde   sway       heart   beare
+Macbeth.txt 3252   neuer sagge   doubt nor shake   feare
+Macbeth.txt 3253   seruant
+Macbeth.txt 3254 
+Macbeth.txt 3255   diuell damne   blacke   creamfac  loone
+Macbeth.txt 3256 where gotst     gooselooke
+Macbeth.txt 3257 
+Macbeth.txt 3258    ser     ten thousand
+Macbeth.txt 3259 
+Macbeth.txt 3260    macb geese villaine
+Macbeth.txt 3261   ser souldiers sir
+Macbeth.txt 3262 
+Macbeth.txt 3263    macb go pricke   face   ouerred   feare
+Macbeth.txt 3264   lillyliuer  boy   soldiers patch
+Macbeth.txt 3265 death     soule those linnen cheekes   thine
+Macbeth.txt 3266   counsailers   feare   soldiers whayface
+Macbeth.txt 3267   ser   english force   please  
+Macbeth.txt 3268 
+Macbeth.txt 3269    macb take   face hence seyton   am sick   hart
+Macbeth.txt 3270 when   behold seyton   say   push
+Macbeth.txt 3271   cheere   euer   diseate    
+Macbeth.txt 3272     liu  long enough   way   life
+Macbeth.txt 3273   falne into   seare   yellow leafe
+Macbeth.txt 3274       should accompany oldage
+Macbeth.txt 3275   honor loue obedience troopes   friends
+Macbeth.txt 3276   must   looke         their steed
+Macbeth.txt 3277 curses   lowd   deepe mouthhonor breath
+Macbeth.txt 3278     poore heart would faine deny   dare  
+Macbeth.txt 3279 seyton
+Macbeth.txt 3280   seyton
+Macbeth.txt 3281 
+Macbeth.txt 3282   sey  s   gracious pleasure
+Macbeth.txt 3283   macb   newes  
+Macbeth.txt 3284   sey     confirm        was reported
+Macbeth.txt 3285 
+Macbeth.txt 3286    macb ile fight till     bones   flesh   hackt
+Macbeth.txt 3287 giue     armor
+Macbeth.txt 3288 
+Macbeth.txt 3289    seyt tis   needed yet
+Macbeth.txt 3290 
+Macbeth.txt 3291    macb ile put    
+Macbeth.txt 3292 send out moe horses skirre   country round
+Macbeth.txt 3293 hang those   talke   feare giue   mine armor
+Macbeth.txt 3294 how  s   patient doctor
+Macbeth.txt 3295   doct     sicke    
+Macbeth.txt 3296   she   troubled   thickecomming fancies
+Macbeth.txt 3297   keepe       rest
+Macbeth.txt 3298 
+Macbeth.txt 3299    macb cure    
+Macbeth.txt 3300 canst     minister     minde diseas 
+Macbeth.txt 3301 plucke     memory   rooted sorrow
+Macbeth.txt 3302 raze out   written troubles     braine
+Macbeth.txt 3303     some sweet obliuious antidote
+Macbeth.txt 3304 cleanse   stufft bosome     perillous stuffe
+Macbeth.txt 3305   weighes vpon   heart
+Macbeth.txt 3306   doct therein   patient
+Macbeth.txt 3307 must minister   himselfe
+Macbeth.txt 3308 
+Macbeth.txt 3309    macb throw physicke     dogs ile none    
+Macbeth.txt 3310   put mine armour   giue     staffe
+Macbeth.txt 3311 seyton send out doctor   thanes flye    
+Macbeth.txt 3312   sir dispatch     couldst doctor cast
+Macbeth.txt 3313   water     land finde   disease
+Macbeth.txt 3314   purge       sound   pristine health
+Macbeth.txt 3315   would applaud       very eccho
+Macbeth.txt 3316   should applaud againe pull  off   say
+Macbeth.txt 3317   rubarb cyme     purgatiue drugge
+Macbeth.txt 3318 would scowre these english hence hearst y   them
+Macbeth.txt 3319   doct           royall preparation
+Macbeth.txt 3320 makes vs heare something
+Macbeth.txt 3321 
+Macbeth.txt 3322    macb bring   after  
+Macbeth.txt 3323         affraid   death   bane
+Macbeth.txt 3324 till birnane forrest     dunsinane
+Macbeth.txt 3325 
+Macbeth.txt 3326    doct were     dunsinane away   cleere
+Macbeth.txt 3327 profit againe should hardly draw   heere
+Macbeth.txt 3328 
+Macbeth.txt 3329 exeunt
+Macbeth.txt 3330 
+Macbeth.txt 3331 scena quarta
+Macbeth.txt 3332 
+Macbeth.txt 3333 drum   colours   malcolme seyward macduffe
+Macbeth.txt 3334 seywards sonne
+Macbeth.txt 3335 menteth cathnes angus   soldiers marching
+Macbeth.txt 3336 
+Macbeth.txt 3337   malc cosins   hope   dayes   neere   hand
+Macbeth.txt 3338   chambers     safe
+Macbeth.txt 3339 
+Macbeth.txt 3340    ment   doubt   nothing
+Macbeth.txt 3341 
+Macbeth.txt 3342    seyw   wood     before vs
+Macbeth.txt 3343   ment   wood   birnane
+Macbeth.txt 3344 
+Macbeth.txt 3345    malc let euery souldier hew   downe   bough
+Macbeth.txt 3346   bear  before   thereby     shadow
+Macbeth.txt 3347   numbers     hoast   make discouery
+Macbeth.txt 3348 erre   report   vs
+Macbeth.txt 3349 
+Macbeth.txt 3350    sold       done
+Macbeth.txt 3351 
+Macbeth.txt 3352    syw   learne   other     confident tyrant
+Macbeth.txt 3353 keepes still   dunsinane     indure
+Macbeth.txt 3354   setting downe befor 
+Macbeth.txt 3355 
+Macbeth.txt 3356    malc tis   maine hope
+Macbeth.txt 3357   where     aduantage     giuen
+Macbeth.txt 3358 both     lesse   giuen     reuolt
+Macbeth.txt 3359   none serue       constrained things
+Macbeth.txt 3360 whose hearts   absent too
+Macbeth.txt 3361 
+Macbeth.txt 3362    macd let   iust censures
+Macbeth.txt 3363 attend   true euent   put    
+Macbeth.txt 3364 industrious souldiership
+Macbeth.txt 3365 
+Macbeth.txt 3366    sey   time approaches
+Macbeth.txt 3367       due decision make vs know
+Macbeth.txt 3368       say           owe
+Macbeth.txt 3369 thoughts speculatiue their vnsure hopes relate
+Macbeth.txt 3370   certaine issue stroakes must arbitrate
+Macbeth.txt 3371 towards   aduance   warre
+Macbeth.txt 3372 
+Macbeth.txt 3373 exeunt marching
+Macbeth.txt 3374 
+Macbeth.txt 3375 scena quinta
+Macbeth.txt 3376 
+Macbeth.txt 3377   macbeth seyton  souldiers   drum   colours
+Macbeth.txt 3378 
+Macbeth.txt 3379   macb hang out   banners     outward walls
+Macbeth.txt 3380   cry   still       castles strength
+Macbeth.txt 3381   laugh   siedge   scorne heere let them lye
+Macbeth.txt 3382 till famine     ague eate them vp
+Macbeth.txt 3383 were     forc    those   should   ours
+Macbeth.txt 3384   might   met them darefull beard   beard
+Macbeth.txt 3385   beate them backward home       noyse
+Macbeth.txt 3386 
+Macbeth.txt 3387   cry within   women
+Macbeth.txt 3388 
+Macbeth.txt 3389   sey       cry   women      
+Macbeth.txt 3390 
+Macbeth.txt 3391    macb     almost forgot   taste   feares
+Macbeth.txt 3392   time has beene   sences would   cool 
+Macbeth.txt 3393   heare   nightshrieke     fell   haire
+Macbeth.txt 3394 would     dismall treatise rowze   stirre
+Macbeth.txt 3395   life were        supt full   horrors
+Macbeth.txt 3396 direnesse familiar     slaughterous thoughts
+Macbeth.txt 3397 cannot once start   wherefore was   cry
+Macbeth.txt 3398   sey   queene       dead
+Macbeth.txt 3399 
+Macbeth.txt 3400    macb she should   dyde heereafter
+Macbeth.txt 3401   would   beene   time   such   word
+Macbeth.txt 3402   morrow     morrow     morrow
+Macbeth.txt 3403 creepes     petty pace   day   day
+Macbeth.txt 3404     last syllable   recorded time
+Macbeth.txt 3405       yesterdayes   lighted fooles
+Macbeth.txt 3406   way   dusty death out out breefe candle
+Macbeth.txt 3407 lifes     walking shadow   poore player
+Macbeth.txt 3408   struts   frets   houre vpon   stage
+Macbeth.txt 3409       heard           tale
+Macbeth.txt 3410 told   an ideot full   sound   fury
+Macbeth.txt 3411 signifying nothing
+Macbeth.txt 3412     messenger
+Macbeth.txt 3413 
+Macbeth.txt 3414   comst   vse   tongue   story quickly
+Macbeth.txt 3415 
+Macbeth.txt 3416    mes gracious    
+Macbeth.txt 3417   should report       say   saw
+Macbeth.txt 3418   know   how   doo 
+Macbeth.txt 3419 
+Macbeth.txt 3420    macb well say sir
+Macbeth.txt 3421 
+Macbeth.txt 3422    mes     did stand   watch vpon   hill
+Macbeth.txt 3423   look  toward byrnane   anon   thought
+Macbeth.txt 3424   wood began   moue
+Macbeth.txt 3425 
+Macbeth.txt 3426    macb lyar   slaue
+Macbeth.txt 3427 
+Macbeth.txt 3428    mes let   endure   wrath         
+Macbeth.txt 3429 within   three mile may   see   comming
+Macbeth.txt 3430   say   mouing groue
+Macbeth.txt 3431 
+Macbeth.txt 3432    macb     speakst false
+Macbeth.txt 3433 vpon   next tree     hang aliue
+Macbeth.txt 3434 till famine cling       speech   sooth
+Macbeth.txt 3435   care       dost       much
+Macbeth.txt 3436   pull   resolution   begin
+Macbeth.txt 3437   doubt th equiuocation     fiend
+Macbeth.txt 3438   lies like truth feare   till byrnane wood
+Macbeth.txt 3439       dunsinane       wood
+Macbeth.txt 3440 comes toward dunsinane arme arme   out
+Macbeth.txt 3441         auouches  s appeare
+Macbeth.txt 3442     nor flying hence nor tarrying here
+Macbeth.txt 3443   ginne      weary     sun
+Macbeth.txt 3444   wish th estate  th world were   vndon
+Macbeth.txt 3445 ring   alarum bell blow winde   wracke
+Macbeth.txt 3446   least weel dye   harnesse     backe
+Macbeth.txt 3447 
+Macbeth.txt 3448 exeunt
+Macbeth.txt 3449 
+Macbeth.txt 3450 scena sexta
+Macbeth.txt 3451 
+Macbeth.txt 3452 drumme   colours   malcolme seyward macduffe  
+Macbeth.txt 3453 their army
+Macbeth.txt 3454   boughes
+Macbeth.txt 3455 
+Macbeth.txt 3456   mal   neere enough
+Macbeth.txt 3457   leauy skreenes throw downe
+Macbeth.txt 3458   shew like those       worthy vnkle
+Macbeth.txt 3459       cosin   right noble sonne
+Macbeth.txt 3460 leade   first battell worthy macduffe   wee
+Macbeth.txt 3461   take vpons   else remaines    
+Macbeth.txt 3462 according     order
+Macbeth.txt 3463 
+Macbeth.txt 3464    sey fare   well
+Macbeth.txt 3465       finde   tyrants power   night
+Macbeth.txt 3466 let vs   beaten     cannot fight
+Macbeth.txt 3467 
+Macbeth.txt 3468    macd make     trumpets speak giue  m   breath
+Macbeth.txt 3469 those clamorous harbingers   blood  death
+Macbeth.txt 3470 
+Macbeth.txt 3471 exeunt
+Macbeth.txt 3472 
+Macbeth.txt 3473 alarums continued
+Macbeth.txt 3474 
+Macbeth.txt 3475 
+Macbeth.txt 3476 scena septima
+Macbeth.txt 3477 
+Macbeth.txt 3478   macbeth
+Macbeth.txt 3479 
+Macbeth.txt 3480   macb     tied       stake   cannot flye
+Macbeth.txt 3481   bearelike   must fight   course  s  
+Macbeth.txt 3482   was   borne   woman such   one
+Macbeth.txt 3483 am     feare   none
+Macbeth.txt 3484   young seyward
+Macbeth.txt 3485 
+Macbeth.txt 3486   ysey       name
+Macbeth.txt 3487   macb  lt   affraid   heare  
+Macbeth.txt 3488 
+Macbeth.txt 3489    ysey   though   callst   selfe   hoter name
+Macbeth.txt 3490   any     hell
+Macbeth.txt 3491 
+Macbeth.txt 3492    macb   names macbeth
+Macbeth.txt 3493 
+Macbeth.txt 3494    ysey   diuell himselfe could   pronounce   title
+Macbeth.txt 3495   hatefull   mine eare
+Macbeth.txt 3496 
+Macbeth.txt 3497    macb   nor   fearefull
+Macbeth.txt 3498 
+Macbeth.txt 3499    ysey   lyest abhorred tyrant     sword
+Macbeth.txt 3500 ile proue   lye   speakst
+Macbeth.txt 3501 
+Macbeth.txt 3502 fight   young seyward slaine
+Macbeth.txt 3503 
+Macbeth.txt 3504   macb   was  borne   woman
+Macbeth.txt 3505   swords   smile   weapons laugh   scorne
+Macbeth.txt 3506 brandish    man  s     woman borne
+Macbeth.txt 3507  
+Macbeth.txt 3508 
+Macbeth.txt 3509 alarums   macduffe
+Macbeth.txt 3510 
+Macbeth.txt 3511   macd   way   noise   tyrant shew   face
+Macbeth.txt 3512     beest slaine       stroake   mine
+Macbeth.txt 3513   wife   childrens ghosts   haunt   still
+Macbeth.txt 3514   cannot strike   wretched kernes whose armes
+Macbeth.txt 3515   hyr    beare their staues either   macbeth
+Macbeth.txt 3516   else   sword   an vnbattered edge
+Macbeth.txt 3517   sheath againe vndeeded     shouldst  
+Macbeth.txt 3518     great clatter one   greatest note
+Macbeth.txt 3519 seemes bruited let   finde   fortune
+Macbeth.txt 3520       begge  
+Macbeth.txt 3521 
+Macbeth.txt 3522 exit alarums
+Macbeth.txt 3523 
+Macbeth.txt 3524   malcolme   seyward
+Macbeth.txt 3525 
+Macbeth.txt 3526   sey   way       castles gently rendred
+Macbeth.txt 3527   tyrants people   both sides   fight
+Macbeth.txt 3528   noble thanes   brauely     warre
+Macbeth.txt 3529   day almost   selfe professes yours
+Macbeth.txt 3530   little      
+Macbeth.txt 3531 
+Macbeth.txt 3532    malc     met   foes
+Macbeth.txt 3533   strike beside vs
+Macbeth.txt 3534 
+Macbeth.txt 3535    sey   sir   castle
+Macbeth.txt 3536 
+Macbeth.txt 3537 exeunt alarum
+Macbeth.txt 3538 
+Macbeth.txt 3539   macbeth
+Macbeth.txt 3540 
+Macbeth.txt 3541   macb why should   play   roman foole   dye
+Macbeth.txt 3542   mine owne sword whiles   see liues   gashes
+Macbeth.txt 3543   better vpon them
+Macbeth.txt 3544   macduffe
+Macbeth.txt 3545 
+Macbeth.txt 3546   macd turne hellhound turne
+Macbeth.txt 3547 
+Macbeth.txt 3548    macb     men else     auoyded  
+Macbeth.txt 3549   get   backe   soule   too much charg 
+Macbeth.txt 3550   blood   thine already
+Macbeth.txt 3551 
+Macbeth.txt 3552    macd       words
+Macbeth.txt 3553   voice       sword   bloodier villaine
+Macbeth.txt 3554   tearmes can giue   out
+Macbeth.txt 3555 
+Macbeth.txt 3556 fight alarum
+Macbeth.txt 3557 
+Macbeth.txt 3558   macb   loosest labour
+Macbeth.txt 3559   easie mayst     intrenchant ayre
+Macbeth.txt 3560     keene sword impresse   make   bleed
+Macbeth.txt 3561 let fall   blade   vulnerable crests
+Macbeth.txt 3562   beare   charmed life   must   yeeld
+Macbeth.txt 3563   one   woman borne
+Macbeth.txt 3564 
+Macbeth.txt 3565    macd dispaire   charme
+Macbeth.txt 3566   let   angell whom   still hast seru 
+Macbeth.txt 3567 tell   macduffe was     mothers womb
+Macbeth.txt 3568 vntimely ript
+Macbeth.txt 3569 
+Macbeth.txt 3570    macb accursed     tongue   tels mee  
+Macbeth.txt 3571     hath cow    better part   man
+Macbeth.txt 3572     these iugling fiends     beleeu 
+Macbeth.txt 3573   palter   vs     double sence
+Macbeth.txt 3574   keepe   word   promise     eare
+Macbeth.txt 3575   breake       hope ile   fight    
+Macbeth.txt 3576 
+Macbeth.txt 3577    macd   yeeld   coward
+Macbeth.txt 3578   liue       shew   gaze  th time
+Macbeth.txt 3579 weel         rarer monsters  
+Macbeth.txt 3580 painted vpon   pole   vnderwrit
+Macbeth.txt 3581 heere may   see   tyrant
+Macbeth.txt 3582 
+Macbeth.txt 3583    macb       yeeld
+Macbeth.txt 3584   kisse   ground before young malcolmes feet
+Macbeth.txt 3585       baited     rabbles curse
+Macbeth.txt 3586 though byrnane wood       dunsinane
+Macbeth.txt 3587     oppos  being     woman borne
+Macbeth.txt 3588 yet     try   last before   body
+Macbeth.txt 3589   throw   warlike shield lay   macduffe
+Macbeth.txt 3590   damn        first cries hold enough
+Macbeth.txt 3591 
+Macbeth.txt 3592 exeunt fighting alarums
+Macbeth.txt 3593 
+Macbeth.txt 3594   fighting   macbeth slaine
+Macbeth.txt 3595 
+Macbeth.txt 3596 retreat   flourish     drumme   colours malcolm
+Macbeth.txt 3597 seyward
+Macbeth.txt 3598 rosse thanes  soldiers
+Macbeth.txt 3599 
+Macbeth.txt 3600   mal   would   friends   misse were safe arriu 
+Macbeth.txt 3601 
+Macbeth.txt 3602    sey some must go off   yet   these   see
+Macbeth.txt 3603   great   day       cheapely bought
+Macbeth.txt 3604 
+Macbeth.txt 3605    mal macduffe   missing     noble sonne
+Macbeth.txt 3606 
+Macbeth.txt 3607    rosse   son     has paid   souldiers debt
+Macbeth.txt 3608   onely liu    till   was   man
+Macbeth.txt 3609       sooner had   prowesse confirm 
+Macbeth.txt 3610     vnshrinking station where   fought
+Macbeth.txt 3611   like   man   dyde
+Macbeth.txt 3612 
+Macbeth.txt 3613    sey       dead
+Macbeth.txt 3614   rosse     brought off   field   cause   sorrow
+Macbeth.txt 3615 must     measur      worth    
+Macbeth.txt 3616   hath   end
+Macbeth.txt 3617 
+Macbeth.txt 3618    sey had     hurts before
+Macbeth.txt 3619   rosse       front
+Macbeth.txt 3620 
+Macbeth.txt 3621    sey why   gods soldier    
+Macbeth.txt 3622 had     many sonnes       haires
+Macbeth.txt 3623   would   wish them     fairer death
+Macbeth.txt 3624       knell   knoll 
+Macbeth.txt 3625 
+Macbeth.txt 3626    mal hees worth   sorrow
+Macbeth.txt 3627     ile spend    
+Macbeth.txt 3628 
+Macbeth.txt 3629    sey  s worth    
+Macbeth.txt 3630   say   parted well   paid   score
+Macbeth.txt 3631     god       here comes newer comfort
+Macbeth.txt 3632   macduffe   macbeths head
+Macbeth.txt 3633 
+Macbeth.txt 3634   macd haile         art
+Macbeth.txt 3635 behold where stands
+Macbeth.txt 3636 th vsurpers cursed head   time   free
+Macbeth.txt 3637   see   compast     kingdomes pearle
+Macbeth.txt 3638   speake   salutation   their minds
+Macbeth.txt 3639 whose voyces   desire alowd   mine
+Macbeth.txt 3640 haile     scotland
+Macbeth.txt 3641 
+Macbeth.txt 3642      haile     scotland
+Macbeth.txt 3643 
+Macbeth.txt 3644 flourish
+Macbeth.txt 3645 
+Macbeth.txt 3646   mal       spend   large expence   time
+Macbeth.txt 3647 before   reckon     seuerall loues
+Macbeth.txt 3648   make vs euen       thanes   kinsmen
+Macbeth.txt 3649 henceforth   earles   first   euer scotland
+Macbeth.txt 3650   such an honor nam   s      
+Macbeth.txt 3651   would   planted newly     time
+Macbeth.txt 3652   calling home   exil  friends abroad
+Macbeth.txt 3653   fled   snares   watchfull tyranny
+Macbeth.txt 3654 producing forth   cruell ministers
+Macbeth.txt 3655     dead butcher     fiendlike queene
+Macbeth.txt 3656 who   tis thought   selfe   violent hands
+Macbeth.txt 3657 tooke off   life       need full else
+Macbeth.txt 3658   calls vpon vs     grace   grace
+Macbeth.txt 3659     performe   measure time   place
+Macbeth.txt 3660   thankes       once     each one
+Macbeth.txt 3661 whom   inuite   see vs crown    scone
+Macbeth.txt 3662 
+Macbeth.txt 3663 flourish exeunt omnes
+Macbeth.txt 3664 
+Macbeth.txt 3665 
+Macbeth.txt 3666 finis   tragedie   macbeth
+Macbeth.txt 3667 

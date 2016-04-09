@@ -1,0 +1,44 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Getting-Started 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- exec-maven-plugin:1.3:java (default-cli) @ Getting-Started ---
+[WARNING] Warning: killAfter is now deprecated. Do you need it ? Please comment on MEXEC-6.
+OK:storm
+OK:test
+OK:are
+OK:great
+OK:is
+OK:an
+OK:storm
+OK:simple
+OK:application
+OK:but
+OK:very
+OK:powerfull
+OK:really
+OK:StOrm
+OK:
+OK:is
+-- Word Counter [word-counter-2] --
+really: 1
+but: 1
+application: 1
+is: 2
+great: 2
+are: 1
+test: 1
+simple: 1
+an: 1
+powerfull: 1
+storm: 3
+very: 1
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 6.805s
+[INFO] Finished at: Mon Apr 28 11:47:10 CEST 2014
+[INFO] Final Memory: 19M/290M
+[INFO] ------------------------------------------------------------------------
