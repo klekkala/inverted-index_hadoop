@@ -128,7 +128,6 @@ done
 
 # Check that the input dir in HDFS exists
 echo -e "\nSetting up HDFS for input files\n"
-
 if [[ $($HDP_CALL fs -test -e $HDFS_IN_DIR) -ne 0 ]] ; then 
   if [[ $(HDP_CALL fs -test -d $HDFS_IN_DIR) -ne 0 ]] ; then
     $HDP_CALL fs -rmr $HDFS_IN_DIR
