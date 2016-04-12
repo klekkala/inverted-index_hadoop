@@ -1,9 +1,0 @@
-#!/bin/bash
-
-if [ $# -eq 1 ]; then
-	ssh -i ~/.ssh/aws-key.pem ubuntu@$1
-else
-	echo 'Not enough arguments'
-	echo 'Usage:'
-	echo 'connect-to-master MASTER-IP'
-fi

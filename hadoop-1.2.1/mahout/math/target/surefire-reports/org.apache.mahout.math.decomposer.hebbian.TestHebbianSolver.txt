@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: org.apache.mahout.math.decomposer.hebbian.TestHebbianSolver
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.581 sec - in org.apache.mahout.math.decomposer.hebbian.TestHebbianSolver
