@@ -1,0 +1,238 @@
+11415952.txt 0 variability   angina symptoms     risk   major ischemic heart disease events
+11415952.txt 1 fiona c lampe1 peter h whincup2   gerald shaper1 s goya wannamethee1 mary walker1   shah ebrahim3
+11415952.txt 2 1 cardiovascular research unit department   primary care   population sciences royal free   university college medical school london united kingdom
+11415952.txt 3 2 department   public health sciences st georges hospital medical school london united kingdom
+11415952.txt 4 3 department   social medicine university   bristol bristol united kingdom
+11415952.txt 5 abstract
+11415952.txt 6 top
+11415952.txt 7 abstract
+11415952.txt 8 introduction
+11415952.txt 9 materials   methods
+11415952.txt 10 appendix
+11415952.txt 11 assessment   other
+11415952.txt 12 followup   mortality  
+11415952.txt 13 statistical methods
+11415952.txt 14 results
+11415952.txt 15 discussion
+11415952.txt 16 references
+11415952.txt 17 variability   angina symptoms over   5year period was examined     prospective study     7109 british middleaged men completed two chest pain questionnaires q1 19781980   q5 19831985   were classified   having   chest pain nonexertional chest pain   angina q exertional chest pain   each occasion within persons   was considerable variability   response     chest pain questions   q1   q5 angina q persistence showed marked associations   previous myocardial infarction diagnosed angina electrocardiogram ischemia   subsequent major ischemic heart disease events   q5 onward compared   men without angina q   ageadjusted hazard ratios were 15 95 confidence interval ci 11 22   angina q   q1 only 26 95 ci 21 32   angina q   q5 only   34 95 ci 28 43   angina q   both occasions   men without diagnosed ischemic heart disease   whom apparent remission  
+11415952.txt 18 angina q was particularly frequent   similar pattern   association was found between angina q persistence   subsequent major events   middleaged men exertional chest pain     strong indicator   major coronary risk   frequently appears transient     longer term persistently reported symptoms   associated   severe disease     poor prognosis
+11415952.txt 19 angina pectoris chest pain coronary disease prospective studies questionnaires
+11415952.txt 20 abbreviations angina q exertional chest pain ecg electrocardiogram q1 19781980 questionnaire q5 19831985 questionnaire q92 november 1992 questionnaire
+11415952.txt 21 introduction
+11415952.txt 22 top
+11415952.txt 23 abstract
+11415952.txt 24 introduction
+11415952.txt 25 materials   methods
+11415952.txt 26 appendix
+11415952.txt 27 assessment   other
+11415952.txt 28 followup   mortality  
+11415952.txt 29 statistical methods
+11415952.txt 30 results
+11415952.txt 31 discussion
+11415952.txt 32 references
+11415952.txt 33   epidemiologic studies   surveys angina   identified most commonly     single administration     standard 1 go      shortened version 2 go go go go 6 go      world health organization who rose questionnaire several reports 7 go go go 10 go  have highlighted   substantial variability     persons responses     chest pain questionnaire   one occasion   another how much     variability   due   measurement error   how much     feature     natural history   true ischemic pain     known certainly   variability     unique   angina ascertained using   chest pain questionnaire   apparent remission   symptoms also occurs     significant proportion   cases when angina   defined   clinical assessment 11 go go go go go 16 go    examining   association   persistent   variable angina symptoms reported   questionnaire   other indicators   ischemic heart disease rose 7 go    others 10 go 
+11415952.txt 34 have suggested   persistence   angina could   used   grade severity   disease however     knowledge   association   persistence   questionnaireassessed chest pain   subsequent longterm risk     major ischemic heart disease event has   been described     general population study
+11415952.txt 35   examined   issue using data   two questionnaires completed   middleaged men who participated     british regional heart study 17 go    paper describes   variability associated   elicited chest pain symptoms over   5year period compares   characteristics   men   persistent   variable angina symptoms   examines   effect   persistence   angina   ischemic heart disease outcome
+11415952.txt 36 materials   methods
+11415952.txt 37 top
+11415952.txt 38 abstract
+11415952.txt 39 introduction
+11415952.txt 40 materials   methods
+11415952.txt 41 appendix
+11415952.txt 42 assessment   other
+11415952.txt 43 followup   mortality  
+11415952.txt 44 statistical methods
+11415952.txt 45 results
+11415952.txt 46 discussion
+11415952.txt 47 references
+11415952.txt 48   british regional heart study     prospective study   7735 men aged 4059 years   entry 19781980 who were randomly selected     agesex registers   one general practice   each   24 british towns   criteria   selecting   towns   general practices     subjects have been reported elsewhere 17 go    brief   24 towns were chosen   those   populations   50000100000   study towns covered   full range   mortality   cardiovascular disease     major geographic regions were included   social class distribution     general practice population   each town was required     representative     town   initial screening included physical measurements   questionnaire administered     research nurse q1     threelead resting electrocardiogram ecg   average response rate was 78 percent   men were followed   screening   mortality     cardiovascular morbidity through their
+11415952.txt 49 general practices   addition surviving men who still resided   britain were sent an additional selfadministered questionnaire     fifth anniversary   their baseline screening q5     november 1992 q92   paper describes   changes   elicited chest pain symptoms over   5year period   q1   q5     association   chest pain persistence   subsequent ischemic heart disease outcome
+11415952.txt 50 assessment   chest pain   q1   q5
+11415952.txt 51   q1   q5 subjects were classified into one   three chest pain categories according   their response     modified version     who rose chest pain questionnaire 1 go  1   chest pain 2 nonexertional chest pain defined   chest pain   brought     walking   3 angina q defined   chest pain brought   either   walking uphill   hurrying     walking   an ordinary pace     level 2 go  3 go    q notation   used   denote angina symptoms   questionnaire 18 go  two subdivisions   angina q were also used first angina q was classified   definite angina q   four additional criteria were fulfilled   subject stopped   slowed walking   response     pain   pain was relieved   stopping   pain was relieved within 10 minutes     site   pain included   sternum   left anterior chest     possible angina q       than three     four additional criteria were fulfilled second
+11415952.txt 52 angina q was classified   grade   angina q   pain was brought   only   walking uphill   hurrying     grade ii angina q   pain was brought     walking   an ordinary pace     level   chest pain questionnaire details   definitions   missing values coding   shown     appendix
+11415952.txt 53 view   table
+11415952.txt 54 appendix
+11415952.txt 55 top
+11415952.txt 56 abstract
+11415952.txt 57 introduction
+11415952.txt 58 materials   methods
+11415952.txt 59 appendix
+11415952.txt 60 assessment   other
+11415952.txt 61 followup   mortality  
+11415952.txt 62 statistical methods
+11415952.txt 63 results
+11415952.txt 64 discussion
+11415952.txt 65 references
+11415952.txt 66   chest pain questionnaire   definitions   questionnaireassessed angina
+11415952.txt 67 view   table
+11415952.txt 68 view   table
+11415952.txt 69 assessment   other characteristics   q1   q5
+11415952.txt 70 top
+11415952.txt 71 abstract
+11415952.txt 72 introduction
+11415952.txt 73 materials   methods
+11415952.txt 74 appendix
+11415952.txt 75 assessment   other
+11415952.txt 76 followup   mortality  
+11415952.txt 77 statistical methods
+11415952.txt 78 results
+11415952.txt 79 discussion
+11415952.txt 80 references
+11415952.txt 81 other symptoms     nurseadministered questionnaire q1   history   possible myocardial infarction was defined   severe chest pain lasting half an hour       situated     sternum   left anterior chest 18 go      mailed questionnaire q5 possible myocardial infarction was defined     severe pain across   front     chest lasting half an hour     breathlessness was defined   q1 only   using   shortened version     medical research council respiratory questionnaire united kingdom 19 go  calf pain   exertion was also defined   q1 only     shortened version     who intermittent claudication questionnaire 20 go 
+11415952.txt 82 selfreported physician diagnoses   ischemic heart disease   q1   q5 subjects who reported ever having been told     physician     had angina myocardial infarction heart attack coronary thrombosis   either condition were classified   having recall     diagnosis   1 angina 2 myocardial infarction   3 ischemic heart disease 21 go 
+11415952.txt 83 risk factors details   baseline measurement   blood pressure serum total cholesterol body mass index weightheight2 17 go    electrocardiographic abnormalities 22 go  have been reported previously smoking status 17 go    level   physical activity 23 go  were ascertained     baseline questionnaire q1
+11415952.txt 84 followup   mortality   morbidity
+11415952.txt 85 top
+11415952.txt 86 abstract
+11415952.txt 87 introduction
+11415952.txt 88 materials   methods
+11415952.txt 89 appendix
+11415952.txt 90 assessment   other
+11415952.txt 91 followup   mortality  
+11415952.txt 92 statistical methods
+11415952.txt 93 results
+11415952.txt 94 discussion
+11415952.txt 95 references
+11415952.txt 96   established notification tagging procedure     national health service central registers   southport   england   wales   edinburgh   scotland was used   notification   deaths   fatal ischemic heart disease event was recorded     underlying cause given     death certificate was codes 410414     international classification   diseases ninth revision sudden death       other cause was apparent     had been certified   due   ischemic heart disease was included     category information   nonfatal myocardial infarctions angina diagnoses   coronary artery bypass grafts was obtained   biennial reviews   each subjects general practice medical records including hospital correspondence 24 go    nonfatal myocardial infarction was required     associated     least two     following features     time   event occurred 1 severe prolonged chest pain 2 electrocardiographic evidence
+11415952.txt 97   myocardial infarction   3 cardiac enzyme abnormalities   survival     least 28 days 25 go    major ischemic heart disease event was defined     fatal ischemic heart disease event     nonfatal myocardial infarction   guidance given   notification   angina     medical record review was typical effort   stressrelated pain   diagnoses were   required   conform   specific criteria 26 go    december 31 1995 99 percent     7735 men initially examined   19781980 had been followed up   mortality   morbidity   15 years   remaining 1 percent was lost   followup
+11415952.txt 98 statistical methods
+11415952.txt 99 top
+11415952.txt 100 abstract
+11415952.txt 101 introduction
+11415952.txt 102 materials   methods
+11415952.txt 103 appendix
+11415952.txt 104 assessment   other
+11415952.txt 105 followup   mortality  
+11415952.txt 106 statistical methods
+11415952.txt 107 results
+11415952.txt 108 discussion
+11415952.txt 109 references
+11415952.txt 110   association   chest pain   q1   chest pain   q5 was assessed   surviving men who completed both questionnaires   compare   characteristics   prognosis   persistent   variable angina   divided   men into four groups based   their angina q status   q1   q5 cox proportional hazards survival analysis 27 go    adjustment   age     continuous variable was used   assess   effect   angina q persistence     risk     major ischemic heart disease event results were presented   hazard ratios relative risks   95 percent confidence intervals   start   followup     survival analysis was   subjects date   q5     endpoint   interest was   first major ischemic heart disease event occurring after q5     event occurred   followup time was censored   either   date   nonischemic heart disease death     final day   followup december 31 1995 whichever was sooner   average length
+11415952.txt 111   followup   q5   december 1995 was 117 years range 105129 years survival curves were constructed   using   kaplanmeier technique event rates per 1000 per year were age standardized   using direct standardization     overall age distribution   responders   q5 average age 55 years
+11415952.txt 112 results
+11415952.txt 113 top
+11415952.txt 114 abstract
+11415952.txt 115 introduction
+11415952.txt 116 materials   methods
+11415952.txt 117 appendix
+11415952.txt 118 assessment   other
+11415952.txt 119 followup   mortality  
+11415952.txt 120 statistical methods
+11415952.txt 121 results
+11415952.txt 122 discussion
+11415952.txt 123 references
+11415952.txt 124     fifth anniversary   baseline screening 281     original 7735 men had died   26 had emigrated     remaining 7428 men 7275 98 percent responded   q5 chest pain status was missing   1 man   q1     165 men   q5 these men were excluded   analysis
+11415952.txt 125 chest pain   q1   q5
+11415952.txt 126   overall prevalence   angina q was 78 percent 6077734   q1   108 percent 7687110   q5   men     mean age   502   551 years respectively definite angina q accounted   605   577 percent     angina q   q1   q5 respectively   proportion   angina q classified   grade ii increased   157 percent   q1   223 percent   q5   increase   angina prevalence over   5 years was accounted       aging     cohort figure 1 agespecific prevalences   definite angina q   grade ii angina q also were similar between q1   q5
+11415952.txt 127 view larger version 17k
+11415952.txt 128 figure 1 agespecific prevalence   angina q   q1   q5 among middleaged men     british regional heart study great britain angina q exertional chest pain q1 questionnaire completed   subjects   19781980 q5 questionnaire completed   subjects   19831985
+11415952.txt 129 variability   chest pain between q1   q5
+11415952.txt 130 table 1 shows   association between chest pain status   q1   chest pain status   q5     7109 men who completed both questionnaires within persons   was considerable variability   response     chest pain questions over   5year period     men   definite angina q   q1   minority 39 percent also had definite angina q   q5 22 percent had possible angina q   q5     remainder reported nonexertional chest pain 11 percent     chest pain 29 percent   q5     men   possible angina q   q1 22 percent remained     category 5 years later whereas 25 percent had definite angina q 18 percent had nonexertional chest pain   36 percent had   chest pain   q5 when definite   possible angina were combined 55 percent     men   angina q   q1 also had angina q   q5   further 14 percent had nonexertional chest pain   32 percent reported   chest pain     men   grade ii angina q  
+11415952.txt 131 q1 only 37 percent continued   report grade ii angina q   q5 34 percent had grade   angina q   20 percent reported   chest pain table 1 
+11415952.txt 132 view   table
+11415952.txt 133 table 1 association between chest pain status   q1 19781980     q5 19831985   middleaged men using two classifications   chest pain british regional heart study dagger
+11415952.txt 134 association   persistent   variable angina q   other factors
+11415952.txt 135   7109 men who responded   both q1   q5 were divided into four groups those reporting angina q   neither q1 nor q5   q1 only   q5 only     both q1   q5 these four groups were compared   respect   other indicators   ischemic heart disease table 2 severe grade ii angina q definite angina q   history   possible myocardial infarction   subject recall   an angina   ischemic heart disease diagnosis   either q1   q5 showed very marked relations   angina q persistence men   persistently reported angina q had considerably higher prevalences   these characteristics than those men   angina q   one     two occasions only   turn   two groups   men   angina q   only one occasion had   much higher prevalence   these characteristics than men   angina q   neither occasion   similar pattern was found   characteristics measured only   q1 ecg ischemia breathlessness calf pain  
+11415952.txt 136 exertion
+11415952.txt 137 view   table
+11415952.txt 138 table 2 association   angina q   q1 19781980    q5 19831985   other evidence   ischemic heart disease     cardiovascular risk factors among middleaged men     british regional heart study
+11415952.txt 139     men who had persistent angina q almost 70 percent reported   diagnosis   ischemic heart disease compared   only 34 percent     men   angina q   one occasion   3 percent     men without angina q   either occasion twentyeight percent     men   angina q   both q1   q5 had   medical record   angina during   5 years compared   only 5 percent     men   angina q   q1 only table 2 looked       different perspective   vast majority 81 percent     197 men   angina q   recall     diagnosis   ischemic heart disease   q1 continued   report angina q   q5   compared   only 39 percent     323 men   angina q     diagnosis   ischemic heart disease   q1   corresponding percentages   persistence   definite angina q were 53 percent 72135   27 percent 47174     men     without diagnosed ischemic heart disease   q1 who survived   q5 age was also
+11415952.txt 140 strongly associated   angina q persistence   particular among men   angina q   q1   likelihood   persistence   angina q   q5 rose   42 percent   men aged 4045 years   65 percent   men aged 5559 years among   men without diagnosed ischemic heart disease   q1 persistence rates   angina q rose   36   51 percent across   four age groups
+11415952.txt 141   general   were lessmarked differences     baseline levels     primary risk factors between those reporting variable compared   persistent angina q table 2   exception     was reported physical activity   had   strong relation   angina q persistence
+11415952.txt 142   above analyses were based     7109 men who survived   responded   both q1   q5     excluded   281 men who died before   fifth anniversary   their baseline screening     6077734 men   angina q   q1 57 94 percent died before q5 ageadjusted hazard ratio  24 95 percent confidence interval ci 18 32 note   among those 57 men   baseline prevalences   grade ii angina q possible myocardial infarction ischemic heart disease diagnosis ecg ischemia breathlessness   calf pain   exertion were higher than     four groups   table 2   were   levels   cholesterol systolic blood pressure   smoking
+11415952.txt 143 association   persistent   variable angina q   ischemic heart disease outcome
+11415952.txt 144 overall 825     7109 men experienced   major ischemic heart disease event     period   q5 until december 1995   kaplanmeier plot     four angina q categories   shown   figure 2 persistently reported angina q was associated   increased risk compared   angina q present   one occasion only however both     two variable angina q groups had an increased risk compared   those men without angina q   these two groups   men   angina q   q5 only had   considerably worse prognosis     time   q5 onward than those men   angina q   q1 only
+11415952.txt 145 view larger version 18k
+11415952.txt 146 figure 2 proportion   middleaged men free     major ischemic heart disease event   q5   december 1995   angina q status   q1    q5 british regional heart study great britain angina q exertional chest pain q1 questionnaire completed   subjects   19781980 q5 questionnaire completed   subjects   19831985
+11415952.txt 147 ageadjusted major ischemic heart disease event rates   hazard ratios   given   table 3   first set   columns shows   results     whole sample risks   given relative     6105 men without angina q   fact each     four groups differed significantly     other three   respect   subsequent event risk   hazard ratios tended     largest   early followup     attenuate over time although angina q   q1   angina q   q5 were independently predictive   subsequent event risk   was   interaction  e risks were multiplicative   pattern   risk was fairly similar among men   uncomplicated angina q   q5   previous diagnosis   myocardial infarction   among those without   diagnosis   ischemic heart disease   q5 table 3 however   these latter two subgroups risk differences between angina q categories were reduced   prevalence   persistent angina q was low     annual absolute
+11415952.txt 148 risk associated   persistent angina q was just over 2 percent compared     annual risk   36 percent   persistent angina q     men further adjustment   other cardiovascular risk factors smoking status   q5 blood pressure total cholesterol   body mass index   q1 had   material effect     magnitude   hazard ratios shown   table 3
+11415952.txt 149 view   table
+11415952.txt 150 table 3 risk     major ischemic heart disease event   q5 19831985   december 1995 according   angina q   q1    q5   middleaged men     british regional heart study
+11415952.txt 151 table 4 presents   ageadjusted major ischemic heart disease event rates   q5 onward   different combinations   chest pain   q1   q5   top third     table shows   nonexertional chest pain did   differ greatly     chest pain   terms   subsequent event risk   particular persistent nonexertional chest pain present   q1   q5 was   associated   increased risk
+11415952.txt 152 view   table
+11415952.txt 153 table 4 ageadjusted event rates   major ischemic heart disease   q5 dagger 19831985   december 1995   chest pain classification   q1 dagger   q5   middleaged men     british regional heart study
+11415952.txt 154   second third     table shows   effect   combinations   possible angina q   definite angina q   subsequent event risk   chest pain   nonexertional chest pain were grouped together overall event rates were similar   definite   possible angina q   was little indication   persistent definite angina q was associated     higher risk than persistent possible angina q   definite angina q   one occasion   possible angina q     other although standard errors   these event rates were large however men   possible angina q   q1     angina q   q5 had   much lower event rate than those men   definite angina q   q1     angina q   q5   last third     table shows   effect   combinations   angina grade     risk     major ischemic heart disease event grade ii angina q present   either occasion tended   increase risk compared   grade   angina q persistent grade ii angina
+11415952.txt 155 q although present   only 27 men appeared     associated   exceptionally high risk   ageadjusted relative hazard   persistent grade ii angina q compared   persistent grade   angina q was 20 95 percent ci 11 37
+11415952.txt 156 discussion
+11415952.txt 157 top
+11415952.txt 158 abstract
+11415952.txt 159 introduction
+11415952.txt 160 materials   methods
+11415952.txt 161 appendix
+11415952.txt 162 assessment   other
+11415952.txt 163 followup   mortality  
+11415952.txt 164 statistical methods
+11415952.txt 165 results
+11415952.txt 166 discussion
+11415952.txt 167 references
+11415952.txt 168 over   5year period   was considerable variability   chest pain symptoms elicited   questionnaire among middleaged men     general population     men who survived     5 years those   persistent angina q were much   likely than those   variable symptoms   have indicators   severe disease such   evidence   myocardial infarction   physicians diagnosis   ischemic heart disease   an abnormal resting ecg   also were   likely   experience   subsequent major ischemic heart disease event men   angina q   one occasion only had an increased prevalence   other characteristics   ischemic heart disease   an increased subsequent event risk compared   men without angina q   either occasion
+11415952.txt 169 variability   angina
+11415952.txt 170 variability over time   repeated response     who rose chest pain questionnaire has been reported   several studies 7 go go go 10 go    main difficulty   interpretation   determining how much     variability   due   measurement error error   ascertainment   reporting   symptoms   how much   due   true changes   symptom status furthermore     variability does reflect true changes   symptom status how much   attributable   genuine changes   ischemic pain ours   clearly     repeatability study because   was   5year interval between q1   q5 during   time new cases   angina would   expected   addition q1 was administered     research nurse whereas q5 was selfadministered when   examined   association between chest pain   q5 19831985   chest pain elicited     subsequent selfadministered questionnaire sent   survivors   november 1992 q92   found   changes   angina q status
+11415952.txt 171 between these two occasions 8 years apart     somewhat lower   percentages   men converting   positive angina q   q5   negative   q92 were 47 percent   definite angina q   37 percent     angina q these percentages compared   corresponding conversion rates   61   45 percent   q1   q5   59   50 percent   q1   q92 however men were younger   q1   also may have contributed     greater variability studies   yearly intervals between repeat administrations have found variability     similar magnitude   4060 percent   who rose anginapositive men converting   angina negative   year later 7 go  8 go  10 go    their repeatability study lipid research study investigators performed   majority   repeated interviews     same day   found much higher estimates   consistency than   an annual study their results were presented   kappa statistics     values     standard rose
+11415952.txt 172 classification   men were approximately 07 9 go    suggests     rose questionnaire     an inherently unreliable instrument
+11415952.txt 173   fact   apparent remission   symptoms also has been documented     significant proportion   patients   studies   used   stringent clinical definitions   angina 11 go go go go go 16 go  also suggests   symptom variability     simply   feature   response     chest pain questionnaire   men   new uncomplicated angina defined     structured clinical assessment   two cardiologists   framingham massachusetts up   one third had   remission   symptoms     least 2 years duration 11 go  12 go  furthermore   both   study     atherosclerosis risk   communities aric study 10 go  discordant answers     latter questions     who questionnaire   deal   specific characteristics   exertional chest pain did   fully explain   variability because   majority     subjects who moved   definite angina q positive   negative reported either   chest pain   nonexertional chest pain    
+11415952.txt 174 secondoccasion
+11415952.txt 175 angina persistence   prognosis
+11415952.txt 176 previous studies have found   strong association   persistence   angina   previous   interim myocardial infarction 9 go  10 go  ecg abnormality 7 go    use   chest pain medications 9 go  10 go  although   association   carotid wall thickness   ultrasound was     marked 10 go    have demonstrated   strong association between angina q persistence   subsequent longterm major event risk  relation suggested   clinical angina     framingham study 11 go  although   was   clear pattern   increasing risk according   whether angina q was present     one   two occasions men   angina q   q5 only had   worse prognosis     time   q5 than those   angina q   q1 only   former group most likely included   substantial proportion   men who had new angina   q5 rather than variable symptoms unlike   two groups   angina q   q1 these men were   required   have survived   5 years
+11415952.txt 177   angina q   order     included     analysis     had   high risk     time   q5 onward particularly     short term figure 2   previously noted     relative risk associated   angina q falls substantially   increasing length   followup     original assessment 28 go    attenuation   relative risk over time   likely   reflect   variability   angina q during followup
+11415952.txt 178   particular interest     marked contrast   prognosis between men   angina q   both q1   q5   men   angina q   q1 only     represents   comparison   persistent versus seemingly transient angina   was   twofold difference   subsequent event risk between these two groups
+11415952.txt 179 remission   angina symptoms
+11415952.txt 180   true angina remission     contributory factor   conversion   positive   negative angina status       mechanisms       conversion could occur development   collateral circulation   ischemic areas has been postulated   has   occurrence   an interim myocardial infarction destroying   ischemic area   thus alleviating pain   common   other studies 10 go go 12 go    found   evidence     latter theory   interim infarction was   likely   men   persistent angina than   those   remission   symptoms another possible explanation     reduction   oxygen demand       subject avoids exertion     level   would cause pain     case physical inactivity would   expected     associated   reported symptom remission     study   opposite relation was found table 2 effective treatment may contribute   apparent symptom remission however   those men   angina q   q1 rates  
+11415952.txt 181 antihypertensive lipidlowering   analgesic medication use   included nitrates   coded separately   q1 were higher   those   persistent angina q than   those who   longer reported angina q   q5 even     subgroup   men   angina q   recall     diagnosis   ischemic heart disease   q1   was evidence   only   possible influence   coronary artery bypass graft   symptom remission   q5medical treatments physical inactivity   interim infarction showed   association   reported angina q remission inadequate control   disease severity     primary difficulty   assessing   association   factors such   physical inactivity   treatment   remission   symptoms   an epidemiologic study     study rather than these factors being predictive   symptom remission   tended     associated   symptom persistence suggesting     unselected middleaged men     population who survive  
+11415952.txt 182 repeated assessments angina q persistence   primarily   marker   disease severity       likelihood   genuine disease
+11415952.txt 183   rate   apparent remission   angina q   q1   q5 was highest   younger men   was particularly high   men without   diagnosis   ischemic heart disease   q1 61 percent     363 men   angina q     diagnosis   q1 6 percent died before q5 34 percent survived   had persistent angina q   55 percent survived   did   have angina q   q5   remaining 5 percent were nonresponders     absence   an adequate gold standard   angina     impossible   estimate   proportion   these surviving men   transient angina q     diagnosis   q1 had genuine ischemic pain very few   them 3 percent acquired an angina diagnosis   q1   q5     was only   small moderate increase   their subsequent major event risk   was   borderline statistical significance suggesting     different cause   pain was possible     significant proportion
+11415952.txt 184   marked association between   primary cardiovascular risk factors   symptom persistence was   found       other studies 10 go  11 go      men   angina q   q1 who survived   q5 levels   total cholesterol blood pressure body mass index   smoking were marginally     significantly higher among   285 men whose angina q persisted   q5 compared     236 men without angina q   q5 table 2
+11415952.txt 185 comparison   variability over time   other questionnaireassessed measures
+11415952.txt 186   chest pain questionnaire used     study was phrased   ask about current symptoms     ever have any pain   discomfort     chest     interesting   compare   variability apparent   subsequent administrations     chest pain questionnaire         answers   other questions   should     answered correctly change   positive   one occasion   negative     subsequent occasion   subject recall   ever having had   physician diagnosis   angina   percentage   men positive   one occasion who also were positive     subsequent occasion was high 78 percent   q1   q5 90 percent   q5   q92   81 percent   q1   q92   comparable figures     physician diagnosis   heart attack were 82 87   86 percent
+11415952.txt 187 however     history   possible myocardial infarction also attempting   assess   occurrence     previous event have   ever had   severe pain     chest  consistency   reporting was very poor     men reporting possible myocardial infarction   q1 only 440 percent again reported     q5   313 percent   q92 although   question regarding possible myocardial infarction   q1 was slightly different       q5   q92 consistency   reporting   q5   q92   identical selfadministered questionnaires was   much better 470 percent   low consistency   positive reporting     history   possible myocardial infarction also was found     norwegian study 8 go  one possible explanation     regardless     phrasing   symptom questions   may   interpreted   asking about current   recent symptoms   about symptoms since   previous questionnaire alternatively   persons perception   previous symptoms
+11415952.txt 188 may change considerably over time   was interesting     relation between persistence   possible myocardial infarction symptoms   subsequent occurrence     new major event was almost identical       angina q compared   men without possible myocardial infarction   q1   q5   hazard ratios were 17 95 percent ci 13 22   possible myocardial infarction   q1 only 27 95 percent ci 22 34   possible myocardial infarction   q5 only   35 95 percent ci 28 43   possible myocardial infarction reported   both occasions
+11415952.txt 189 conclusions
+11415952.txt 190 rose argued     variability associated   angina symptoms leads     gross underestimation   prevalence when   single assessment   used 7 go    have suggested   use     standard who rose definition   angina may itself underestimate symptom prevalence 2 go  3 go  estimates   angina prevalence   incidence     dependent     definition     exact method   measurement such     use   repeated assessments   twostage procedures   ascertain cases these factors emphasize   difficulty   quantifying undiagnosed angina   populations     estimating its burden     community however questionnaire measures   angina based   chest pain   important indicators   major coronary risk     likely     reflect current symptoms   lifelong disease history     other variable measurements repeated assessments over time   valuable compared   transient symptoms persistently reported chest pain  
+11415952.txt 191 exertion indicates   considerably increased likelihood   genuine   significant ischemic heart disease
+11415952.txt 192 acknowledgments
+11415952.txt 193   british regional heart study     british heart foundation research group   also receives support     united kingdom department   health fiona lampes research was supported     united kingdom department   health
+11415952.txt 194 notes
+11415952.txt 195 correspondence   fiona c lampe department   primary care   population sciences royal free   university college medical school royal free campus rowland hill street london nw3 2pf united kingdom email flampe pcpsuclacuk
+11415952.txt 196 references
+11415952.txt 197 top
+11415952.txt 198 abstract
+11415952.txt 199 introduction
+11415952.txt 200 materials   methods
+11415952.txt 201 appendix
+11415952.txt 202 assessment   other
+11415952.txt 203 followup   mortality  
+11415952.txt 204 statistical methods
+11415952.txt 205 results
+11415952.txt 206 discussion
+11415952.txt 207 references
+11415952.txt 208 1 rose ga   diagnosis   ischaemic heart pain   intermittent claudication   field surveys bull world health organ 19622764558isimedline
+11415952.txt 209 2 cook dg shaper ag macfarlane pw using   who rose angina questionnaire   cardiovascular epidemiology int j epidemiol 19891860713abstract
+11415952.txt 210 3 lampe fc whincup ph wannamethee sg et al chest pain   questionnaire   prediction   major ischaemic heart disease events   men eur heart j 1998196373abstractfree full text
+11415952.txt 211 4 lacroix az guralnik jm curb jd et al chest pain   coronary heart disease mortality among older men   women   three communities circulation 19908143746abstract
+11415952.txt 212 5 hart cl watt gcm davey smith g et al preexisting ischaemic heart disease   ischaemic heart disease mortality   women compared   men int j epidemiol 19972650815abstract
+11415952.txt 213 6 payne n saul c variations   use   cardiology services     health authoritycomparison   coronary artery revascularisation rates   prevalence   angina   coronary mortality bmj 199731425761abstractfree full text
+11415952.txt 214 7 rose g variability   angina some implications   epidemiology br j prev soc med 1968221215isimedline
+11415952.txt 215 8 zeinerhenriksen     repeatability   interview   symptoms   angina   possible infarction j chronic dis 19722540714isimedline
+11415952.txt 216 9 harris rb weissfeld la gender differences     reliability   reporting symptoms   angina pectoris j clin epidemiol 19914410718isimedline
+11415952.txt 217 10 sorlie pd cooper l schreiner pj et al repeatability   validity     rose questionnaire   angina pectoris     atherosclerosis risk   communities study j clin epidemiol 19964971925isimedline
+11415952.txt 218 11 kannel wb sorlie pd remission   clinical angina pectoris  framingham study am j cardiol 19784211923isimedline
+11415952.txt 219 12 murabito jm anderson km kannel wb et al risk   coronary heart disease   subjects   chest discomfort  framingham heart study am j med 199089297302isimedline
+11415952.txt 220 13 duncan b fulton m morrison sl et al prognosis   new   worsening angina pectoris br med j 197619815isimedline
+11415952.txt 221 14 fry j   natural history   angina     general practice j r coll gen pract 1976266436medline
+11415952.txt 222 15 rosengren   hagman m pennert k et al clinical course   symptomatology   angina pectoris     population study acta med scand 198622011726isimedline
+11415952.txt 223 16 gandhi mm lampe fc wood da incidence clinical characteristics   shortterm prognosis   angina pectoris br heart j 1995731938abstract
+11415952.txt 224 17 shaper ag pocock sj walker m et al british regional heart studycardiovascular risk factors   middleaged men   24 towns bmj 198128317986isimedline
+11415952.txt 225 18 shaper ag cook dg walker m et al prevalence   ischaemic heart disease   middle aged british men br heart j 198451595605abstract
+11415952.txt 226 19 cook dg shaper ag breathlessness lung function   risk   heart attack eur heart j 19889121522abstract
+11415952.txt 227 20 shaper ag wannamethee g walker m calf pain   walking risk factors   cardiovascular outcome   middleaged british men  fowkes fgr ed epidemiology   peripheral vascular disease london united kingdom springer 199112735
+11415952.txt 228 21 shaper ag cook dg walker m et al recall   diagnosis   men   ischaemic heart disease br heart j 19845160611abstract
+11415952.txt 229 22 whincup ph wannamethee g macfarlane pw et al resting electrocardiogram   risk   coronary heart disease   middleaged british men j cardiovasc risk 1995253343medline
+11415952.txt 230 23 shaper ag wannamethee g physical activity   ischaemic heart disease   middleaged british men br heart j 19916638494abstract
+11415952.txt 231 24 walker m shaper ag lennon l et al twenty year followup     cohort based   general practices   24 british towns j public health med 20002247985abstractfree full text
+11415952.txt 232 25 world health organization proposal     multinational monitoring   trends   determinants   cardiovascular disease monica project   protocol geneva switzerlandcardiovascular diseases unit world health organization 1983
+11415952.txt 233 26 lampe fc walker m lennon lt et al validity     selfreported history   doctordiagnosed angina j clin epidemiol 1999527381isimedline
+11415952.txt 234 27 collett   modelling survival data   medical research london united kingdom chapman  hall 1995
+11415952.txt 235 28 lampe fc whincup ph wannamethee sg et al   natural history   prevalent ischaemic heart disease   middleaged men eur heart j 200021105262abstractfree full text
+11415952.txt 236 received   publication march 22 1999 accepted   publication october 20 2000
+11415952.txt 237 
