@@ -6,9 +6,9 @@ HDP_PREFIX=""
 INPUT_DIR_PATH=""
 OUTPUT_DIR_PATH=""
 HDFS_IN_DIR=""
-HDFS_IN_DIR_DEF="/user/$USRNAME/input"
+HDFS_IN_DIR_DEF="/home/$USRNAME/input"
 HDFS_OUT_DIR=""
-HDFS_OUT_DIR_DEF="/user/$USRNAME/output"
+HDFS_OUT_DIR_DEF="/home/$USRNAME/output"
 
 # do_mapred.sh Usage
 usage()
@@ -140,12 +140,12 @@ echo -e "\nCopying preprocessed input files into HDFS\n"
 
 CLEAN_FILES="$(ls $CLEAN_DIR_PATH)"
 
-for f in $CLEAN_FILES ; do
-  if [[ $($HDP_CALL fs -test -e $HDFS_IN_DIR/$f) -eq 0 ]] ; then 
-    $HDP_CALL fs -rm $HDFS_IN_DIR/$f
-  fi
-  $HDP_CALL fs -copyFromLocal $CLEAN_DIR_PATH/$f $HDFS_IN_DIR/$f
-done
+#for f in $CLEAN_FILES ; do
+#  if [[ $($HDP_CALL fs -test -e $HDFS_IN_DIR/$f) -eq 0 ]] ; then 
+#    $HDP_CALL fs -rm $HDFS_IN_DIR/$f
+#  fi
+#  $HDP_CALL fs -copyFromLocal $CLEAN_DIR_PATH/$f $HDFS_IN_DIR/$f
+#done
 
 
 # Check that the output dir in HDFS exists
