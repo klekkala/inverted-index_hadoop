@@ -22,13 +22,14 @@ fileContent = fileContent.split( '\n' )
 
 words = { }
 
+
 for line in fileContent:
   if not line:
     continue
   # http://stackoverflow.com/questions/11026959/python-writing-dict-to-txt-file-and-reading-dict-from-txt-file
   word = ast.literal_eval( line )
   words.update( word )
-
+print len(words)
 
 print "Type \":q\" to quit."
 
